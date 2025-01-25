@@ -20,16 +20,21 @@
 
 
 
-*This is personal playlist, taken from many channel sources* Don't sell this playlist, OK!!!
- (●) Service: Freemium & Premium
- (●) Total Channels: Null
+*This is personal playlist, taken from many channel sources* 
+
+
+Don't sell this playlist, OK!!!
 
 
 
 
 
 
-FREE IPTV PLAYLIST & VIDEO ON DEMAND FROM MANY SOURCE.
+💯 FREE IPTV PLAYLIST & VIDEO ON DEMAND FROM MANY SOURCE.
+
+
+IF CHANNELS ARE UNSTABLE, WE WILL BE REMOVE IT AND REPLACE BY ANOTHER SOURCE.
+
 
 
 
@@ -38,4 +43,30 @@ FREE IPTV PLAYLIST & VIDEO ON DEMAND FROM MANY SOURCE.
 
 
 THIS IPTV PLAYLIST CAN USED IN MANY DEVICES SUCH AS ANDROID DEVICES.
+
+
+
+
+
+
+
+
+
 USE IN IPTV PLAYER SUCH AS OTT NAVIGATOR, TIVIMATE, IPTV PLAYER AND SO ON.
+
+
+
+
+
+
+
+
+
+WE PROVIDE THEIR SERVICE AS ABOVE :
+
+
+
+
+
+(●) Service: Freemium & Premium
+(●) Total Channels: Null
