@@ -1,0 +1,186 @@
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2dc203992cfcf146bd06b701c043010:ca42d62fda79a0a0e324bc8d4bb57376
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GDTGA_IVP_LAND_288x162_1D726_20241130_20530.jpg" group-title="CNY MOVIES AOTG", CZ12
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e823fce6-66f6-525f-a8ee-cf3a143a1ac2/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60aa5bf0354f7d7108a12d5a84c86610:555609e42bb70dbbb9133f8b39a5daca
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GVDPR_IVP_LAND_672x378_818E8_2025110_12348.jpg" group-title="CNY MOVIES AOTG", Fat Choi Spirit
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/3d6ef900-cb1d-56e1-9f91-b19f828c2703/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac375e9b90061679bb087cb2c55a6610:f34c317a089771134eadd446e7434d6a
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMZBF_IVP_LAND_288x162_7971C_2024930_152220.jpg" group-title="CNY MOVIES AOTG", Ip Man 3
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/69885404-b20d-5bd4-a48b-765bfd1ec470/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1f68063a1cfd257dd8acc84cfafef10:f7f228d9d6a0185aacdf40efa34e5f29
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPYKE_IVP_LAND_288x162_814C1_202516_22262.jpg" group-title="CNY MOVIES AOTG", It's A Wonderful Life
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/bc489e7e-118f-5760-a083-3b14b76463a0/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60424770f11f5337f59efa9a88497e10:4e4c91cca2c1c74b687ad7c4b5f735a1
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMMON_IVP_LAND_288x162_202487_193755.jpg" group-title="CNY MOVIES AOTG", July Rhapsody
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/af5c79b9-aeab-5cf4-976a-0c4b81800ff6/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eee618861b08ae054cb7df1ed99abd10:f924e494636ea4d463f349c6f49a3498
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFMKM_IVP_LAND_288x162_665BA_20241119_82028.jpg" group-title="CNY MOVIES AOTG", King of Mahjong
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2845077c-bb81-55be-a207-e064643ff56d/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba60a9d31358af6d14efb3dd86563a10:b2a9ab5f7ca3dbe17000d40e639262ff
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPYKF_IVP_LAND_432x243_81AF6_2025116_16540.jpg" group-title="CNY MOVIES AOTG", Kung Fu Mahjong 2
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/35c8b74b-e4dc-5001-8b0f-dfc139b98f95/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bbf0f8d5bce7499c0da37f8541beb10:2e51c70963f4ff59a143c8c5148fed03
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IWEMV_IVP_LAND_432x243_33572_20241230_111439.jpg" group-title="CNY MOVIES AOTG", Kung Fu Panda
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e0ed32fb-356f-55e3-8fd0-8849e256d461/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c93bfaada49343f3ef5083c01f791310:268dd24ca7187c773d0f74b96466f6b3
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IXCYI_IVP_LAND_288x162_33CDD_202512_0508.jpg" group-title="CNY MOVIES AOTG", Kung Fu Panda 2
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/ffaed68b-9c2b-517d-bfce-a7bae11e3aa5/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=233b91d17b8232d13b484030e906ac10:ea3f57993d896e5180a0d5b604fed603
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLCNM_IVP_LAND_672x378_202472_20443.jpg" group-title="CNY MOVIES AOTG", Love for All Seasons
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b4a40d29-b1f2-5f0f-92b5-a6633168fdf4/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f843a97fe776064fa2087b37f50ae10:c42194736840fe6a4e385ed7e6cf2f15
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HISBH_IVP_LAND_288x162_202488_20462.jpg" group-title="CNY MOVIES AOTG", Lucky Star 2015
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7d7d9635-1891-5762-9d1c-b3a4ede24a8a/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1da6df211ef2e0db7a508363512e5610:53b8ff8203f2ba1fc58c3d011020c331
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMUFL_IVP_LAND_288x162_78789_20241130_1054.jpg" group-title="CNY MOVIES AOTG", My Wife Is A Gambling Maestro
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/9313e784-2fc8-5ee8-87d4-ff17754522e7/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7253900b243d07e2bf6c0ed8a1be610:fee01cc66fc9b77399cb90838305328c
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KCWRV_IVP_LAND_432x243_62064_20241029_225416.jpg" group-title="CNY MOVIES AOTG", New Kung Fu Cult Master 2
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/cb7f98b4-81fc-5830-ac45-d8e73d32e005/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=24f4d27321ac245e93b092f511883d10:399390d298f98af4ab93fd85ce449b5a
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FMYKM_IVP_LAND_672x378_5C46C_2024104_11466.jpg" group-title="CNY MOVIES AOTG", New Police Story
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b9d2344a-ecb0-50f7-a1f9-e7bcd0707eb7/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f94ed6383cc59f6b0d9de25fe64cf410:a2e81b917afd246886e194af2cae0af5
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KBIUO_IVP_LAND_288x162_5E366_2025122_184036.jpg" group-title="CNY MOVIES AOTG", Reunion Dinner
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/bf6e70df-3e8b-5f0a-bec1-7669d28ce692/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51fd3c6456b6aa42a4b89d8b96f15c10:9d2cb97308fbcf63e8301d227861b492
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KJMGL_IVP_LAND_672x378_71F85_2025111_0726.jpg" group-title="CNY MOVIES AOTG", Ride On
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/ed7ea61c-e3db-55c2-a001-8a76573c9c94/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=424af54fec02f5555386c75bacbb9810:c52ea4caedd70d472ef572ff92e89de5
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTPJB_p_IVP_PORT_390x585_4DAA9_2025111_01139.jpg" group-title="CNY MOVIES AOTG", Shock Wave 2
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e5b2db50-c0ac-54be-8985-6e2cd0e3c644/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbf72835cbc8e34228204b65369db310:9efcfd6fe34ed43fe4f8dd9f9bff531b
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNTLR_p_IVP_PORT_390x585_7BCA4_20241029_225419.jpg" group-title="CNY MOVIES AOTG", The Bride With White Hair
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/665553cd-0105-5adc-9ad1-ccac7cb80169/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38a9a9beaa78ba9b495887ba6e84a810:a4fcad36bbeadbdea36355b46d9d1635
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNTNC_p_IVP_PORT_390x585_7BCA6_20241029_225435.jpg" group-title="CNY MOVIES AOTG", The Bride With White Hair II
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e656cdea-9e41-5b4f-9932-9bd6ad838e25/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2d6df6b7f66708751851f2c9df90610:427648796e3bb74c26fd3674f686f64d
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPYKB_IVP_LAND_288x162_814C0_202513_92712.jpg" group-title="CNY MOVIES AOTG", The Chinese Feast
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/61b7b33f-ecc0-5a22-bb93-aea6fc5ab031/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c1a40ae826a2af938d22476db77fd10:2d4a2716039aafd12aaaa0ea965406c6
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HCFKZ_IVP_LAND_171x96_73F7E_2024106_1329.jpg" group-title="CNY MOVIES AOTG", The Journey
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/11cfd17d-c122-53f5-9826-9927cbd4948e/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f80cf6fc0360b8214528556d4b2e610:b4ed93521a9105537cfde9eb6f1263dc
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GUUKY_p_IVP_PORT_258x387_2024828_163130.jpg" group-title="CNY MOVIES AOTG", The Monkey King
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/126ab469-d5ff-5bce-bb20-9d34df46515d/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b5d65e224fe52c3b88e8d41000c3c10:cb62badbeae094b95ca061f94f8a67e9
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HUSXN_IVP_LAND_672x378_168BD_2024924_14752.jpg" group-title="CNY MOVIES AOTG", The Monkey King 2
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/fc9fd8f8-966d-5014-a83c-b47272f327ae/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1d42f16a0c597df930d92476cac9c10:2cf973ed794e62a5633541c1671488ed
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMZBP_IVP_LAND_672x378_798DB_2024930_152325.jpg" group-title="CNY MOVIES AOTG", The Monkey King 3
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/56c2aeb8-3f8d-52e7-b11a-cad31b40f111/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=579ba60724ed86d9bff94780bd164110:df2919abd9f35642474715d9999acfe5
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JSZDF_IVP_LAND_672x378_4C3F7_2025123_22044.jpg" group-title="CNY MOVIES AOTG", The Rescue
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/a8ac3b2b-7ed4-5a21-aa28-77738b43d874/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=686d58080a92696316fe5f02b07e9d10:4b8213d18284875bc1b1394bd138eea9
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JBGPB_series_IVP_LAND_171x96_3A131_2024313_161212.jpg" group-title="CNY MOVIES AOTG", Wish You Hua Hee
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/216844ea-ff73-5886-a40f-c0de1f6ec9f0/default_primary.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ea27413fed6d11ae3d93a2cad372110:7a6893cf10ce2430569c2eb19c0e32ea
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IVP_IJCAQ_P_IVP_PORT_390x585_202472_20450.jpg" group-title="CNY MOVIES AOTG", Wu Kong
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/125de37c-2b9d-59d4-8653-7e7fcbf48d5d/default_primary.mpd
