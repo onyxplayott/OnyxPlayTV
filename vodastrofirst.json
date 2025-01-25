@@ -1,0 +1,39 @@
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2813bed5-d159-50c9-9cc7-7668f24295b5/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "33cf4c54194b60161c6a12c617c12e10:6f7dfa2e800403a4527e26463c4b705a"
+ }, 
+{        
+  "name": "Gladiator 2", 
+  "category": "New Release on Astro First",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNmJlZGIzMjEtZWE0NS00NTAxLWIyNGItNjYzYzhjMmI3ZWVmXkEyXkFqcGc@._V1_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNmJlZGIzMjEtZWE0NS00NTAxLWIyNGItNjYzYzhjMmI3ZWVmXkEyXkFqcGc@._V1_.jpg", 
+           "plot": "Enam belas tahun selepas kematian Marcus Aurelius, Rom diperintah oleh maharaja kembar korup Geta dan Caracalla. Di kerajaan Numidia di Afrika Utara, pelarian Hanno tinggal bersama isterinya Arishat. Tentera Rom yang diketuai oleh Jeneral Acacius menyerang dan menakluki kerajaan itu, membunuh Arishat dan memperhambakan Hanno dan mangsa yang terselamat.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BNmJlZGIzMjEtZWE0NS00NTAxLWIyNGItNjYzYzhjMmI3ZWVmXkEyXkFqcGc@._V1_.jpg", 
+           "director": ["Ridley Scott"], 
+           "cast": ["Paul Mescal, Pedro Pascal, Daniel Washington, Joseph Quinn"],
+           "trailer": "",
+           "year": "2024"
+           }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/457aaea8-77c9-5ba7-9267-2e32cbad880b/default_dash.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "1fcc68b62f23d5494766810f0d9d3510:05bdb9cbf972adcb0dedc8a7075cde7e"
+ }, 
+{        
+  "name": "Don Dukun", 
+  "category": "New Release on Astro First",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BNGZkMmQ4ZTctYWQ2OS00YzUzLTljMWUtNzBjNzgyNTkzOGM1XkEyXkFqcGc@._V1_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNGZkMmQ4ZTctYWQ2OS00YzUzLTljMWUtNzBjNzgyNTkzOGM1XkEyXkFqcGc@._V1_.jpg", 
+           "plot": "Mengisahkan tentang Don Arif yang merupakan bomoh luar biasa dan berasal daripada keturunan bomoh terkenal. Sebagai 'pempengaruh' media sosial, dia sering memikirkan cara baru untuk meraih populariti. Dengan bantuan Jaafar, penolong kanannya, mereka berjaya ‘menyembuhkan’ seorang wanita yang dirasuk semasa Konvensyen Bomoh sedang berlaku.", 
+           "backdrop": "https://fariz.my/wp-content/uploads/2024/11/Don-Dukun-Info-Dan-Sinopsis-Filem.webp", 
+           "director": ["Wan Hafiz"], 
+           "cast": ["Zul Ariffin, Ropie, Dato Yusof Haslam, Marsha Milan"],
+           "trailer": "",
+           "year": "2024"
+           }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/6169e144-8a0f-5070-a240-0d5bd5772a77/default_dash.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "7223285d0f7d9c8118ae5a7b89bd6910:782a509f590e25c1cf59b83f64f5539d"
+ }, 
+
