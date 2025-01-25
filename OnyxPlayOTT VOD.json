@@ -29,8 +29,7 @@
            "trailer": "",
            "year": "2022"
            }, 
-           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/9cd02f16-f4f0-5c55-8bb2-1b9eb9789305/default_primary.mpd
-", 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/9cd02f16-f4f0-5c55-8bb2-1b9eb9789305/default_primary.mpd",
            "drm": "clearkey", 
            "drmkey": "5565c3084a4370d4f6d4bb25c0d3eb10:bf8717a617d32735a99e1d94ec853f68"
  }, 
