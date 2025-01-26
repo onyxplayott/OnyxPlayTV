@@ -20,10 +20,15 @@
 
 
 
+# INTRODUCTION ONYXPLAYOTT #
+
+
+
 *This is personal playlist, taken from many channel sources* 
 
 
-Don't sell this playlist, OK!!!
+
+Don't sell or buy my playlist from unknown 3rd party from other sources without my permission 😡😡
 
 
 
