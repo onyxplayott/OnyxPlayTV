@@ -152,3 +152,71 @@
            "drm": "clearkey", 
            "drmkey": "7223285d0f7d9c8118ae5a7b89bd6910:782a509f590e25c1cf59b83f64f5539d"
  }, 
+{        
+  "name": "Ip Man 3 (葉問3)", 
+  "category": "Chinese Movies",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzc0MjgwN15BMl5BanBnXkFtZTgwMzY3Nzk1NzE@._V1_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMTkxNzc0MjgwN15BMl5BanBnXkFtZTgwMzY3Nzk1NzE@._V1_.jpg", 
+           "plot": "Pada tahun 1959, Ip Man menjalani kehidupan berprofil rendah di Hong Kong. Anak sulungnya, Ip Chun, telah kembali ke Foshan untuk belajar, meninggalkan Ip dengan anak lelakinya, Ip Ching, dan isterinya, Cheung Wing-sing, di Hong Kong. Bruce Lee melawat Ip dan meminta untuk menjadi salah seorang pelajarnya. Selepas Lee menunjukkan kelajuannya, Ip tidak menerima atau menolaknya, tetapi menyindir agar dia pergi dengan membuka pintu.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BMTkxNzc0MjgwN15BMl5BanBnXkFtZTgwMzY3Nzk1NzE@._V1_.jpg", 
+           "director": ["Wilson Yip"], 
+           "cast": ["Donnie Yen, Mike Tyson, Lynn Hung"],
+           "trailer": "",
+           "year": "2015"
+           }, 
+           "video": "https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/69885404-b20d-5bd4-a48b-765bfd1ec470/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "ac375e9b90061679bb087cb2c55a6610:f34c317a089771134eadd446e7434d6a"
+ }, 
+ {        
+  "name": "Shock Wave 2 (拆彈專家2)", 
+  "category": "Chinese Movies",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMzBjY2Q2MmMtYTY3OS00ZGUzLWE4ZTctYmVjMjM1OTM1MTExXkEyXkFqcGc@._V1_.jpg", 
+           "bg": "https://i0.wp.com/action-flix.com/wp-content/uploads/2020/12/img_4695.jpg?resize=1024%2C1500&ssl=1", 
+           "plot": "Di Hong Kong, sebuah organisasi pengganas misteri, Vendetta, yang dikendalikan oleh Ma Sai-Kwan (nama kod Maverick) dan individu misteri yang dikenali sebagai Blizzard, mengebom Biro Pendidikan di rantau ini, menjadikannya pusat perhatian polis. Poon Sing-fung, rakan Ma dan bekas pegawai pelupusan bahan letupan polis Hong Kong yang kehilangan kakinya akibat bahan letupan yang diabaikan dalam misi menyelamat lima tahun lalu, dinafikan kerjayanya oleh atasannya kerana takut merosakkan reputasi polis kerana menggaji orang cacat. Marah dengan pengkhianatan mereka yang terang-terangan, dia menyertai Vendetta.", 
+           "backdrop": "https://i0.wp.com/action-flix.com/wp-content/uploads/2020/12/img_4695.jpg?resize=1024%2C1500&ssl=1", 
+           "director": ["Herman Yau"], 
+           "cast": ["Andy Lau, Sean Lau, Ni Ni"],
+           "trailer": "",
+           "year": "2020"
+           }, 
+           "video": "https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e5b2db50-c0ac-54be-8985-6e2cd0e3c644/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "424af54fec02f5555386c75bacbb9810:c52ea4caedd70d472ef572ff92e89de5"
+ }, 
+ {        
+  "name": "Ride On (龍馬精神)", 
+  "category": "Chinese Movies",
+  "info": { 
+           "poster": "https://upload.wikimedia.org/wikipedia/en/7/71/Ride_On_2023.png", 
+           "bg": "https://upload.wikimedia.org/wikipedia/en/7/71/Ride_On_2023.png", 
+           "plot": "Lao Luo adalah seorang pelakon aksi yang produktif yang bekerja dengan Red Hare, kuda aksi cacat semasa kelahirannya yang dia selamatkan dari euthanasia. Kehidupannya hancur - dia mengalami kecederaan serius yang menyebabkan dia muflis 8 tahun yang lalu dan kehilangan hak penjagaan anak perempuannya, Xiao Bao, selepas menceraikan mendiang isterinya ketika dia masih muda. Suatu malam, Lao dan Red Hare bertengkar dengan pemungut hutang dan mereka segera mengetahui Red Hare berisiko dilelang selepas syarikat asal mereka muflis. Lao meminta bantuan undang-undang dari Bao, kini seorang pelajar universiti yang belajar undang-undang, dan walaupun enggan pada mulanya, dia menawarkan perkhidmatan teman lelakinya, Naihua.", 
+           "backdrop": "https://upload.wikimedia.org/wikipedia/en/7/71/Ride_On_2023.png", 
+           "director": ["Larry Yang"], 
+           "cast": ["Jackie Chan, Kevin Guo, Liu Haochun"],
+           "trailer": "",
+           "year": "2023"
+           }, 
+           "video": "https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/ed7ea61c-e3db-55c2-a001-8a76573c9c94/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "51fd3c6456b6aa42a4b89d8b96f15c10:9d2cb97308fbcf63e8301d227861b492"
+ }, 
+ {        
+  "name": "", 
+  "category": "",
+  "info": { 
+           "poster": "", 
+           "bg": "", 
+           "plot": "", 
+           "backdrop": "", 
+           "director": [""], 
+           "cast": [""],
+           "trailer": "",
+           "year": ""
+           }, 
+           "video": "", 
+           "drm": "clearkey", 
+           "drmkey": ""
+ }, 
