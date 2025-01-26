@@ -227,14 +227,6 @@ https://super-cdn.link/espn4/index.m3u8
 https://super-cdn.link/espn5/index.m3u8
 #EXTINF:-1 tvg-id="ESPN6Brasil" group-title="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN 6 Brasil 
 https://super-cdn.link/espn6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-neme="ESPN" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/xs7-c-u-j2d-j-h-r-i6s-zgr7-dyp-n-s-a-mn-z7-kpq-hf6y-wwvx-i.png" group-title="ESPN Premium", ESPN 1 USA
-https://iptv.vip-tptv.xyz/beesport.php?id=ESPN_Live_TV
-#EXTINF:-1 tvg-id="" tvg-neme="ESPN 2" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/512px--e-s-p-n2_logo.svg.png" group-title="ESPN Premium", ESPN 2 USA
-https://iptv.vip-tptv.xyz/beesport.php?id=ESPN_2_Live_TV
-#EXTINF:-1 tvg-id="" tvg-neme="ESPN News" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/2-g-ojo-g33-ls-wv-cf3-j-a-h-z-ojpp3y4-q4-fuj-c-p-r-oi-r-m4o.png" group-title="ESPN Premium", ESPN NEWS USA
-https://iptv.vip-tptv.xyz/beesport.php?id=ESPN_News_Live_TV
-#EXTINF:-1 tvg-id="" tvg-neme="ESPN U" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/t9vr-m9-p-v1p-y-wh-rm-v-d-tj-dxo-d-af-xb3-zz67-f-dn-pane-y.png" group-title="ESPN Premium", ESPNU (USA)
-https://iptv.vip-tptv.xyz/beesport.php?id=ESPN_U_Live_TV
 #EXTINF:-1 tvg-id="VSportVinter" tvg-name="VSport Vinter" group-title="V Sport Pack" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png", V Sport (Vinter)
 http://62.210.211.188:2095/play/a00q
 #EXTINF:-1 tvg-id="VSportHD" tvg-name="VSport HD" group-title="V Sport Pack" tvg-logo="https://www.connecttv.se/app/uploads/2021/11/vsport_logo_vert_cmyk_pos-1920x1738.png",V Sport HD
@@ -275,16 +267,6 @@ https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8|user-agent=Mozill
 https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1  tvg-logo="https://truevisions.co.th/static/b5c591af-060c-48ea-91ec-e1a230818c27.png" group-title="True Sport Pack", True BEIN SPORTS 3
 https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 group-title="TNT Sports Pack" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsWgHmp9FKDtFVBd-2tjM8iRhB2Wk0HhZpZg&usqp=CAU", TNT Sports 1 (UK)
-https://iptv.vip-tptv.xyz/beesport.php?id=TNT_Sports_1_BU
-#EXTINF:-1 group-title="TNT Sports Pack" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/TNT_Sports_2_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230717230828", TNT Sports 2 (UK)
-https://iptv.vip-tptv.xyz/beesport.php?id=TNT_Sports_2_BU
-#EXTINF:-1 group-title="TNT Sports Pack" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/TNT_Sports_3_HD_%282023%29.svg/revision/latest?cb=20230717231156", TNT Sports 3 (UK)
-https://iptv.vip-tptv.xyz/beesport.php?id=TNT_Sports_3_BU
-#EXTINF:-1 group-title="TNT Sports Pack" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/TNT_Sports_4_HD_%282023%29.svg/revision/latest?cb=20230717231155", TNT Sports 4 (UK)
-https://iptv.vip-tptv.xyz/beesport.php?id=TNT_Sports_4_BU
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="TNT Sports Pack", TNT Sports 5 (UK) [MPD]
-
 #EXTINF:-1 tvg-name="Cosmote Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="CosmoteTV Sport Pack", Cosmote Sport 1 HD
 https://webhdrunns.mizhls.ru/lb/premium622/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="Cosmote Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="CosmoteTV Sport Pack", Cosmote Sport 2 HD
@@ -409,10 +391,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 #EXTINF:-1 group-title="Peacock Live Event" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", PeacockTV Live 2
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-#EXTINF:-1 tvg-id="" tvg-neme="Premier Sports 1" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/s-p4-kxd-v-lp-hl9-y-t-fb-e-wz-m0-n8k-kkgg-h-pkccaqcc-bdu.png" group-title="Premier Sports UK (Beesport)", Premier Sports 1 UK
-https://iptv.vip-tptv.xyz/beesport.php?id=Premier_Sports_1
-#EXTINF:-1 tvg-id="" tvg-neme="Premier Sports 2" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/1-gbngsz7-d-l-xy3x6-m-sk5xw-fj3-h-v42-r-e-cr-p1h4-dlyn.png" group-title="Premier Sports UK (Beesport)", Premier Sports 2 UK
-https://iptv.vip-tptv.xyz/beesport.php?id=Premier_Sports_2
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="" group-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGS" group-title="LaLiga Pack", M+ LALIGA HYPERMOTION
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -546,14 +524,6 @@ https://tglmp04.akamaized.net/out/v1/b38b8a6306714a8e91ae7674291a4a94/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aafd4cc04e18453a8cb18d1e9b9eabeb:37f5e8b3da54affdea805a11501ad2cb
 https://tglmp02.akamaized.net/out/v1/a655d44ba90444a38a4c2bd74aa998e0/manifest.mpd
-#EXTINF:-1  tvg-id="98202" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318756'&EntityType='Item'&EntityId='98202'&Width=516&Height=250" group-title="meWATCH MPD SG (LIVE EVENT)", M LIVE 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=50c6039b44e5412290968affbe4575b0:08d36fa7dafe5dc55114845d0b73b9e4
-https://mwmpos04.akamaized.net/out/v1/2f28990633c444cc82c57f05da637fc1/manifest.mpd
-#EXTINF:-1  tvg-id="204746" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318758'&EntityType='Item'&EntityId='204746'&Width=519&Height=250" group-title="meWATCH MPD SG (LIVE EVENT)", M LIVE 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c61d6aacd14b46d0832c76081ab2877b:7d77094f1e7d835083134e60eed9dcdd
-https://mwmpos02.akamaized.net/out/v1/94904b87bd2b434c8859ef6c13405466/manifest.mpd
 #EXTINF:-1 group-title="meWATCH MPD SG" tvg-id="CNA" tvg-name="CNA" tvg-logo="https://pictr.com/images/2023/04/18/Enl0AP.png", Channel News Asia HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="MALAYSIA & BRUNEI (DIGITAL TV)"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", RTM TV1
@@ -708,8 +678,6 @@ https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
 http://38.41.8.1:8000/play/a0ex
 #EXTINF:-1 tvg-id="EroxTV" tvg-name="EroxTV" group-title="Hot Channels" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp", Erox HD
 http://178.219.128.68:64888/EROXHD
-#EXTINF:-1 tvg-id="PBTVHD" group-title="Hot Channels" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Playboy%20TV.webp", Playboy TV Latam
-http://181.78.105.146:6060/play/a052
 #EXTINF:-1 tvg-id="songshi1" tvg-name="songtv1adult" tvg-logo="https://newsdragon-prod.s3.ap-northeast-1.amazonaws.com/channelMedia/519d83f36eecc0c2d22e7e9bd2aa6257.JPG__1___SSTV1.JPG" group-title="Hot Channels", SSTV 1 (松視1台)
 http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
 #EXTINF:-1 tvg-id="songshi2" tvg-name="songtv2adult" tvg-logo="https://newsdragon-prod.s3.ap-northeast-1.amazonaws.com/channelMedia/c9101b1ec1046f558239f9e852bd62561.JPG__1___SSTV2.JPG" group-title="Hot Channels", SSTV 2 (松視2台)
