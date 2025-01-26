@@ -270,5 +270,21 @@
            "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/65266952-8476-5f90-a5f3-95f7f9f33436/default_dash.mpd", 
            "drm": "clearkey", 
            "drmkey": "ebb6e28c8db6df4325ac9bd545b7e810:f6b73bfbc9c7604f74b5d8a5e83c17e4"
+}, 
+ {        
+  "name": "Monkey Man", 
+  "category": "New Release on Astro First",
+  "info": { 
+           "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Monkey_Man_film.jpg/220px-Monkey_Man_film.jpg", 
+           "bg": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Monkey_Man_film.jpg/220px-Monkey_Man_film.jpg", 
+           "plot": "Di sebuah kampung hutan di India, Kid tinggal bersama ibunya Neela dan mendapat inspirasi dari kisah Hanuman. Baba Shakti, seorang guru rohani di bandar Yatana yang berdekatan, menghantar Rana Singh, seorang ketua polis yang korup, untuk mengusir penduduk kampung dan memperoleh tanah mereka kerana mereka adalah minoriti agama yang dianiaya. Kampung itu dibunuh, tetapi Neela dapat menyembunyikan Kid sebelum dia dibunuh oleh Rana, yang membakar mayatnya. Percubaan Kid yang sia-sia untuk menyelamatkan Neela meninggalkan tangannya terbakar dan parut. Bertahun-tahun kemudian, seorang kanak-kanak yang lebih tua bekerja sebagai tumit dan pekerja di kelab pertarungan bawah tanah Tiger's Temple, memakai topeng monyet. Kid bertekad untuk membalas dendam pada Rana, yang kerap mengunjungi Kings, rumah pelacuran mewah dan sarang kokain yang menyamar sebagai kelab sosial. Kid menyusup ke Kings melalui tipu daya yang rumit untuk bertemu dengan pengurus dan penggoda Queenie Kapoor dan memujuknya untuk memberinya pekerjaan sebagai pekerja dapur yang rendah. Kid berkawan dengan Alphonso, seorang gangster yang bekerja untuk Queenie, dan Sita, salah seorang pelacur yang dieksploitasi. Dia memalsukan pertarungan di Kuil Harimau untuk memihak kepada Alphonso,menjadikannya wang, dan dinaikkan pangkat menjadi pelayan sebagai pertukaran.", 
+           "backdrop": "https://perfecttv.net/first/monkeyman2024.jpg", 
+           "director": ["Dev Patel"], 
+           "cast": ["Dev Patel, Pitobash, Sharlto Copley"],
+           "trailer": "",
+           "year": "2024"
+           }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/98cc9ade-483f-5056-b620-5d039599aa5d/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "e5b9235ef525feb7035cace947fc0310:51a64000d9d9600d5845399427f7f45b"
  }, 
- 
