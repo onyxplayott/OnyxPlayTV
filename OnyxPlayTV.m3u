@@ -5,20 +5,8 @@
 # (●) Total Channels: Null
 ========================================================
 #EXTM3U
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Asia (Indo Sub)", HBO Asia
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
-#EXTINF:-1 tvg-id="HBO Hits" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Asia (Indo Sub)", HBO Hits
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
-#EXTINF:-1 tvg-id="HBO Family" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO Asia (Indo Sub)", HBO Family
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
-#EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO Asia (Indo Sub)", HBO Signature
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
-#EXTINF:-1 tvg-id="CINEMAX ASIA" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Asia (Indo Sub)", Cinemax
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde17bf6591d0009839e02" tvg-id="5dcde17bf6591d0009839e02" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" tvg-chno="1251" group-title="Japan TV (Anime Zone)" , Pluto TV Anime Español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5e6a4d875d7ccf0007cc2cf1" tvg-id="5e6a4d875d7ccf0007cc2cf1" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" tvg-chno="1254" group-title="Japan TV (Anime Zone)" , Pluto TV Animé Acción
-
 #EXTINF:-1 tvg-id="Cinema One Global" tvg-logo="https://iili.io/JmoHb6b.png" group-title="CINEMA PINOY 🎬", Cinema One (C1)
 https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JmoJ98Q.png" group-title="CINEMA PINOY 🎬", Cinemo HD
