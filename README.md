@@ -24,11 +24,13 @@
 
 
 
-*This is personal playlist, taken from many channel sources* 
+*This is personal playlist, taken from many channel sources.* 
 
 
 
-Don't sell or buy my playlist from unknown 3rd party from other sources without my permission 😡😡
+‼️ Don't Sell or Buy My Playlist From Unknown 3rd Party From The Other Sources Without My Permission 😡😡 ‼️
+
+
 
 
 
@@ -38,7 +40,9 @@ Don't sell or buy my playlist from unknown 3rd party from other sources without 
 💯 FREE IPTV PLAYLIST & VIDEO ON DEMAND FROM MANY SOURCE.
 
 
-IF CHANNELS ARE UNSTABLE, WE WILL BE REMOVE IT AND REPLACE BY ANOTHER SOURCE.
+
+
+‼️ IF CHANNELS ARE UNSTABLE, WE WILL BE REMOVE IT AND REPLACE BY ANOTHER SOURCE. ‼️
 
 
 
