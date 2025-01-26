@@ -271,35 +271,4 @@
            "drm": "clearkey", 
            "drmkey": "ebb6e28c8db6df4325ac9bd545b7e810:f6b73bfbc9c7604f74b5d8a5e83c17e4"
  }, 
- {        
-  "name": "Monkey Man", 
-  "category": "New Release on Astro First",
-  "info": { 
-           "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Monkey_Man_film.jpg/220px-Monkey_Man_film.jpg", 
-           "bg": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Monkey_Man_film.jpg/220px-Monkey_Man_film.jpg", 
-           "plot": "Di sebuah kampung hutan di India, Kid tinggal bersama ibunya Neela dan mendapat inspirasi dari kisah Hanuman. Baba Shakti, seorang guru rohani di bandar Yatana yang berdekatan, menghantar Rana Singh, seorang ketua polis yang korup, untuk mengusir penduduk kampung dan memperoleh tanah mereka kerana mereka adalah minoriti agama yang dianiaya. Kampung itu dibunuh, tetapi Neela dapat menyembunyikan Kid sebelum dia dibunuh oleh Rana, yang membakar mayatnya. Percubaan Kid yang sia-sia untuk menyelamatkan Neela meninggalkan tangannya terbakar dan parut. Bertahun-tahun kemudian, seorang kanak-kanak yang lebih tua bekerja sebagai tumit dan pekerja di kelab pertarungan bawah tanah Tiger's Temple, memakai topeng monyet. Kid bertekad untuk membalas dendam pada Rana, yang kerap mengunjungi Kings, rumah pelacuran mewah dan sarang kokain yang menyamar sebagai kelab sosial. Kid menyusup ke Kings melalui tipu daya yang rumit untuk bertemu dengan pengurus dan penggoda Queenie Kapoor dan memujuknya untuk memberinya pekerjaan sebagai pekerja dapur yang rendah.", 
-           "backdrop": "https://perfecttv.net/first/monkeyman2024.jpg", 
-           "director": ["Dev Patel"], 
-           "cast": ["Dev Patel, Pitobash, Sharlto Copley"],
-           "trailer": "",
-           "year": "2024",
-           },
-           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/98cc9ade-483f-5056-b620-5d039599aa5d/default_primary.mpd", 
-           "drm": "clearkey", 
-           "drmkey": "e5b9235ef525feb7035cace947fc0310:51a64000d9d9600d5845399427f7f45b"
- },
-{
-  "name": "Sonic the Hedgehog 3",
-  "category": "English Blockbuster",
-  "info": {
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "bg": "https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "plot": "Pada tahun 1974, sebuah meteor yang mengandungi hedgehog Shadow asing terhempas di Oklahoma dan dirampas oleh tentera AS. Kuasa Shadow diuji oleh Profesor Gerald Robotnik di kemudahan penyelidikan Guardian Units of Nations (GUN) di bawah pengawasan Kapten Walters; Shadow juga menjalin persahabatan rapat dengan Maria, cucu Gerald. Suatu malam, ketika Gerald, Maria, dan Shadow cuba melarikan diri dari kemudahan untuk mencegah Shadow dibawa pergi, Maria secara tidak sengaja terbunuh dalam letupan. Walters menutup kemudahan, memenjarakan Gerald, dan meletakkan Shadow dalam animasi ditangguhkan.",
-    "backdrop": "https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "director": ["Jeff Fowler"],
-    "cast": ["Jim Carrey", "Keanu Reeves", "Idris Elba", "Ben Schwartz", "Colleen O'Shaughnessey"],
-    "trailer": "",
-    "year": "2024",
-    "video": "https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/14/Sonic.the.Hedgehog.3.2024.mp4/tracks-v1a1/mono.m3u8"
-  }
-}
+ 
