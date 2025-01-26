@@ -163,7 +163,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c
 #EXTINF:0 tvg-id="tokushoutsu" tvg-logo="http://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="Japan TV (Anime Zone)", Tokushoutsu on PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e2ff68-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=76da6dab-6ec1-433d-8d30-a0c34b5dd207&userId=&serverSideAds=false
 
-#EXTINF:-1 tvg-id="701" group-title="Siaran Percubaan" tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png", Unifi Sports HD (MPD)
+#EXTINF:-1 tvg-id="701" group-title="Siaran Percubaan @ Unifi TV" tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png", Unifi Sports HD (MPD)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=Y2M1YzUwMTEtMWYxYi0zYjAxLTg2M2YtZjJmZTA2MWIyM2Nh
 https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -181,7 +181,7 @@ https://ntv4.mov3.co/hls/ntv.m3u8
 
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/fujitv12.png" group-title="Japan TV (Test Broadcast)", Fuji TV Tokyo
 https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 tvg-id="TravelChannel" tvg-logo="http://playtv.unifi.com.my:7037/CPS/images/universal/film/logo/202108/20210831/20210831161520835mdk.png" group-title="Siaran Percubaan", Travel Channel HD (Unifi Test)
+#EXTINF:-1 tvg-id="TravelChannel" tvg-logo="http://playtv.unifi.com.my:7037/CPS/images/universal/film/logo/202108/20210831/20210831161520835mdk.png" group-title="Siaran Percubaan @ Unifi TV", Travel Channel HD (Unifi Test)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -189,23 +189,6 @@ https://fujitv4.mov3.co/hls/fujitv.m3u8
 https://web.hypp.tv:443/PLTV/88888888/224/3221227593/3221227593.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWbuVTT0kQ7uQ6vwRhl32tZfEg2x34ieDQHngPU9P4aoumIekQBXXHJTV%2FlcIMzKQARE3mdVv54VWwAPr54dFy6yoKcpl0e4a0zbHhKPy16D%3A20240429163850%3AUTC%2C10001002674168%2C27.125.245.253%2C20240429163850%2Curn:Huawei:liveTV:iptv17606%2C10001002674168%2C-1%2C0%2C1%2C%2C%2C2%2C1024%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C609129027%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBhE_w1HUiiteuCk2WSTTdfEulczwFe2kRYXqon_XrvW68y8yZsSLH3utCsMzArOmMqoqhSwVS2o29haQtalYZn-mqglswihH30T3Yz9HLYnUfCCSyn4mrXz20eAX4bNdTCUtHhTB0q33pJ2ueM3ZA7vE3lMfRz5PuB-TGGZMGoXM7ESSkm1luVGSTbNaYt8fjbsF3kbhwsSua_o_wHdIWRiF9gzPDUYSI_XEF7cd3JPmwd5l3rk8wAAAA&tenantId=6001
 #EXTINF:-1 tvg-id="PhoenixMoviesChannel" tvg-name="Phoenix MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a0/Phoenix_Movies.svg/1280px-Phoenix_Movies.svg.png" group-title="Phoenix TV Group", Phoenix Movies Channel
 http://home.js001.com:7777/stream/channelid/884059847?profile=pass
-#EXTINF:-1 tvg-id="326.astro" tvg-logo="https://iili.io/JmKqdxe.png" group-title="Phoenix TV Group", Phoenix InfoNews Channel
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="Phoenix TV Group", Phoenix TV Chinese Channel
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7bca0771ba9205edb5d467ce2fdf0162:eb19c7e3cea34dc90645e33f983b15ab
-https://pixman.mytvsuper.com.mp/mytvsuper/PCC
-#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" group-title="Phoenix TV Group", Phoenix TV Information Channel
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=83f7d313adfc0a5b978b9efa0421ce25:ecdc8065a46287bfb58e9f765e4eec2b
-https://pixman.mytvsuper.com.mp/mytvsuper/PIN
-#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰衛視香港台" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" group-title="Phoenix TV Group", Phoenix TV Hong Kong
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cde62e1056eb3615dab7a3efd83f5eb4:b8685fbecf772e64154630829cf330a3
-https://pixman.mytvsuper.com.mp/mytvsuper/PHK
 ========================================================
 #EXTINF:-1 tvg-name="Digi Sport 1 Romania" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/footer/digi-sport-alt.png" group-title="Digi Sport Pack", Digi Sport 1
 https://webhdrunns.mizhls.ru/lb/premium400/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
