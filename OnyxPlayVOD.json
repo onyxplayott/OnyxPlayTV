@@ -288,4 +288,17 @@
            "drm": "clearkey", 
            "drmkey": "e5b9235ef525feb7035cace947fc0310:51a64000d9d9600d5845399427f7f45b"
  },
- 
+ {        
+  "name": "Sonic the Hedgehog 3", 
+  "category": "English Blockbuster",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "plot": "Pada tahun 1974, sebuah meteor yang mengandungi hedgehog Shadow asing terhempas di Oklahoma dan dirampas oleh tentera AS. Kuasa Shadow diuji oleh Profesor Gerald Robotnik di kemudahan penyelidikan Guardian Units of Nations (GUN) di bawah pengawasan Kapten Walters; Shadow juga menjalin persahabatan rapat dengan Maria, cucu Gerald. Suatu malam, ketika Gerald, Maria, dan Shadow cuba melarikan diri dari kemudahan untuk mencegah Shadow dibawa pergi, Maria secara tidak sengaja terbunuh dalam letupan. Walters menutup kemudahan, memenjarakan Gerald, dan meletakkan Shadow dalam animasi ditangguhkan.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "director": ["Jeff Fowler"], 
+           "cast": ["Jim Carrey, Keanu Reeves, Idris Elba, Ben Schwartz, Colleen O'Shaughnessey"],
+           "trailer": "",
+           "year": "2024"
+           "video": "https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/14/Sonic.the.Hedgehog.3.2024.mp4/tracks-v1a1/mono.m3u8", 
+  },
