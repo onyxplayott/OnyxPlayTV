@@ -204,19 +204,53 @@
            "drmkey": "51fd3c6456b6aa42a4b89d8b96f15c10:9d2cb97308fbcf63e8301d227861b492"
  }, 
  {        
-  "name": "", 
-  "category": "",
+  "name": "The Monkey King Part 1 (西游記之大鬧天宮1)", 
+  "category": "Chinese Movies",
   "info": { 
-           "poster": "", 
-           "bg": "", 
-           "plot": "", 
-           "backdrop": "", 
-           "director": [""], 
-           "cast": [""],
+           "poster": "https://m.media-amazon.com/images/M/MV5BMjA0NTE5OTczNl5BMl5BanBnXkFtZTgwNDAxNTc3NzE@._V1_FMjpg_UX1000_.jpg", 
+           "bg": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GUUKY_p_IVP_PORT_258x387_2024828_163130.jpg", 
+           "plot": "Semasa serangan ke syurga, Raja Iblis lembu berperang dan kalah melawan Maharaja Jade, penguasa Syurga. Adik perempuan Maharaja dan kekasih Raja Iblis lembu, Puteri Iron Fan, meyakinkan Maharaja untuk menghindarinya dan mengusirnya, Puteri Iron Fan, dan seluruh iblis ke Flaming Mountain. Dewi N Pasriwa mengorbankan tubuhnya untuk membina semula Syurga dengan Kristal. Maharaja Jade melantik keponakannya Erlang Shen untuk menjaga gerbang selatan, walaupun Erlang membenci tugas itu. Salah satu kristal jatuh ke Gunung Huaguo, mengambil bentuk monyet dari masa ke masa. Rubah sembilan ekor terluka selepas menyentuh kristal dan dibawa pergi oleh kuasa misteri.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BMjA0NTE5OTczNl5BMl5BanBnXkFtZTgwNDAxNTc3NzE@._V1_FMjpg_UX1000_.jpg", 
+           "director": ["Soi Cheang"], 
+           "cast": ["Donnie Yen, Chow Yun-Fat, Aaron Kwok"],
            "trailer": "",
-           "year": ""
+           "year": "2014"
            }, 
-           "video": "", 
+           "video": "https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/126ab469-d5ff-5bce-bb20-9d34df46515d/default_primary.mpd", 
            "drm": "clearkey", 
-           "drmkey": ""
+           "drmkey": "0f80cf6fc0360b8214528556d4b2e610:b4ed93521a9105537cfde9eb6f1263dc"
+ }, 
+{        
+  "name": "The Monkey King Part 2 (西遊記之孫悟空三打白骨精)", 
+  "category": "Chinese Movies",
+  "info": { 
+           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-1rNFMNBM1k_56mKeBj3UXjMc_p1qzjljTg&s", 
+           "bg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-1rNFMNBM1k_56mKeBj3UXjMc_p1qzjljTg&s", 
+           "plot": "500 tahun selepas Sun Wukong (Aaron Kwok) dipenjarakan di bawah gunung Lima Jari, seorang biarawan Buddha muda Tang Sanzang (Feng Shaofeng) berangkat untuk perjalanan ke Biara guntur di India untuk mengumpul Kitab Suci Buddha. Ketika dia diserang oleh harimau, dia dipaksa untuk membebaskan Wukong dan Raja Monyet mengetahui bahawa dia harus melindungi bhikkhu sepanjang perjalanan, kerana Bodhisattva Guanyin memastikan dia akan terikat dengan lingkaran sihir yang dapat menyebabkannya sakit setiap kali Tang Sanzang melaungkan sutra tertentu. Tidak lama kemudian, mereka bertemu dengan Zhu Bajie (Xiaoshenyang), seorang iblis babi yang bernafsu, dan Sha Wujing (him Law), seorang biarawan seperti jin. Dia melawan naga, mengalahkan dan mengubahnya menjadi kuda sebagai kuda.", 
+           "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-1rNFMNBM1k_56mKeBj3UXjMc_p1qzjljTg&s", 
+           "director": ["Soi Cheang"], 
+           "cast": ["Aaron Kwok, Feng Shaofeng, Xiaoshenyang"],
+           "trailer": "",
+           "year": "2016"
+           }, 
+           "video": "https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/fc9fd8f8-966d-5014-a83c-b47272f327ae/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "0b5d65e224fe52c3b88e8d41000c3c10:cb62badbeae094b95ca061f94f8a67e9"
+ }, 
+ {        
+  "name": "The Monkey King Part 3: Finale (西遊記女兒國)", 
+  "category": "Chinese Movies",
+  "info": { 
+           "poster": "https://upload.wikimedia.org/wikipedia/en/d/d2/MONKEY-KING.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BNmZjYzRmZjItNTVlYi00OWI5LTg5MmYtY2NjYWQ1NDgzNjQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "plot": "Sun Wukong (Aaron Kwok), Tang Sanzang (Feng Shaofeng), Zhu Bajie (Xiaoshenyang) dan Sha Wujing (him Law) secara tidak sengaja memasuki tanah Wanita liang barat, sebuah negara yang didiami oleh wanita yang dibesarkan untuk percaya bahawa lelaki menipu dalam hal-hal hati. Cinta bagaimanapun berkembang antara Tang Sanzang dan ratu muda wanita (Zhao Liying), walaupun pengajar diraja (Gigi Leung) bertekad untuk menghukum mati lelaki itu. Ketika Sun Wukong, Zhu Bajie dan Sha Wujing mencari jalan keluar dari negara ini dikelilingi oleh jaring ajaib yang luas, ia segera berlaku, dengan mudah, bahawa cinta romantis adalah satu-satunya kunci untuk membuka pintu gerbang.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BNmZjYzRmZjItNTVlYi00OWI5LTg5MmYtY2NjYWQ1NDgzNjQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "director": ["Soi Cheang"], 
+           "cast": ["Aaron Kwok, Feng Shaofeng, Xiaoshenyang"],
+           "trailer": "",
+           "year": "2018"
+           }, 
+           "video": "https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/56c2aeb8-3f8d-52e7-b11a-cad31b40f111/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "e1d42f16a0c597df930d92476cac9c10:2cf973ed794e62a5633541c1671488ed"
  }, 
