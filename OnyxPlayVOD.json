@@ -25,7 +25,7 @@
            "plot": "Sehari sebelum permulaan musim panas yang terakhir di sekolah menengah rendah mereka, Takagi dan Nishikata menemui seekor anak kucing dalam perjalanan pulang, yang mereka namakan Hana, dan memutuskan untuk menjaganya sehingga mereka menemui ibunya.", 
            "backdrop": "https://material.asset.catchplay.com/MUS-ID-001-A1066/artworks/posters/MUS-ID-001-A1066-P544.jpg?hash=1737030058", 
            "director": ["Hiroki Akagi"], 
-           "cast": ["Yuji Kaji (Eren), Rie Takahashi (Megumin), Konomi Kohara (Chika Fujiwara)"],
+           "cast": ["Yuji Kaji, Rie Takahashi, Konomi Kohara"],
            "trailer": "",
            "year": "2022"
            }, 
@@ -287,4 +287,72 @@
            "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/98cc9ade-483f-5056-b620-5d039599aa5d/default_primary.mpd", 
            "drm": "clearkey", 
            "drmkey": "e5b9235ef525feb7035cace947fc0310:51a64000d9d9600d5845399427f7f45b"
+ }, 
+{        
+  "name": "Kanguva (கங்குவா)", 
+  "category": "New Release on Astro First",
+  "info": { 
+           "poster": "https://upload.wikimedia.org/wikipedia/en/e/e8/Kanguva_poster.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BMzI0NjRhZTgtYTEwMi00NmVkLWFmMmItMjRkNGYxM2IwNDA2XkEyXkFqcGc@._V1_.jpg", 
+           "plot": "Pada tahun 2024, Zeta, subjek ujian muda untuk peningkatan otak dan eksperimen kuasa besar, melarikan diri dari kemudahan bioperubatan Rusia berhampiran sempadan India. Komander kemudahan itu mengerahkan tentera untuk menangkapnya semula. Sementara itu, di Goa, pemburu hadiah Francis Theodore bekerja dengan rakannya, Colt 95, di bawah Polis Goa, menangkap penjenayah. Perkara yang rumit, bekas teman wanita Francis, Angela, dan rakannya, Accelerator, adalah pemburu hadiah saingan.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BMzI0NjRhZTgtYTEwMi00NmVkLWFmMmItMjRkNGYxM2IwNDA2XkEyXkFqcGc@._V1_.jpg", 
+           "director": ["Siva"], 
+           "cast": ["Suriya, Bobby Deol, Disha Patani"],
+           "trailer": "",
+           "year": "2024"
+           }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e4641bd7-505f-544d-8fc0-a6eb23049bad/default_dash.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "ad26c3a4f89bd4083aea29ef564ba810:f1ff682764b969b209de92ab202fbd4b"
+ }, 
+ {        
+  "name": "Goodbye, Don Glees! (グッバイ、ドン・グリーズ!)", 
+  "category": "New Release on Astro First",
+  "info": { 
+           "poster": "https://resizing.flixster.com/cCCl1Im8Kp6MwmyuiDhVctDO1ig=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p21730184_v_v10_ah.jpg", 
+           "bg": "https://resizing.flixster.com/cCCl1Im8Kp6MwmyuiDhVctDO1ig=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p21730184_v_v10_ah.jpg", 
+           "plot": "Semasa mereka masih kecil, Toto Mitarai dan Roma Kamogawa membentuk kelab mereka sendiri, Don Glees. Apabila Toto mencapai usia 15, dia berpindah ke Tokyo untuk bersekolah di sekolah menengah. Toto kembali setahun kemudian untuk mencari Roma yang merindui naksirnya, Tivoli Urayasu, yang telah berpindah ke Ireland. Toto mendorong Roma untuk menghubungi Tivoli, bahkan memanggil Tivoli jarak jauh untuk membuat Roma bercakap dengannya. Toto juga mendapati bahawa Roma telah menambah ahli baru ke kelab, Drop Sakuma. Drop bercakap Roma untuk membelanjakan semua wangnya untuk membeli drone. Mereka akan menggunakan drone untuk merakam pertunjukan bunga api profesional yang besar, sambil meletakkan bunga api mereka sendiri di padang terpencil. Tetapi pada malam paparan, mereka tidak dapat menyalakan bunga api mereka, dan Roma kehilangan drone. Beberapa jam kemudian, kebakaran hutan meletus di Pergunungan.", 
+           "backdrop": "https://m.media-amazon.com/images/M/MV5BZWVmNzUxNzUtMTJhMy00ODIzLTg5OWQtMmM5NWM2Y2RhNDEzXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_QL75_UX500_CR0,0,500,281_.jpg", 
+           "director": ["Atsuko Ishizuka"], 
+           "cast": ["Yuji Kaji, Natsuki Hanae, Ayumu Murase, Kana Hanazawa"],
+           "trailer": "",
+           "year": "2022"
+           }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/aefe82a3-f742-5f4b-821f-40e43bdd3dfa/default_dash.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "ad26c3a4f89bd4083aea29ef564ba810:f1ff682764b969b209de92ab202fbd4b"
+ }, 
+ {        
+  "name": "Rathnam (ரத்னம்)", 
+  "category": "New Release on Astro First",
+  "info": { 
+           "poster": "https://upload.wikimedia.org/wikipedia/en/4/47/Rathnam_film_poster.jpg", 
+           "bg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToTs91tWdPgQxmxK2plQmZwa_zatDnE289Sw&s", 
+           "plot": "Rathnam adalah seorang pengikut yang bekerja untuk MLA Panneer Selvam di Vellore. Suatu hari, dia melindungi Malliga, seorang pelajar perubatan yang mirip dengan Almarhum ibunya Loganayagi, dari pengejaran tanpa henti terhadap perampas Tanah Beema Rayudu dan adik-beradiknya Subba dan Raghava. Beema, Subba dan Raghava mahu keluarga Malliga menjual tanah mereka kepada mereka, tetapi keluarga Malliga menolak yang menyebabkan mereka menyerang Malliga. Rathnam melindungi Malliga dengan bantuan Panner Selvam dan juga mendedahkan kemiripannya dengan Loganayagi. Malliga, atas nasihat Rathnam, menjual tanah untuk membina sebuah kolej perubatan. Rathnam membunuh Subba dan dia memberi amaran kepada Beema Rayudu bahawa dia akan menghabiskannya & Raghava Rayudu. Apabila berhadapan dengan Panneer Selvam, Rathnam mendedahkan bahawa dia bertemu dengan keluarganya yang sebenar dan mengetahui bahawa Beema Rayudu, Subba dan Raghava sebenarnya adalah saudara Loganayagi Dharmalingam, Punniyakodi dan keshavan. Rathnam mendedahkan bahawa trio itu telah melakukan rompakan dan Loganayagi telah mengetahui tentang ini, di mana dia cuba menghentikannya, tetapi trio itu melarikan diri.", 
+           "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToTs91tWdPgQxmxK2plQmZwa_zatDnE289Sw&s", 
+           "director": ["Hari"], 
+           "cast": ["Vishal, Priya Bhavani Shankar"],
+           "trailer": "",
+           "year": "2024"
+           }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/766eb135-89b7-538d-90da-5b3d727669d4/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "979ce26e91eaa0e122043b3f80818110:b238cb7b255e830193ab4cc686884ecf"
+ },
+ {        
+  "name": "My Name Is Shruthi (మై నేమ్ ఈజ్ శృత)", 
+  "category": "New Release on Astro First",
+  "info": { 
+           "poster": "https://m.media-amazon.com/images/M/MV5BOWI5M2I5OGUtOGViYi00N2JjLTkwODctYzJkZjY3NDJlZGJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "bg": "https://m.media-amazon.com/images/M/MV5BOWI5M2I5OGUtOGViYi00N2JjLTkwODctYzJkZjY3NDJlZGJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", 
+           "plot": "Ia adalah sebuah filem thriller yang menarik berdasarkan Mafia Organ. My Name Is Shruthi menonjol kerana ia berkaitan dengan skin mafia, yang merupakan filem pertama seumpamanya yang memberi penonton pengalaman baru dengan filem yang menarik.", 
+           "backdrop": "https://perfecttv.net/first/shruthi2024.jpg", 
+           "director": ["Srinivas Omkhar"], 
+           "cast": ["Hansika Motwani, Sai Tej, Prema"],
+           "trailer": "",
+           "year": "2022"
+           }, 
+           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/41a81671-ed9d-58d7-ab5a-d48c029dacdc/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "7786a7a7a46f28ebd7adaa91b1cd2210:1a52c5f3a2cab283385e0af7b75e1792"
  }, 
