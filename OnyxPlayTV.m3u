@@ -411,7 +411,10 @@ http://iptv12k.com:35461/654321/123456/21718
 http://iptv12k.com:35461/654321/123456/1228
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Now Sports「Hong Kong」", NBA TV (NowTV)
 http://iptv12k.com:35461/654321/123456/1227
-
+#EXTINF:-1, tvg-id="SkySportsMX" tvg-name="SkySportsMX" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/4Tdv5fRuFYHPU5f2LZwYnv/8dcdb0cbd2a8b1c51732f44f8769fcf9/slidecanales-skysports.png" group-title="Sky Sports", Sky Sports MX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
+https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd
 ========================================================
 #EXTINF:-1 group-title="MALAYSIA RADIO 📻 (RTM)" tvg-id="Johor FM" tvg-name="Johor FM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/JohorFm.png", Johor FM
 https://mifntechnology.github.io/siaranMy/radio/JohorFm/playlist.m3u8
