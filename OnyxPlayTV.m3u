@@ -128,7 +128,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c
 #EXTINF:0 tvg-id="tokushoutsu" tvg-logo="http://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="Japan TV (Anime Zone)", Tokushoutsu on PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e2ff68-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=76da6dab-6ec1-433d-8d30-a0c34b5dd207&userId=&serverSideAds=false
 
-#EXTINF:-1 tvg-id="701" group-title="Siaran Percubaan @ Unifi TV" tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png", Unifi Sports HD (MPD)
+#EXTINF:-1 tvg-id="701" group-title="Siaran Percubaan (Test Channel)" tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png", Unifi Sports HD (MPD)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=Y2M1YzUwMTEtMWYxYi0zYjAxLTg2M2YtZjJmZTA2MWIyM2Nh
 https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -146,15 +146,15 @@ https://ntv4.mov3.co/hls/ntv.m3u8
 
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/fujitv12.png" group-title="Japan TV (Test Broadcast)", Fuji TV Tokyo
 https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 tvg-id="TravelChannel" tvg-logo="http://playtv.unifi.com.my:7037/CPS/images/universal/film/logo/202108/20210831/20210831161520835mdk.png" group-title="Siaran Percubaan @ Unifi TV", Travel Channel HD (Unifi Test)
+#EXTINF:-1 tvg-id="TravelChannel" tvg-logo="http://playtv.unifi.com.my:7037/CPS/images/universal/film/logo/202108/20210831/20210831161520835mdk.png" group-title="Siaran Percubaan (Test Channel)", Travel Channel HD (Unifi)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b125629ad757520ac833a40e4b4f22e8:4d027e6b858d68fdde37270b2cd0172b
 https://web.hypp.tv:443/PLTV/88888888/224/3221227593/3221227593.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWbuVTT0kQ7uQ6vwRhl32tZfEg2x34ieDQHngPU9P4aoumIekQBXXHJTV%2FlcIMzKQARE3mdVv54VWwAPr54dFy6yoKcpl0e4a0zbHhKPy16D%3A20240429163850%3AUTC%2C10001002674168%2C27.125.245.253%2C20240429163850%2Curn:Huawei:liveTV:iptv17606%2C10001002674168%2C-1%2C0%2C1%2C%2C%2C2%2C1024%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C609129027%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBhE_w1HUiiteuCk2WSTTdfEulczwFe2kRYXqon_XrvW68y8yZsSLH3utCsMzArOmMqoqhSwVS2o29haQtalYZn-mqglswihH30T3Yz9HLYnUfCCSyn4mrXz20eAX4bNdTCUtHhTB0q33pJ2ueM3ZA7vE3lMfRz5PuB-TGGZMGoXM7ESSkm1luVGSTbNaYt8fjbsF3kbhwsSua_o_wHdIWRiF9gzPDUYSI_XEF7cd3JPmwd5l3rk8wAAAA&tenantId=6001
-#EXTINF:-1 tvg-id="PhoenixMoviesChannel" tvg-name="Phoenix MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a0/Phoenix_Movies.svg/1280px-Phoenix_Movies.svg.png" group-title="Phoenix TV Group", Phoenix Movies Channel
+#EXTINF:-1 tvg-id="PhoenixMoviesChannel" tvg-name="Phoenix MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a0/Phoenix_Movies.svg/1280px-Phoenix_Movies.svg.png" group-title="Saluran Percubaan (Test Channel)", Phoenix Movies Channel
 http://home.js001.com:7777/stream/channelid/884059847?profile=pass
-#EXTINF:-1 tvg-id="100.astro" group-title="Astro Xilele (Test)" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Xilele.png", Astro XiLele 喜乐乐
+#EXTINF:-1 tvg-id="100.astro" group-title="Saluran Percubaan (Test Channel)" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Xilele.png", Astro XiLele 喜乐乐 (POPUP CHANNEL)
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -835,6 +835,22 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JmK1KwF.png" group-title="BERITA ANTARABANGSA", teleSUR English
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-name="Yahoo! Finance" tvg-logo="https://i.imgur.com/43oHsHL.png" tvg-id="YahooFinance.us" group-title="BERITA ANTARABANGSA", Yahoo! Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="AccuWeather NOW" tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-id="AccuWeatherNOW.us" group-title="BERITA ANTARABANGSA", AccuWeather NOW
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNNInternationalEurope.us" group-title="BERITA ANTARABANGSA", CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="The Guardian" tvg-logo="https://i.imgur.com/o9AYq9V.png" tvg-id="TheGuardian.uk" group-title="BERITA ANTARABANGSA", The Guardian Channel 
+https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" tvg-id="CBSNews.us" group-title="BERITA ANTARABANGSA", CBS News HD
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-name="India Today" tvg-logo="https://i.imgur.com/koFYddE.png" tvg-id="IndiaToday.in" group-title="BERITA ANTARABANGSA", India Today HD
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-name="i24 News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" tvg-id="i24NEWSEnglishWorld.il" group-title="BERITA ANTARABANGSA", i24 News
+https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+#EXTINF:-1 tvg-name="Scripps News" tvg-logo="https://i.imgur.com/UfN6aAi.png" tvg-id="ScrippsNews.us" group-title="BERITA ANTARABANGSA", Scripps News TV
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 ========================================================
 #EXTINF:-1 tvg-name="BBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BBC_One_HD_Box.svg/1280px-BBC_One_HD_Box.svg.png" group-title="BBC TV 「United Kingdom」", BBC One
 http://iptv12k.com:35461/654321/123456/4310
@@ -845,6 +861,6 @@ http://iptv12k.com:35461/654321/123456/4308
 #EXTINF:-1 tvg-name="BBC 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/BBC_Four_HD_Logo.svg/1200px-BBC_Four_HD_Logo.svg.png" group-title="BBC TV 「United Kingdom」", BBC Four
 http://iptv12k.com:35461/654321/123456/4307
 ========================================================
- 🔴🟢 Coming Soon 🟢🔴
+   「🔴🟢 Coming Soon 🟢🔴」
 ========================================================
 #EXTM3U billed-msg="✌️ 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 𝒃𝒚 𝑶𝒏𝒚𝒙𝑷𝒍𝒂𝒚𝑶𝑻𝑻 𝑻V ✌️"
