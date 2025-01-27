@@ -387,7 +387,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:2
 https://mantul.biz.id:443/inetwork/gayanet12/4946.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015" group-title="SPOTV Asia", SPOTV 2 Indonesia
 https://mantul.biz.id:443/inetwork/gayanet12/15858.ts
-#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/ch/309/LOGO/m/0" group-title="FOX SPORTS Mexico", FOX Sports Mexico
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/ch/309/LOGO/m/0" group-title="FOX SPORTS", FOX SPORTS Mexico
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e276bd34034a2c4dcf61d74e1242fbf:4b466a4affb61d2672a4194b14e10ef2
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-HD/default.mpd
