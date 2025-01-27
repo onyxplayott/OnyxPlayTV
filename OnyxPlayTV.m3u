@@ -391,6 +391,27 @@ https://mantul.biz.id:443/inetwork/gayanet12/15858.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e276bd34034a2c4dcf61d74e1242fbf:4b466a4affb61d2672a4194b14e10ef2
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-HD/default.mpd
+#EXTINF:-1 tvg-logo="https://i.loli.net/2021/10/10/rVqBTmoNjlhSwk5.jpg" group-title="Now Sports「Hong Kong」", Now Sports 630
+http://iptv12k.com:35461/654321/123456/1017
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="Now Sports「Hong Kong」", Now Sports 1
+http://iptv12k.com:35461/654321/123456/21684
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-2-1990.png" group-title="Now Sports「Hong Kong」", Now Sports 2
+http://iptv12k.com:35461/654321/123456/21686
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/633_e.png" group-title="Now Sports「Hong Kong」", Now Sports 3 
+http://iptv12k.com:35461/654321/123456/21688
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/634_e.png" group-title="Now Sports「Hong Kong」", Now Sports 4
+http://iptv12k.com:35461/654321/123456/21724
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/635_e.png" group-title="Now Sports「Hong Kong」", Now Sports 5
+http://iptv12k.com:35461/654321/123456/21722
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/636-dbg-e.png" group-title="Now Sports「Hong Kong」", Now Sports 6 
+http://iptv12k.com:35461/654321/123456/21720
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/637-wbg-e.png" group-title="Now Sports「Hong Kong」", Now Sports 7
+http://iptv12k.com:35461/654321/123456/21718
+#EXTINF:-1 tvg-logo="https://www.golfchannel.com/sites/default/files/new_golf_channel_logo_304.jpg" group-title="Now Sports「Hong Kong」", Golf Channel (NowTV)
+http://iptv12k.com:35461/654321/123456/1228
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Now Sports「Hong Kong」", NBA TV (NowTV)
+http://iptv12k.com:35461/654321/123456/1227
+
 ========================================================
 #EXTINF:-1 group-title="MALAYSIA RADIO 📻 (RTM)" tvg-id="Johor FM" tvg-name="Johor FM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/JohorFm.png", Johor FM
 https://mifntechnology.github.io/siaranMy/radio/JohorFm/playlist.m3u8
