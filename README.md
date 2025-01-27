@@ -103,21 +103,21 @@ FOR ANDROID DEVICES :
 
 
 
-WE PROVIDE THEIR SERVICE AS ABOVE :
+WE PROVIDE THEIR SERVICE AS ABOVE TO PRIVATE USER ONLY :
 
 
 
 
 
-(●) Service: Freemium & Premium
+(●) Service: Freemium & Premium IPTV
 
 
 
-(●) Total Channels: 
-Null
+(●) Total Channels: Null
 
 
 
+(●) Video On Demand (VOD): Null
 
 
 
@@ -143,70 +143,7 @@ Null
 
 
 
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
+🚀POWERED by AlterEgoMan 🇯🇵✌️🚀
 
 
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
 
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-
-
-
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
-
-🚀POWERED by AlterManjazzz 🇯🇵✌️🚀
