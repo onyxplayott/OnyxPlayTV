@@ -442,12 +442,52 @@ https://mifntechnology.github.io/siaranMy/radio/FlyFm/playlist.m3u8
 https://mifntechnology.github.io/siaranMy/radio/BuletinFm/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA RADIO 📻 (MPB Audio)" tvg-id="Hot FM" tvg-name="HotFM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HotFm.png", Hot FM 97.6
 https://mifntechnology.github.io/siaranMy/radio/HotFm/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="MY" ch-number="853" tvg-logo="https://aqfadtv.xyz/logos/MY.png", MY (Astro Radio)
+https://n38a-eu.rcs.revma.com/hc3unrtbv4uvv/56_1t996oveblvvv02/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="LITE" ch-number="854" tvg-logo="https://aqfadtv.xyz/logos/Lite.png", LITE (Astro Radio)
+https://n05.rcs.revma.com/bn4ex8sbv4uvv/5_18oihpcuu06zk02/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="MIX" ch-number="855" tvg-logo="https://aqfadtv.xyz/logos/Mix.png", MIX (Astro Radio)
+https://n28a-eu.rcs.revma.com/v5pq3htbv4uvv/40_wqselj3z5ieg02/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="ERA" tvg-name="Era103.3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Era.png", Era 103.3
 https://mifntechnology.github.io/siaranMy/radio/Era/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="ERA" ch-number="856" tvg-logo="https://aqfadtv.xyz/logos/ERA.png", ERA (Astro Radio)
+https://n11.rcs.revma.com/crec9cmbv4uvv/11_1b1aabs9f9yfm02/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="Hitz FM" tvg-name="Hitz" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HitzFm.png", Hitz
 https://mifntechnology.github.io/siaranMy/radio/HitzFm/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="HITZASTRO" ch-number="852" tvg-logo="https://online-radio.my/uploads/img/hitz.png", Hitz (Astro Radio)
+https://n44a-eu.rcs.revma.com/488kt4sbv4uvv/68_1txzsglqw5l3t02/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="Sinar FM" tvg-name="Sinar" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SinarFm.png", Sinar
 https://mifntechnology.github.io/siaranMy/radio/SinarFm/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="SINAR" ch-number="857" tvg-logo="https://aqfadtv.xyz/logos/Sinar.png", SINAR (Astro Radio)
+https://n08a-eu.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="MELODY" ch-number="858" tvg-logo="https://aqfadtv.xyz/logos/Melody.png", MELODY (Astro Radio)
+https://stream-eu-a.rcs.revma.com/2u1n6dtbv4uvv/7_w0cr3cmmz25o02/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="RAAGA" ch-number="859" tvg-logo="https://aqfadtv.xyz/logos/Raaga.png", RAAGA (Astro Radio)
+https://n04a-eu.rcs.revma.com/1ut6qwtbv4uvv/4_qy5qjlvyz3ck02/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="ROCK" ch-number="860" tvg-logo="https://aqfadtv.xyz/logos/SyokClassicRock2021.png", SYOK Classic Rock (Astro Radio)
+https:\u002F\u002Fplayerservices.streamtheworld.com\u002Fapi\u002Flivestream-redirect\u002FMYXFMAAC_48.aac
+#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="GOLD" ch-number="861" tvg-logo="https://aqfadtv.xyz/logos/SyokGold2021.png", SYOK Gold (Astro Radio)
+https:\u002F\u002Fplayerservices.streamtheworld.com\u002Fapi\u002Flivestream-redirect\u002FRAKITAAAC.aac
+#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="OPUS" ch-number="862" tvg-logo="https://aqfadtv.xyz/logos/SYOKOpus.png", SYOK Opus (Astro Radio)
+https:\u002F\u002Fplayerservices.streamtheworld.com\u002Fapi\u002Flivestream-redirect\u002FMYXFMAAC_48.aac
+#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="GEGAR" ch-number="863" tvg-logo="https://aqfadtv.xyz/logos/Gegar.png", GEGAR (Astro Radio)
+https://stream.rcs.revma.com/cn0zcqsbv4uvv/4_1iyod7g8drwkb02/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="INDIA" ch-number="864" tvg-logo="https://aqfadtv.xyz/logos/SyokIndiaBeat.png", SYOK India Beat (Astro Radio)
+https:\u002F\u002Fplayerservices.streamtheworld.com\u002Fapi\u002Flivestream-redirect\u002FMYXFMAAC_48.aac
+#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="JAZZ" ch-number="865" tvg-logo="https://aqfadtv.xyz/logos/SyokJazz2021.png", SYOK Jazz (Astro Radio)
+https:\u002F\u002Fplayerservices.streamtheworld.com\u002Fapi\u002Flivestream-redirect\u002FMYXFMAAC_48.aac
+#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="OSAI" ch-number="866" tvg-logo="https://aqfadtv.xyz/logos/SYOKOsai.png", SYOK Osai (Astro Radio)
+https:\u002F\u002Fplayerservices.streamtheworld.com\u002Fapi\u002Flivestream-redirect\u002FMYXFMAAC_48.aac
+#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="BAYU" ch-number="867" tvg-logo="https://aqfadtv.xyz/logos/SyokBayu2021.png", SYOK Bayu (Astro Radio)
+https:\u002F\u002Fplayerservices.streamtheworld.com\u002Fapi\u002Flivestream-redirect\u002FMYXFMAAC_48.aac
+#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="KENYALANG" ch-number="868" tvg-logo="https://aqfadtv.xyz/logos/SyokKenyalang2021.png", SYOK Kenyalang (Astro Radio)
+https:\u002F\u002Fplayerservices.streamtheworld.com\u002Fapi\u002Flivestream-redirect\u002FMYXFMAAC_48.aac
+#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="ZAYAN" ch-number="876" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png", ZAYAN (Astro Radio)
+https://n40a-eu.rcs.revma.com/7ww2a4tbv4uvv/64_2yvaj6nnb69x02/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="CHN" ch-number="879" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Era_Sabah_2018.png/revision/latest?cb=20211107023416", ERA Sabah (Astro Radio)
+https://n12a-eu.rcs.revma.com/4p3nqmmbv4uvv/18_1oxzafird6r4w02/playlist.m3u8
+#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="CHN" ch-number="880" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Era_Sarawak_2018.png/revision/latest?cb=20211107023427", ERA Sarawak (Astro Radio)
+https://n44a-eu.rcs.revma.com/bkqfqkrbv4uvv/68_p7vhxushjqmj02/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA & SG RADIO 📻 (Others)" tvg-id="Suria FM" tvg-name="Suria FM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Suria.png", Suria FM
 https://mifntechnology.github.io/siaranMy/radio/SuriaFm/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA & SG RADIO 📻 (Others)" tvg-id="Best FM" tvg-name="BestFM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/bestfm.png", Best FM
