@@ -387,7 +387,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:2
 https://mantul.biz.id:443/inetwork/gayanet12/4946.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015" group-title="SPOTV Asia", SPOTV 2 Indonesia
 https://mantul.biz.id:443/inetwork/gayanet12/15858.ts
-#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/ch/309/LOGO/m/0" group-title="FOX SPORTS", FOX SPORTS Mexico
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/ch/309/LOGO/m/0" group-title="FOX SPORTS IzziTV", FOX SPORTS Mexico
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e276bd34034a2c4dcf61d74e1242fbf:4b466a4affb61d2672a4194b14e10ef2
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-HD/default.mpd
@@ -411,7 +411,7 @@ http://iptv12k.com:35461/654321/123456/21718
 http://iptv12k.com:35461/654321/123456/1228
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Now Sports「Hong Kong」", NBA TV (NowTV)
 http://iptv12k.com:35461/654321/123456/1227
-#EXTINF:-1, tvg-id="SkySportsMX" tvg-name="SkySportsMX" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/4Tdv5fRuFYHPU5f2LZwYnv/8dcdb0cbd2a8b1c51732f44f8769fcf9/slidecanales-skysports.png" group-title="Sky Sports", Sky Sports MX
+#EXTINF:-1, tvg-id="SkySportsMX" tvg-name="SkySportsMX" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/4Tdv5fRuFYHPU5f2LZwYnv/8dcdb0cbd2a8b1c51732f44f8769fcf9/slidecanales-skysports.png" group-title="Sky Sports IzziTV", Sky Sports MX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
 https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd
