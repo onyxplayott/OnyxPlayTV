@@ -91,6 +91,11 @@ http://iptv12k.com:35461/654321/123456/3211
 http://iptv12k.com:35461/654321/123456/3218
 #EXTINF:-1 tvg-name="TOONIVERSEKR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Tooniverse_logo_2019.svg/1280px-Tooniverse_logo_2019.svg.png" group-title="KOREAN PREMIUM", TOONIVERSE HD
 
+
+#EXTINF:-1 tvg-logo="https://kenpark76.github.io/logo/투니버스.png", 투니버스
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-cookie="CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly90b29uaS1tY2RuLnR2aW5nLmNvbS90b29uaS9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczODE1NTAyMH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_; CloudFront-Signature=PLEI8vJUwgUG1sPONkgE-s9nNIXI-yVNijyJBFZuB5Uv1S74oyFuuYlKrS3ul1cCEz2qPzRg1IzUMEjyvLJOi429ShbFeg4RYk6nzoPLPfBQZJdmVwS2vdMggC7u2CYi6jCYZsKLsxXu0q98Ux~pY2ZN1z03~O92DOcDR9kgxgsdXdWIwjVY6OpQXB9GdqP9XyHQLrhskMpLjM560r1pDnwY9loVSLTc8bimRhqigDgEECh3SHiI7vl5MNR5i5zkh358D~OMNS3WtNM~EK~kYNnzmH6GIGr4bpprXYPkUVkzKRNVkDzBXR9I9drlwP9xj1oXuXWkJUdFXrXApsHn9w__;"
+https://tooni-mcdn.tving.com/tooni/live2000.smil/chunklist.m3u8
 ========================================================
 #EXTINF:-1 tvg-name="CGTN English" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="CGTN Channels", CGTN English
 https://0472.org/hls/cgtn.m3u8
