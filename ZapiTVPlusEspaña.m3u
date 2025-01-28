@@ -124,8 +124,41 @@ https://ott.zapitv.com/live/eds_c2/xtrm_hd/dash_live_enc/xtrm_hd.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "/EgDNo0v7U5PDroU9+X+BQ", "kid": "SQWp13V7XB6eVKxBFKyxkg"}, {"kty": "oct", "k": "6UfGXg7D9bzAIPQaVSuZkw", "kid": "SQtSiinYWAe4HlpAraw4wQ"}, {"kty": "oct", "k": "8kKm+/qnPfveyXyjfMr+CQ", "kid": "5wB7YGJeVL+XlLK83KrCTg"}], "type": "temporary"}
 https://tvup01.edge.milloh-cs.com/historia/historia.mpd
 
+#EXTINF:-1 cuid="427" tvg-chno="427" tvg-name="A3Series Internacional🇪🇸" tvg-id="A.3.Series.ch" tvg-logo="https://logo.iptveditor.com/a3satreseries1.png" group-title="ZapiTV España", A3Series TV
+http://vp-txpro.com:80/live/lupita73/1973/53913&f=.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1280px-History2_logo_%282022%29.svg.png" group-title="ZapiTV España", HISTORIA 2 ES
 http://190.102.246.93:9005/play/a00y
+
+#EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="Somos" tvg-id="Somos.es" tvg-logo="https://logo.iptveditor.com/somos.png" group-title="ZapiTV España", Somos España
+http://185.189.225.150:85/somos/index.m3u8
+
+#EXTINF:-1 cuid="433" tvg-chno="433" tvg-name="Hollywood" tvg-id="Hollywood.es" tvg-logo="https://logo.iptveditor.com/canalhollywood.png" group-title="ZapiTV España", Canal Hollywood 
+http://185.189.225.150:85/Hollywood/index.m3u8
+
+#EXTINF:-1 cuid="447" tvg-chno="447" tvg-name="AMC" tvg-id="AMC.es" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="ZapiTV España", AMC España HD (Backup)
+http://185.189.225.150:85/AMC/index.m3u8
+
+#EXTINF:-1 cuid="447" tvg-chno="447" tvg-name="AXN" tvg-id="AXN.es" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="ZapiTV España", AXN España (Backup)
+http://185.189.225.150:85/AXN/index.m3u8
+
+#EXTINF:-1 cuid="447" tvg-chno="447" tvg-name="syfy" tvg-id="SYFY.es" tvg-logo="https://logo.iptveditor.com/osnsyfy.png" group-title="ZapiTV España", SyFy España (Backup)
+http://185.189.225.150:85/syfy/index.m3u8
+
+#EXTINF:-1 cuid="447" tvg-chno="447" tvg-name="calle13" tvg-id="Calle 13.es" tvg-logo="https://logo.iptveditor.com/calle13.png" group-title="ZapiTV España", Calle 13 España (Backup)
+http://185.189.225.150:85/calle13/index.m3u8
+
+#EXTINF:-1 cuid="447" tvg-chno="447" tvg-name="Paramount Network" tvg-id="Paramount.Network.es" tvg-logo="https://logo.iptveditor.com/paramountnetwork.png" group-title="ZapiTV España", Paramount Network España
+http://185.189.225.150:85/Paramount/index.m3u8
+
+#EXTINF:-1 cuid="435" tvg-chno="435" tvg-name="National Geographic" tvg-id="National.Geographic.es" tvg-logo="https://logo.iptveditor.com/natgeographic.png" group-title="ZapiTV España", National Geographic España
+http://185.189.225.150:85/NationalGeographic/index.m3u8
+
+#EXTINF:-1 cuid="434" tvg-chno="434" tvg-name="Odisea" tvg-id="Odisea.es" tvg-logo="https://logo.iptveditor.com/odisea.png" group-title="ZapiTV España", Canal Odisea
+http://185.189.225.150:85/odisea/index.m3u8
+
+#EXTINF:-1 cuid="435" tvg-chno="435" tvg-name="" tvg-id="Nat.Geo.Wild.es" tvg-logo="https://logo.iptveditor.com/natgeowild.png" group-title="ZapiTV España", Nat Geo Wild España 
+http://185.189.225.150:85/natgeowild/index.m3u8
 
 #EXTINF:-1 tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" tvg-id="La1.es" group-title="RTVE Digital", La 1 HD
 https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
