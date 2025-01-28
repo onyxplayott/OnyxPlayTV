@@ -20,7 +20,7 @@
 
 
 
-by : ~ OnegaiCableNetwork ~
+
 
 
 
@@ -29,7 +29,8 @@ by : ~ OnegaiCableNetwork ~
 
 
 
-‼️ Don't Sell or Buy My Playlist From Unknown 3rd Party From The Other Sources Without My Permission 😡😡 ‼️
+
+‼️ Don't Sell or Buy My Playlist From Unknown 3rd Party From The Other Sources Without My Permission 😡😡.
 
 
 
@@ -43,7 +44,7 @@ by : ~ OnegaiCableNetwork ~
 
 
 
-‼️ IF CHANNELS ARE UNSTABLE, WE WILL BE REMOVE IT AND REPLACE BY ANOTHER SOURCE. ‼️
+‼️ IF CHANNELS ARE UNSTABLE, WE WILL BE REMOVE IT AND REPLACE BY ANOTHER SOURCE.
 
 
 
@@ -143,7 +144,6 @@ WE PROVIDE THEIR SERVICE AS ABOVE TO PRIVATE USER ONLY :
 
 
 
-🚀POWERED by AlterEgoMan 🇯🇵✌️🚀
 
 
 
