@@ -569,23 +569,21 @@ https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.m
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 #EXTINF:-1 group-title="meWATCH MPD SG" tvg-id="CNA" tvg-name="CNA" tvg-logo="https://pictr.com/images/2023/04/18/Enl0AP.png", Channel News Asia HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="MALAYSIA & BRUNEI (DIGITAL TV)"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", RTM TV1
+#EXTINF:-1 group-title="MALAYSIA & BRUNEI (DIGITAL TV)"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", TV1 (RTM)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
-#EXTINF:-1 group-title="MALAYSIA & BRUNEI (DIGITAL TV)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png", RTM TV2
+#EXTINF:-1 group-title="MALAYSIA & BRUNEI (DIGITAL TV)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png", TV2 (RTM)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
-#EXTINF:-1 group-title="MALAYSIA & BRUNEI (DIGITAL TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/TV6_RTM.png", RTM TV6 (MPD)
+#EXTINF:-1 group-title="MALAYSIA & BRUNEI (DIGITAL TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/TV6_RTM.png", TV6 (RTM) [MPD]
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
-#EXTINF:-1 group-title="MALAYSIA & BRUNEI (DIGITAL TV)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/TV_Okey.png/revision/latest?cb=20180622050405",RTM TV OKEY
+#EXTINF:-1 group-title="MALAYSIA & BRUNEI (DIGITAL TV)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/TV_Okey.png/revision/latest?cb=20180622050405",  TV OKEY (RTM)
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
-#EXTINF:-1 group-title="MALAYSIA & BRUNEI (DIGITAL TV)" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png",RTM Parlimen Dewan Rakyat
+#EXTINF:-1 group-title="MALAYSIA & BRUNEI (DIGITAL TV)" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", Parlimen Dewan Rakyat (RTM Feed)
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b2596000_slENG.m3u8?id=7
-#EXTINF:-1 group-title="MALAYSIA & BRUNEI (DIGITAL TV)" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", RTM Parlimen Dewan Negara
+#EXTINF:-1 group-title="MALAYSIA & BRUNEI (DIGITAL TV)" tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png", Parlimen Dewan Negara (RTM Feed)
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?id=8
-#EXTINF:-1 tvg-id="SukanRTMHD" tvg-name="SukanRTM" tvg-logo="https://ecentral.my/wp-content/uploads/2024/09/sukan-rtm.jpg" group-title="MALAYSIA & BRUNEI (DIGITAL TV)", Sukan RTM HD
+#EXTINF:-1 tvg-id="SukanRTMHD" tvg-name="SukanRTM" tvg-logo="https://ecentral.my/wp-content/uploads/2024/09/sukan-rtm.jpg" group-title="MALAYSIA & BRUNEI (DIGITAL TV)", Sukan RTM (RTM)
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-#EXTINF:-1 tvg-id="SukanRTMHD" tvg-name="SukanRTM" tvg-logo="https://ecentral.my/wp-content/uploads/2024/09/sukan-rtm.jpg" group-title="MALAYSIA & BRUNEI (DIGITAL TV)", Sukan RTM (MYTV)
-https://manadia.combilolo.workers.dev/mana2.m3u8?id=sukan-rtm
 #EXTINF:-1  group-title="MALAYSIA & BRUNEI (DIGITAL TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png", RTB Sukmaindera
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
@@ -620,12 +618,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OaJ6osyEoptmX8xNv5xUtg", "kid":"FAa78hjKFPlnA0/PSr93EA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
-#EXTINF:-1 tvg-id="BernamaTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="MALAYSIA & BRUNEI (DIGITAL TV)", Bernama TV (Backup)
-http://d14sysfrzu8fji.cloudfront.net/bernama.m3u8
-#EXTINF:-1 group-title="MALAYSIA & BRUNEI (DIGITAL TV)" tvg-id="BernamaTV" tvg-name="BernamaTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png", BERNAMA TV (TEST)
-http://31.42.187.37:25461/watchpad13158/1234/341
-#EXTINF:-1 group-title="MALAYSIA & BRUNEI (DIGITAL TV)" tvg-id="TVSarawak" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg", TVS (TV Sarawak)
-http://31.42.187.37:25461/watchpad13158/1234/14
 #EXTINF:-1 group-title="MALAYSIA & BRUNEI (DIGITAL TV)" tvg-id="TVIKIM" tvg-number="117" tvg-name="TV IKIM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim (Test)
 https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 #EXTINF:-1 tvg-id="103.astro" tvg-name="103.astro" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=150&appID=TONTON" group-title="MALAYSIA TV (TONTON)" ch-number="103", TV3 (TONTON)
