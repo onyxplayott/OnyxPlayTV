@@ -775,6 +775,28 @@ https://cdn09jtedge.indihometv.com/joss/130/rodjatv/index.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/130/muitv/index.m3u8?c
 #EXTINF:-1 group-title="INDONESIA (DIGITAL TV)" tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png", CNBC INDONESIA (indihomeTV)
 https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8?c
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="INDONESIA (DIGITAL TV)", RCTI
+http://iptv12k.com:35461/654321/123456/2185
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDONESIA (DIGITAL TV)", GTV (GlobalTV)
+http://iptv12k.com:35461/654321/123456/4290
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png" group-title="INDONESIA (DIGITAL TV)", Net/MDTV
+http://iptv12k.com:35461/654321/123456/2186
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="INDONESIA (DIGITAL TV)", Trans TV (backup)
+http://iptv12k.com:35461/654321/123456/2183
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title="INDONESIA (DIGITAL TV)", Trans 7 (backup)
+http://iptv12k.com:35461/654321/123456/2182
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_id.png" group-title="INDONESIA (DIGITAL TV)", TV One (backup)
+http://iptv12k.com:35461/654321/123456/2181
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" group-title="INDONESIA (DIGITAL TV)", Metro TV (backup)
+http://iptv12k.com:35461/654321/123456/2180
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png" group-title="INDONESIA (DIGITAL TV)", Kompas TV (backup)
+http://iptv12k.com:35461/654321/123456/2179
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jak-tv-id.png" group-title="INDONESIA (DIGITAL TV)", JakTV (backup)
+http://iptv12k.com:35461/654321/123456/2166
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jtv_id.png" group-title="INDONESIA (DIGITAL TV)", JTV (backup)
+http://iptv12k.com:35461/654321/123456/2165
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/riau-tv-id.png" group-title="INDONESIA (DIGITAL TV)", RTV (backup)
+http://iptv12k.com:35461/654321/123456/2161
 ========================================================
 #EXTINF:-1 tvg-id="Sextreme" tvg-name="Sextreme" group-title="Hot Channels" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Sextreme.webp", Sextreme HD
 http://38.41.8.1:8000/play/a0ex
