@@ -786,10 +786,6 @@ http://iptv12k.com:35461/654321/123456/2181
 http://iptv12k.com:35461/654321/123456/2180
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png" group-title="INDONESIA (DIGITAL TV)", Kompas TV (backup)
 http://iptv12k.com:35461/654321/123456/2179
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jak-tv-id.png" group-title="INDONESIA (DIGITAL TV)", JakTV (backup)
-http://iptv12k.com:35461/654321/123456/2166
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jtv_id.png" group-title="INDONESIA (DIGITAL TV)", JTV (backup)
-http://iptv12k.com:35461/654321/123456/2165
 ========================================================
 #EXTINF:-1 tvg-id="Sextreme" tvg-name="Sextreme" group-title="Hot Channels" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Sextreme.webp", Sextreme HD
 http://38.41.8.1:8000/play/a0ex
