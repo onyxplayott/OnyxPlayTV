@@ -139,7 +139,7 @@ FOR ANDROID DEVICES :
 
 
 
-🟢TeleZapES: https://bit.ly/40QaJTq
+🟢TeleZapES with EPG Spain: https://bit.ly/40QaJTq
 
 
 
