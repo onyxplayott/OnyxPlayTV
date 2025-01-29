@@ -133,9 +133,13 @@ FOR ANDROID DEVICES :
 
 
 
+
+
 🟢OnyxPlayOTT V2: https://bit.ly/onyxplayottv2
 
 
+
+🟢TeleZapES: https://bit.ly/40QaJTq
 
 
 
