@@ -147,3 +147,5 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakut
 
 #EXTINF:-1 tvg-id="Movie_2" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png" group-title="Rakuten-JP",(243) 映画（年齢制限あり）
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
+
+#EXTM3U billed-msg="RAKUTENTV JAPAN (RAKUTENTV FAST CHANNEL) 🇯🇵/楽天TV (Rチャンネル) 🇯🇵"
