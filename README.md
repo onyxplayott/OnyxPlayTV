@@ -30,7 +30,7 @@
 
 
 
-‼️ Don't Sell or Buy My Playlist From Unknown 3rd Party From The Other Sources Without My Permission 😡😡.
+‼️ Don't Sell or Buy My Playlist From Unknown 3rd Party From The Other Sources Without My Permission.
 
 
 
@@ -118,6 +118,12 @@ FOR ANDROID DEVICES :
 
 (●) Video On Demand (VOD): Null
 
+
+
+(●) Category Channels: 43
+
+
+(●) This Channels are Currently Stable.
 
 
 
