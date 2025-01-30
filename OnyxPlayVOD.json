@@ -304,24 +304,7 @@
            "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e4641bd7-505f-544d-8fc0-a6eb23049bad/default_dash.mpd", 
            "drm": "clearkey", 
            "drmkey": "ad26c3a4f89bd4083aea29ef564ba810:f1ff682764b969b209de92ab202fbd4b"
- }, 
- {        
-  "name": "Goodbye, Don Glees! (グッバイ、ドン・グリーズ!)", 
-  "category": "New Release on Astro First",
-  "info": { 
-           "poster": "https://resizing.flixster.com/cCCl1Im8Kp6MwmyuiDhVctDO1ig=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p21730184_v_v10_ah.jpg", 
-           "bg": "https://resizing.flixster.com/cCCl1Im8Kp6MwmyuiDhVctDO1ig=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p21730184_v_v10_ah.jpg", 
-           "plot": "Semasa mereka masih kecil, Toto Mitarai dan Roma Kamogawa membentuk kelab mereka sendiri, Don Glees. Apabila Toto mencapai usia 15, dia berpindah ke Tokyo untuk bersekolah di sekolah menengah. Toto kembali setahun kemudian untuk mencari Roma yang merindui naksirnya, Tivoli Urayasu, yang telah berpindah ke Ireland. Toto mendorong Roma untuk menghubungi Tivoli, bahkan memanggil Tivoli jarak jauh untuk membuat Roma bercakap dengannya. Toto juga mendapati bahawa Roma telah menambah ahli baru ke kelab, Drop Sakuma. Drop bercakap Roma untuk membelanjakan semua wangnya untuk membeli drone. Mereka akan menggunakan drone untuk merakam pertunjukan bunga api profesional yang besar, sambil meletakkan bunga api mereka sendiri di padang terpencil. Tetapi pada malam paparan, mereka tidak dapat menyalakan bunga api mereka, dan Roma kehilangan drone. Beberapa jam kemudian, kebakaran hutan meletus di Pergunungan.", 
-           "backdrop": "https://m.media-amazon.com/images/M/MV5BZWVmNzUxNzUtMTJhMy00ODIzLTg5OWQtMmM5NWM2Y2RhNDEzXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_QL75_UX500_CR0,0,500,281_.jpg", 
-           "director": ["Atsuko Ishizuka"], 
-           "cast": ["Yuji Kaji, Natsuki Hanae, Ayumu Murase, Kana Hanazawa"],
-           "trailer": "",
-           "year": "2022"
-           }, 
-           "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/aefe82a3-f742-5f4b-821f-40e43bdd3dfa/default_dash.mpd", 
-           "drm": "clearkey", 
-           "drmkey": "ad26c3a4f89bd4083aea29ef564ba810:f1ff682764b969b209de92ab202fbd4b"
- }, 
+ },
  {        
   "name": "Rathnam (ரத்னம்)", 
   "category": "New Release on Astro First",
