@@ -296,3 +296,32 @@ http://176.65.146.224:8401/play/a0ab/index.m3u8
 #EXTINF:-1 cuid="445" tvg-chno="445" tvg-name="La Sexta 🇪🇸" tvg-id="La.Sexta.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/La%20Sexta.webp" group-title="ZapiTV España", La Sexta HD
 http://176.65.146.224:8401/play/a0a6/index.m3u8
 
+#EXTINF:-1 cuid="471" tvg-chno="471" tvg-name="Canal Extremadura Sat 🇪🇸" tvg-id="Canal.Extremadura.Sat..ch" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Canal-Extremadura.webp" group-title="ZapiTV España", Canal Extremadura Sat HD
+https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 cuid="448" tvg-chno="448" tvg-name="Divinity 🇪🇸" tvg-id="Divinity.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Divinity.webp" group-title="ZapiTV España", Divinity HD
+http://185.233.16.53/live/UWCPVED8V2/H5gMVveKAHAD/861583&f=.m3u8
+
+#EXTINF:-1 cuid="448" tvg-chno="448" tvg-name="Divinity 🇪🇸" tvg-id="Divinity.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Divinity.webp" group-title="ZapiTV España", Divinity (backup)
+http://176.65.146.224:8401/play/a0aa/index.m3u8
+
+#EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="fdf 🇪🇸" tvg-id="Factoría.de.Ficción.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="ZapiTV España", FDF TV
+http://185.189.225.150:85/fdf/index.m3u8
+
+#EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="fdf 🇪🇸" tvg-id="Factoría.de.Ficción.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="ZapiTV España", FDF HD
+https://tvnoov.com/fadoo/fdf.m3u8
+
+#EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="fdf 🇪🇸" tvg-id="Factoría.de.Ficción.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="ZapiTV España", FDF (Backup)
+http://176.65.146.224:8401/play/a0a9/index.m3u8
+
+#EXTINF:-1 cuid="464" tvg-chno="464" tvg-name="Aragon TV Internacional 🇪🇸 ⚽️" tvg-id="Aragón.TV.Int.es" tvg-logo="http://www.aragontelevision.es/logos/apple-touch-icon.png" group-title="ZapiTV España", Aragon TV Intl
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 cuid="466" tvg-chno="466" tvg-name="TeleMadrid Internacional 🇪🇸" tvg-id="Telemadrid.Int..es" tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png?hash=dcdede14b767968b29028761f31fe79e" group-title="ZapiTV España", TeleMadrid Intl
+https://new-international-23-secure2.akamaized.net/index.m3u8
+
+#EXTINF:-1 cuid="438" tvg-chno="438" tvg-name="TV3CAT 🇪🇸" tvg-id="TV3.Cat.es" tvg-logo="https://www.3cat.cat/_resources/favicons/3cat-favicon-192x192.png" group-title="ZapiTV España", TV3CAT HD
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/bitrate_7.m3u8
+
+#EXTINF:-1 cuid="439" tvg-chno="439" tvg-name="3/24 🇪🇸" tvg-id="3.24.es" tvg-logo="https://logo.iptveditor.com/324.png" group-title="ZapiTV España", Canal 3/24 HD
+https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
