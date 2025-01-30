@@ -24,7 +24,7 @@
 
 
 
-*This is personal playlist, taken from many channel sources* 
+*This is personal playlist, that can used in Many IPTV APPS such as Televizo, OTT Navigator, Tivimate & more.* 
 
 
 
