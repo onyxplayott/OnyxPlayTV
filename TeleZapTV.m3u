@@ -357,3 +357,12 @@ https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FMo
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 https://xyzdddd.mizhls.ru/lb/premium435/index.m3u8
+
+#EXTINF:-1 cuid="1048" tvg-chno="1050" tvg-name="Eurosport 1 🇪🇸" tvg-id="Eurosport.1.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="ZapiTV España", Eurosport España
+http://oldraindays.net/live/228463308/r576049x/324257.ts
+
+#EXTINF:-1 cuid="1048" tvg-chno="1050" tvg-name="Eurosport 1 🇪🇸" tvg-id="Eurosport.1.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="ZapiTV España", Eurosport 1 España (Backup)
+http://185.189.225.150:85/Eurosport1/index.m3u8
+
+#EXTINF:-1 cuid="1062" tvg-chno="1062" tvg-name="Eurosport 2 🇪🇸" tvg-id="Eurosport.2.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="ZapiTV España", Eurosport 2 España
+http://185.189.225.157/EuroSport2/index.m3u8
