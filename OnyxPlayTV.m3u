@@ -1026,6 +1026,48 @@ http://185.189.225.150:85/NationalGeographic/index.m3u8
 http://185.189.225.150:85/odisea/index.m3u8
 #EXTINF:-1 cuid="435" tvg-chno="435" tvg-name="" tvg-id="Nat.Geo.Wild.es" tvg-logo="https://logo.iptveditor.com/natgeowild.png" group-title="ZapiTV España", Nat Geo Wild España 
 http://185.189.225.150:85/natgeowild/index.m3u8
+#EXTINF:-1 tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" tvg-id="La1.es" group-title="RTVE Digital", La 1 HD
+https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
+#EXTINF:-1 tvg-name="La 2" tvg-logo="https://i.imgur.com/DmuTwDw.png" tvg-id="La2.es" group-title="RTVE Digital", La 2 HD
+https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_1080.m3u8
+#EXTINF:-1 tvg-name="24h" tvg-logo="https://i.imgur.com/ZKR2jKr.png" tvg-id="24h.es" group-title="RTVE Digital", 24h
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
+#EXTINF:-1 tvg-name="tdp" tvg-logo="https://i.imgur.com/HliegRJ.png" tvg-id="tdp.es" group-title="RTVE Digital", tdp
+https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main_1080.m3u8
+#EXTINF:-1 tvg-name="clan" tvg-logo="https://i.imgur.com/38xIfQ3.png" tvg-id="clan.es" group-title="RTVE Digital", clan
+https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8
+#EXTINF:-1 cuid="102" tvg-chno="110" tvg-name="El Pais 🇪🇸" tvg-id="ESBC39000033J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20240925T141414SQUARE.png" group-title="ZapiTV España", Canal El Pais
+https://bit.ly/3pXfx9q?profile=inspirationFreetv.m3u8
+#EXTINF:-1 cuid="451" tvg-chno="451" tvg-name="Nova 🇪🇸" tvg-id="Nova.es" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200" group-title="ZapiTV España", Nova 
+http://185.233.16.53:80/live/UWCPVED8V2/H5gMVveKAHAD/630822.m3u8
+#EXTINF:-1 cuid="451" tvg-chno="451" tvg-name="Nova 🇪🇸" tvg-id="Nova.es" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200" group-title="ZapiTV España", Nova HD
+http://185.189.225.150:85/nova/index.m3u8
+#EXTINF:-1 cuid="452" tvg-chno="452" tvg-name="DKiss 🇪🇸" tvg-id="DKISS.es" tvg-logo="https://graph.facebook.com/DKissTV/picture?width=200&height=200" group-title="ZapiTV España", DKiss HD
+http://185.233.16.53:80/live/UWCPVED8V2/H5gMVveKAHAD/786711.m3u8
+#EXTINF:-1 cuid="452" tvg-chno="452" tvg-name="DKiss 🇪🇸" tvg-id="DKISS.es" tvg-logo="https://graph.facebook.com/DKissTV/picture?width=200&height=200" group-title="ZapiTV España", DKiss FHD
+http://176.65.146.224:8401/play/a09e/index.m3u8
+#EXTINF:-1 cuid="453" tvg-chno="453" tvg-name="DMAX 🇪🇸🇺🇸" tvg-id="DMAX.es" tvg-logo="https://graph.facebook.com/DMAXes/picture?width=200&height=200" group-title="ZapiTV España", DMAX España
+http://176.65.146.224:8401/play/a0a3/index.m3u8
+#EXTINF:-1 cuid="453" tvg-chno="453" tvg-name="DMAX 🇪🇸🇺🇸" tvg-id="DMAX.es" tvg-logo="https://graph.facebook.com/DMAXes/picture?width=200&height=200" group-title="ZapiTV España", DMAX España HD
+https://tvnoov.com/fadoo/dmax.m3u8
+#EXTINF:-1 cuid="449" tvg-chno="449" tvg-name="Mega 🇪🇸" tvg-id="Mega.es" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200" group-title="ZapiTV España", Mega TV
+http://176.65.146.224:8401/play/a09t/index.m3u8
+#EXTINF:-1 cuid="449" tvg-chno="449" tvg-name="Mega 🇪🇸" tvg-id="Mega.es" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200" group-title="ZapiTV España", Mega HD
+http://185.189.225.150:85/mega/index.m3u8
+#EXTINF:-1 cuid="450" tvg-chno="450" tvg-name="Neox 🇪🇸" tvg-id="Neox.es" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200" group-title="ZapiTV España", Neox
+http://185.189.225.150:85/neox/index.m3u8
+#EXTINF:-1 cuid="450" tvg-chno="450" tvg-name="Neox 🇪🇸" tvg-id="Neox.es" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200" group-title="ZapiTV España", Neox HD
+http://176.65.146.224:8401/play/a0a7/index.m3u8
+#EXTINF:-1 cuid="453" tvg-chno="453" tvg-name="" tvg-id="Ten.es" tvg-logo="https://tentv.es/images/logo.png" group-title="ZapiTV España", TEN España HD
+http://line.4smart.in:80/live/TYHZRW6/MF7V7X2/975893&f=.ts
+#EXTINF:-1 cuid="453" tvg-chno="453" tvg-name="" tvg-id="Ten.es" tvg-logo="https://tentv.es/images/logo.png" group-title="ZapiTV España", TEN España 
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
+#EXTINF:-1 cuid="441" tvg-chno="441" tvg-name="Antena 3 🇪🇸" tvg-id="Antena.3.es" tvg-logo="https://logo.iptveditor.com/antena3.png" group-title="ZapiTV España", Antena tr3s
+http://176.65.146.224:8401/play/a0a5/index.m3u8
+#EXTINF:-1 cuid="441" tvg-chno="441" tvg-name="Antena 3 🇪🇸" tvg-id="Antena.3.es" tvg-logo="https://logo.iptveditor.com/antena3.png" group-title="ZapiTV España", Antena 3 HD
+https://tvnoov.com/fadoo/antena3.m3u8
+#EXTINF:-1 cuid="441" tvg-chno="441" tvg-name="Antena 3 🇪🇸" tvg-id="Antena.3.es" tvg-logo="https://logo.iptveditor.com/antena3.png" group-title="ZapiTV España", Antena 3 (Backup)
+http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/1782&f=.ts
 ========================================================
 #EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="myTV SUPER HK (LIVE EVENT)", myTV SUPER CH18
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
