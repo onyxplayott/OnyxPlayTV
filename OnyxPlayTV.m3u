@@ -1069,9 +1069,9 @@ https://tvnoov.com/fadoo/antena3.m3u8
 #EXTINF:-1 cuid="441" tvg-chno="441" tvg-name="Antena 3 🇪🇸" tvg-id="Antena.3.es" tvg-logo="https://logo.iptveditor.com/antena3.png" group-title="ZapiTV España", Antena 3 (Backup)
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/1782&f=.ts
 ========================================================
-#EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="myTV SUPER HK (LIVE EVENT)", myTV SUPER CH18
+#EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="myTV SUPER TVB (LIVE EVENT)", myTV SUPER CH18 (Horse Racing 🐎)
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1 tvg-id="myTV-28-AI" tvg-name="myTV SUPER 28 AI 智慧賽馬" tvg-logo="https://assets.livednow.com/logo/myTV-28-AI.png" group-title="myTV SUPER HK (LIVE EVENT)", myTV SUPER 28AI Horse Racing
+#EXTINF:-1 tvg-id="myTV-28-AI" tvg-name="myTV SUPER 28 AI 智慧賽馬" tvg-logo="https://assets.livednow.com/logo/myTV-28-AI.png" group-title="myTV SUPER TVB (LIVE EVENT)", myTV SUPER 28AI (Horse Racing 🐎)
 http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 ======================================================
 #EXTINF:-1 tvg-id="643.unifi" tvg-logo="https://iili.io/Jhks7wu.png" group-title="BERITA ANTARABANGSA", NHK World Japan
