@@ -5,7 +5,7 @@
 # (●) Total Channels: Null
 ========================================================
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/02/257841ac-7e01-3ebb-8091-3630d0a6ef8b.jpeg?w=500&f=webp" tvg-id="052" group-title="HBO USA" group-logo="https://images.cdn.prd.api.discomax.com/5feb/00e8e2daeeed.png?h=30&f=webp", HBO Zone (Test)
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/02/257841ac-7e01-3ebb-8091-3630d0a6ef8b.jpeg?w=500&f=webp" tvg-id="052" group-title="HBO USA", HBO Zone (Test)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQHURlafg8JSmECHohNOUw","k":"aAvjS0qckmR3GxmDsf3JnA"},{"kty":"oct","kid":"AQJZdTB7XAUB6HEDAHSqzg","k":"sBBTAsuuI9lRvrEmkAVlNg"},{"kty":"oct","kid":"AQBGyruYoH5M3wnD77PBIQ","k":"GbD4P1ZiDyfxV5qB2-bIjQ"}],"type":"temporary"}
