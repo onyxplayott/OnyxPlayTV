@@ -127,7 +127,7 @@ https://tvup01.edge.milloh-cs.com/historia/historia.mpd
 #EXTINF:-1 cuid="427" tvg-chno="427" tvg-name="A3Series Internacional🇪🇸" tvg-id="A.3.Series.ch" tvg-logo="https://logo.iptveditor.com/a3satreseries1.png" group-title="ZapiTV España", A3Series TV
 http://vp-txpro.com:80/live/lupita73/1973/53913&f=.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1280px-History2_logo_%282022%29.svg.png" group-title="ZapiTV España", HISTORIA 2 ES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1280px-History2_logo_%282022%29.svg.png" group-title="ZapiTV España", Canal Historia 2
 http://190.102.246.93:9005/play/a00y
 
 #EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="Somos" tvg-id="Somos.es" tvg-logo="https://logo.iptveditor.com/somos.png" group-title="ZapiTV España", Somos España
@@ -237,4 +237,62 @@ http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/1782&f=.ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6d08b265a6639e32da7c880d5491e3d2":"0c92556ca14b95f367993710e7cfbc94"}
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://logo.iptveditor.com/trece.png" group-title="ZapiTV España", Trece HD
+https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://logo.iptveditor.com/trece.png" group-title="ZapiTV España", Trece (backup)
+https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+
+#EXTINF:-1 cuid="467" tvg-chno="467" tvg-name="Canal Sur Andalucía 🇪🇸" tvg-id="Canal.Sur.Andalucía.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20240611T061832SQUARE.png" group-title="ZapiTV España", Canal Sur Andalucía
+https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
+
+#EXTINF:-1 cuid="468" tvg-chno="468" tvg-name="Canal Sur Andalucía 🇪🇸" tvg-id="Canal.Sur.Andalucía.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20240611T061832SQUARE.png" group-title="ZapiTV España", Canal Sur Andalucía (backup)
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+
+#EXTINF:-1 cuid="459" tvg-chno="459" tvg-name="El Toro TV 🇪🇸" tvg-id="El.Toro.TV.es" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="ZapiTV España", El Toro TV
+https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
+
+#EXTINF:-1 cuid="460" tvg-chno="460" tvg-name="ETB 1 🇪🇸" tvg-id="ETB1.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ETB1.webp" group-title="ZapiTV España", ETB 1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+
+#EXTINF:-1 cuid="462" tvg-chno="462" tvg-name="ETB 2 🇪🇸" tvg-id="ETB2.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ETB2.webp" group-title="ZapiTV España", ETB 2 🇪🇸
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+
+#EXTINF:-1 cuid="463" tvg-chno="463" tvg-name="ETB 3 🇪🇸" tvg-id="ETB3.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ETB3.webp" group-title="ZapiTV España", ETB 3
+https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:273_HD.smil/manifest.m3u8
+
+#EXTINF:-1 cuid="456" tvg-chno="456" tvg-name="Galicia Europa 🇪🇸" tvg-id="TVG.Europa.es" tvg-logo="https://crtvg.gal/o/portal-crtvg-base-theme/images/favicon.ico" group-title="ZapiTV España", TV Galicia Europa
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 cuid="457" tvg-chno="457" tvg-name="Galicia America 🇪🇸" tvg-id="TVG.Europa.es" tvg-logo="https://crtvg.gal/o/portal-crtvg-base-theme/images/favicon.ico" group-title="ZapiTV España", TV Galicia America
+https://crtvg-america.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 cuid="458" tvg-chno="458" tvg-name="Galicia 2 🇪🇸" tvg-id="TVG.2.es" tvg-logo="https://crtvg.gal/o/portal-crtvg-base-theme/images/favicon.ico" group-title="ZapiTV España", TV Galicia 2
+https://crtvg-events1.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 cuid="455" tvg-chno="455" tvg-name="La Otra 🇪🇸" tvg-id="La.Otra.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/La%20Otra.webp" group-title="ZapiTV España", La Otra TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=https://www.telemadrid.es/
+#EXTVLCOPT:http-origin=https://www.telemadrid.es
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
+
+#EXTINF:-1 cuid="443" tvg-chno="443" tvg-name="Cuatro 🇪🇸" tvg-id="Cuatro.es" tvg-logo="https://baul.mediaset.es/dist/assets/favicon/cuatro/apple-touch-icon.png" group-title="ZapiTV España", Cuatro HD
+http://176.65.146.224:8401/play/a0ac/index.m3u8
+
+#EXTINF:-1 cuid="443" tvg-chno="443" tvg-name="Cuatro 🇪🇸" tvg-id="Cuatro.es" tvg-logo="https://baul.mediaset.es/dist/assets/favicon/cuatro/apple-touch-icon.png" group-title="ZapiTV España", Cuatro SD
+https://tvnoov.com/fadoo/cuatrohd.m3u8
+
+#EXTINF:-1 cuid="444" tvg-chno="444" tvg-name="Telecinco 🇪🇸" tvg-id="Telecinco.es" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="ZapiTV España", Telecinco HD
+http://185.233.16.53:80/live/UWCPVED8V2/H5gMVveKAHAD/989557&f=.ts
+
+#EXTINF:-1 cuid="444" tvg-chno="444" tvg-name="Telecinco 🇪🇸" tvg-id="Telecinco.es" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="ZapiTV España", Telecinco SD
+https://tvnoov.com/fadoo/telecincohd.m3u8
+
+#EXTINF:-1 cuid="444" tvg-chno="444" tvg-name="Telecinco 🇪🇸" tvg-id="Telecinco.es" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="ZapiTV España", Telecinco (backup)
+http://176.65.146.224:8401/play/a0ab/index.m3u8
+
+#EXTINF:-1 cuid="445" tvg-chno="445" tvg-name="La Sexta 🇪🇸" tvg-id="La.Sexta.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/La%20Sexta.webp" group-title="ZapiTV España", La Sexta HD
+http://176.65.146.224:8401/play/a0a6/index.m3u8
 
