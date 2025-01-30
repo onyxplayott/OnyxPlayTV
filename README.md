@@ -139,7 +139,7 @@ FOR ANDROID DEVICES :
 
 
 
-🟢TeleZapES with EPG Spain: https://bit.ly/40QaJTq
+🟢TeleZapES with EPG Spain: https://bit.ly/3EqSXx3 (new links due to changing a new name.)
 
 
 *Will be updated more channels soon from the other sources.*
