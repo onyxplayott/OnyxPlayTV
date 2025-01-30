@@ -142,6 +142,7 @@ FOR ANDROID DEVICES :
 🟢TeleZapES with EPG Spain: https://bit.ly/40QaJTq
 
 
+*Will be updated more channels soon*
 
 
 
