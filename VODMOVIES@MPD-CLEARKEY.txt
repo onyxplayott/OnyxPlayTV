@@ -1,9 +1,9 @@
 ℹ️ INFORMATION ℹ️ 
 
 
-Ini adalah contoh format "json" untuk membuat VOD (filem sahaja) yang dapat digunakan di OTT NAVIGATOR, TIVIMATE dan sebagainya.
+Ini adalah contoh format "json" untuk membuat VOD (filem sahaja) yang dapat digunakan di OTT NAVIGATOR & TIVIMATE yang menyokong format "MPD".
 
-This is an example of the "json" format for creating VOD (movies only) that can be used in OTT NAVIGATOR, TIVIMATE and so on.
+This is an example of the "json" format for creating VOD (movies only) that can be used in OTT NAVIGATOR & TIVIMATE that SUPPORT MPD.
  
 
 ==================
@@ -32,9 +32,12 @@ This is an example of the "json" format for creating VOD (movies only) that can 
 
 ⚠️PERHATIAN⚠️
 
+
 PENGGUNAAN DRM CLEARKEY HANYA YANG MENDAPAT AKSES INI DAN DRMKEY UNTUK MENONTON SECARA OPTIMUM.
 
 
+
 ONLY FOR ASTR* & UNIF*TV VOD ONLY USED DRM CLEARKEY TO GET A DRM KEY TO WATCH THESE SHOWS.
+
 
 This is only for VOD Movies that using DRM-Clearkey to play it at VOD libary.
