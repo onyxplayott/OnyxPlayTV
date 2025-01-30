@@ -24,7 +24,7 @@
 
 
 
-*This is personal playlist, taken from many channel sources.* 
+*This is personal playlist, taken from many channel sources* 
 
 
 
@@ -142,7 +142,7 @@ FOR ANDROID DEVICES :
 🟢TeleZapES with EPG Spain: https://bit.ly/40QaJTq
 
 
-*Will be updated more channels soon*
+*Will be updated more channels soon from the other sources.*
 
 
 
