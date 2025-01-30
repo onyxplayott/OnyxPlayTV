@@ -399,11 +399,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/ch/309/LOGO/m/0" group-title="FOX SPORTS IzziTV", FOX SPORTS Mexico
+#EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/ch/309/LOGO/m/0" group-title="FOX SPORTS USA & IzziTV", FOX SPORTS Mexico
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e276bd34034a2c4dcf61d74e1242fbf:4b466a4affb61d2672a4194b14e10ef2
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-HD/default.mpd
+#EXTINF:-1 tvg-id="FOXSPORTS1US" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png" group-title="FOX SPORTS USA & IzziTV", Fox Sports 1 USA
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="FOXSPORTS2US" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="FOX SPORTS USA & IzziTV", Fox Sports 2 USA
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.loli.net/2021/10/10/rVqBTmoNjlhSwk5.jpg" group-title="Now Sports「Hong Kong」", Now Sports 630
 http://iptv12k.com:35461/654321/123456/1017
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="Now Sports「Hong Kong」", Now Sports 1
