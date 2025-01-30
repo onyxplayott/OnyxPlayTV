@@ -1026,16 +1026,10 @@ http://185.189.225.150:85/NationalGeographic/index.m3u8
 http://185.189.225.150:85/odisea/index.m3u8
 #EXTINF:-1 cuid="435" tvg-chno="435" tvg-name="" tvg-id="Nat.Geo.Wild.es" tvg-logo="https://logo.iptveditor.com/natgeowild.png" group-title="ZapiTV España", Nat Geo Wild España 
 http://185.189.225.150:85/natgeowild/index.m3u8
-#EXTINF:-1 tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" tvg-id="La1.es" group-title="RTVE Digital", La 1 HD
+#EXTINF:-1 tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" tvg-id="La1.es" group-title="RTVE Digital TV", La 1 HD
 https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
-#EXTINF:-1 tvg-name="La 2" tvg-logo="https://i.imgur.com/DmuTwDw.png" tvg-id="La2.es" group-title="RTVE Digital", La 2 HD
-https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_1080.m3u8
-#EXTINF:-1 tvg-name="24h" tvg-logo="https://i.imgur.com/ZKR2jKr.png" tvg-id="24h.es" group-title="RTVE Digital", 24h
+#EXTINF:-1 tvg-name="24h" tvg-logo="https://i.imgur.com/ZKR2jKr.png" tvg-id="24h.es" group-title="RTVE Digital TV", 24h
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
-#EXTINF:-1 tvg-name="tdp" tvg-logo="https://i.imgur.com/HliegRJ.png" tvg-id="tdp.es" group-title="RTVE Digital", tdp
-https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main_1080.m3u8
-#EXTINF:-1 tvg-name="clan" tvg-logo="https://i.imgur.com/38xIfQ3.png" tvg-id="clan.es" group-title="RTVE Digital", clan
-https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8
 #EXTINF:-1 cuid="102" tvg-chno="110" tvg-name="El Pais 🇪🇸" tvg-id="ESBC39000033J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20240925T141414SQUARE.png" group-title="ZapiTV España", Canal El Pais
 https://bit.ly/3pXfx9q?profile=inspirationFreetv.m3u8
 #EXTINF:-1 cuid="451" tvg-chno="451" tvg-name="Nova 🇪🇸" tvg-id="Nova.es" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200" group-title="ZapiTV España", Nova 
