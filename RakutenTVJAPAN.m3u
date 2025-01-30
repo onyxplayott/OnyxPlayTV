@@ -1,46 +1,46 @@
 To watch this channel, you must connect to Japan Server using the VPN Apps such as ESET VPN, NordVPN & Others.
 
 #EXTM3U
-#EXTINF:-1 tvg-id="News1" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="Rakuten-JP",(104) 日テレNEWS
+#EXTINF:-1 tvg-id="News1" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="Rakuten-JP", (104) 日テレNEWS
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WeatherNews" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png" group-title="Rakuten-JP",(106) ウェザーニュースLiVE
+#EXTINF:-1 tvg-id="WeatherNews" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png" group-title="Rakuten-JP", (106) ウェザーニュースLiVE
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 
-#EXTINF:-1 tvg-id="TokyoMX" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" group-title="Rakuten-JP",(108) TOKYO MX チャンネル
+#EXTINF:-1 tvg-id="TokyoMX" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" group-title="Rakuten-JP", (108) TOKYO MX チャンネル
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="News3" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/109_kyodo.png" group-title="Rakuten-JP",(109) 共同通信News
+#EXTINF:-1 tvg-id="News3" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/109_kyodo.png" group-title="Rakuten-JP", (109) 共同通信News
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="News2" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/111_oriconnews.png" group-title="Rakuten-JP",(111) オリコンニュース
+#EXTINF:-1 tvg-id="News2" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/111_oriconnews.png" group-title="Rakuten-JP", (111) オリコンニュース
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StockVoice" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/113_stockvoice.png" group-title="Rakuten-JP",(113) STOCK VOICE
+#EXTINF:-1 tvg-id="StockVoice" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/113_stockvoice.png" group-title="Rakuten-JP", (113) STOCK VOICE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/115_bloomberg.png" group-title="Rakuten-JP",(115) [英語]ﾌﾞﾙｰﾑﾊﾞｰｸﾞTV
+#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/115_bloomberg.png" group-title="Rakuten-JP", (115) [英語]ﾌﾞﾙｰﾑﾊﾞｰｸﾞTV
 https://59155f3aad06478b9bbaf6510b811374.mediatailor.ap-northeast-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenJP-web_Bloomberg/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EuronewsEnglish" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/116_euronews.png" group-title="Rakuten-JP",(116) [英語]ユーロニュース
+#EXTINF:-1 tvg-id="EuronewsEnglish" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/116_euronews.png" group-title="Rakuten-JP", (116) [英語]ユーロニュース
 https://1c380e6952614e9f9567582255d487d7.mediatailor.ap-northeast-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenJP-web_EuronewsWorld/playlist.m3u8
 
-#EXTINF:-1 tvg-id="W-cupSA" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/118_fifa2026sa.png" group-title="drmCH",(x118x) FIFA W杯26 南米予選
+#EXTINF:-1 tvg-id="W-cupSA" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/118_fifa2026sa.png" group-title="drmCH", (x118x) FIFA W杯26 南米予選
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-worldcupsa-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NBAPlayout" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/119_nbarakuten.png" group-title="drmCH",(x119x) NBA Rakuten
+#EXTINF:-1 tvg-id="NBAPlayout" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/119_nbarakuten.png" group-title="drmCH", (x119x) NBA Rakuten
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nba-playout-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NBATV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/120_nbatv.png" group-title="drmCH",(x121x) [英語]NBA TV
+#EXTINF:-1 tvg-id="NBATV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/120_nbatv.png" group-title="drmCH", (x121x) [英語]NBA TV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nba-turnaround-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A_JapaneseProBaseball" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/122_pacificleague.png" group-title="drmCH",(x122x) パ・リーグSpecial
+#EXTINF:-1 tvg-id="A_JapaneseProBaseball" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/122_pacificleague.png" group-title="drmCH", (x122x) パ・リーグSpecial
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-japanese-baseball-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A_Golf" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/124_albatvgolf.png" group-title="Rakuten-JP",(123) ALBA TV  l  ゴルフ
+#EXTINF:-1 tvg-id="A_Golf" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/124_albatvgolf.png" group-title="Rakuten-JP", (123) ALBA TV  l  ゴルフ
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fitness-cmaf1-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sky A" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/126_skya.png" group-title="Rakuten-JP",(126) スカイA　サプリ
+#EXTINF:-1 tvg-id="Sky A" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/126_skya.png" group-title="Rakuten-JP", (126) スカイA　サプリ
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-skyacmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="shigeki sports" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/128_shigekistrongsports.png" group-title="Rakuten-JP",(128) 刺激ストロングSPORTS
