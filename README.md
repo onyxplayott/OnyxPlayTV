@@ -146,6 +146,10 @@ FOR ANDROID DEVICES :
 
 
 
+*Powered by Sunrakuxxx & OnyxPlayOTT*
+
+
+
 
 
 
