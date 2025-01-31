@@ -3,10 +3,10 @@ To watch this channel, you must connect to Japan Server using the VPN Apps such 
 このチャンネルを視聴するには、NordVPN、Surfshark、ESET VPNなどのVPNアプリを使用して日本のサーバーに接続する必要があります。
 
 #EXTM3U
-#EXTINF:-1 tvg-id="News1" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="Rakuten-JP", (104) 日テレNEWS
+#EXTINF:-1 tvg-id="News1" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="Rakuten-JP", (104) 日テレ NEWS
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WeatherNews" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png" group-title="Rakuten-JP", (106) ウェザーニュースLiVE
+#EXTINF:-1 tvg-id="WeatherNews" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png" group-title="Rakuten-JP", (106) ウェザーニュース LIVE
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 
 #EXTINF:-1 tvg-id="TokyoMX" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" group-title="Rakuten-JP", (108) TOKYO MX チャンネル
@@ -21,7 +21,7 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-raku
 #EXTINF:-1 tvg-id="StockVoice" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/113_stockvoice.png" group-title="Rakuten-JP", (113) STOCK VOICE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/115_bloomberg.png" group-title="Rakuten-JP", (115) ﾌﾞﾙｰﾑﾊﾞｰｸﾞTV
+#EXTINF:-1 tvg-id="BloombergJapan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/115_bloomberg.png" group-title="Rakuten-JP", (115) ﾌﾞﾙｰﾑﾊﾞｰｸﾞTV
 https://59155f3aad06478b9bbaf6510b811374.mediatailor.ap-northeast-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenJP-web_Bloomberg/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsEnglish" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/116_euronews.png" group-title="Rakuten-JP", (116) ユーロニュース
@@ -81,7 +81,7 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf
 #EXTINF:-1 tvg-id="A_AsianDrama" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/153_asiadrama.png" group-title="drmCH", (x154x) アジアドラマ
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-asiandramahlscmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NewKPop" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/156_newk-pop.png" group-title="Rakuten-JP", (156) NEW K-POP TV
+#EXTINF:-1 tvg-id="NewKPop" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/156_newk-pop.png" group-title="Rakuten-JP", (156) NEW K-POP
 https://bd4ea7f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlbkpQLXdlYl9OZXdLUG9wX0NNQUY/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A_NikkatsuMovie" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/163_moviedrama1.png" group-title="drmCH", (x162x) 映画＆ドラマ１
@@ -123,7 +123,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-mahjong-cmaf1-
 #EXTINF:-1 tvg-id="Pachi-slo" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/207_pachislo.png" group-title="Rakuten-JP", (207) パチンコ・パチスロ
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pachislocmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WPT" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/208_wpt.png" group-title="Rakuten-JP", (208) World Poker Tour TV
+#EXTINF:-1 tvg-id="WPT" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/208_wpt.png" group-title="Rakuten-JP", (208) World Poker Tour TV [WPT TV]
 https://cdn-apne1.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-wptenglishsubfeedcmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NagoyaTVNext" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/218_entermeitele.png" group-title="Rakuten-JP", (218) エンタメ～テレDEEP
@@ -138,16 +138,16 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-musicglobal-cm
 #EXTINF:-1 tvg-id="A_Enka" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/232_enka.png" group-title="Rakuten-JP", (233) 演歌・歌謡
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-enka-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MensNeco" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/240_mensneco.png" group-title="Rakuten-JP", (240) おとなの歓楽街 by MEN’S NECO (R18+)
+#EXTINF:-1 tvg-id="MensNecoChannel" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/240_mensneco.png" group-title="Rakuten-JP", (240) おとなの歓楽街 by MEN’S NECO (R18+)
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecohlscmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Gravure" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png" group-title="Rakuten-JP", (241) アイドル・グラビア (R18+)
+#EXTINF:-1 tvg-id="GravureIdol" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png" group-title="Rakuten-JP", (241) アイドル・グラビア (R18+)
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ShigekiStrong" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png" group-title="Rakuten-JP", (242) 刺激ストロング
+#EXTINF:-1 tvg-id="ShigekiStrongTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png" group-title="Rakuten-JP", (242) 刺激ストロング
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Movie_2" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png" group-title="Rakuten-JP", (243) 映画（年齢制限あり）[R18+]
+#EXTINF:-1 tvg-id="R18Movie" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png" group-title="Rakuten-JP", (243) 映画（年齢制限あり）[R18+]
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
 
 #EXTM3U billed-msg="RAKUTENTV JAPAN (RAKUTENTV FAST CHANNEL) 🇯🇵/楽天TV (Rチャンネル) 🇯🇵"
