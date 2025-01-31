@@ -163,6 +163,9 @@ http://185.189.225.150:85/natgeowild/index.m3u8
 #EXTINF:-1 tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" tvg-id="La1.es" group-title="RTVE Digital Canal", La 1 HD
 https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
 
+#EXTINF:-1 tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" tvg-id="La1.es" group-title="RTVE Digital Canal", La 1 (DVR)
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+
 #EXTINF:-1 tvg-name="24h" tvg-logo="https://i.imgur.com/ZKR2jKr.png" tvg-id="24h.es" group-title="RTVE Digital Canal", 24h
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 
@@ -369,4 +372,7 @@ http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1 cuid="1222" tvg-chno="1220" tvg-name="Sol Musica 🇪🇸" tvg-id="ESBD2300004Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png" group-title="ZapiTV España", Sol Musica HD
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+
+#EXTINF:-1 tvg-id="RealMadridTV" tvg-name="RealMadridTV" tvg-logo="https://i.namu.wiki/i/ygQVrSuCRUYZpYkvGb_KBAfxv50URD-h-zbu67Vzes0t9BSREUvB-C7Wgi7-LVsXnB9Z6so3ZpTYZHnUnVWqag.webp" group-title="ZapiTV España", Real Madrid TV (RMTV)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
