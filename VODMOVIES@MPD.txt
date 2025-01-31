@@ -26,12 +26,7 @@ This is an example of the "json" format for creating VOD (movies only) that can 
  }, 
 =======================================================
 
-
-
-⚠️PERHATIAN⚠️
-
-
-PENGGUNAAN DRM CLEARKEY HANYA YANG MENDAPAT AKSES INI DAN DRMKEY UNTUK MENONTON SECARA OPTIMUM.
+⚠️ CAUTION ⚠️
 
 
 
@@ -39,5 +34,6 @@ ONLY FOR ASTR* & UNIF*TV VOD ONLY USED DRM CLEARKEY TO GET A DRM KEY TO WATCH TH
 
 
 This is only for VOD Movies that using DRM-Clearkey to play it at VOD libary.
+
 
 Powered by Sunrakuxxx
