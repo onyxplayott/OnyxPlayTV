@@ -1,5 +1,5 @@
 # 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙊𝙉𝙔𝙓𝙋𝙇𝘼𝙔 𝙊𝙏𝙏 𝙏𝙑 #
-💯 FREE PLAYLIST 💯
+💯 FREE PLAYLIST PREMIUM & FREEMIUM WITH UNLIMITED CHANNELS.
 
 
 
@@ -140,7 +140,7 @@ FOR ANDROID DEVICES :
 🟢TeleZapES with EPG Spain: https://bit.ly/3EqSXx3
 
 
-*Will be updated more channels soon from the other sources.*
+*Will be updated more channels soon.*
 
 
 
