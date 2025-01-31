@@ -77,7 +77,7 @@ TO WATCH IT ON A M3U PLAYLIST:
 
 
 
-👉IN OTHER HAND, TO SUPPORT MPD (if can't use on VLC & Potplayer), YOU MUST INSTALL ANDROID EMULATOR SUCH AS Bluestacks, LDplayer, Noxplayer & Many More Apps that can used on laptop.
+👉IN OTHER HAND, TO SUPPORT MPD (if can't use on VLC & Potplayer), YOU MUST INSTALL ANDROID EMULATOR SUCH AS Bluestacks, LDplayer, Noxplayer.
 
 
 
@@ -122,8 +122,6 @@ FOR ANDROID DEVICES :
 
 
 
-(●) Category Channels: 43
-
 
 (●) This Channels are Currently Stable.
 
@@ -139,7 +137,7 @@ FOR ANDROID DEVICES :
 
 
 
-🟢TeleZapES with EPG Spain: https://bit.ly/3EqSXx3 (new links due to changing a new name.)
+🟢TeleZapES with EPG Spain: https://bit.ly/3EqSXx3
 
 
 *Will be updated more channels soon from the other sources.*
