@@ -10,8 +10,9 @@
 
 
 
-*Don't Sell or Buy My Playlist Without My Permission*
+*Don't Sell or Buy My Playlist Without My Permission.*
 
+*If They Sell My Playlist, I will deleted for tv playlist permanent and cannot watching it for anyone.*
 
 
 
