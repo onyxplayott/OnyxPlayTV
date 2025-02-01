@@ -391,4 +391,4 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="HITTV.es" tvg-name="HitTVEspaña" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HIT_TV_logo.svg/1280px-HIT_TV_logo.svg.png" group-title="ZapiTV España", Hit TV España (TDT)
 http://185.189.225.149/HitTV/index.m3u8
 
-#EXTM3U billed-msg="ZapiTV España Canales 🇪🇸"
+#EXTM3U billed-msg="TeleZapTV España Canales 🇪🇸"
