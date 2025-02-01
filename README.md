@@ -1,13 +1,23 @@
 # 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙊𝙉𝙔𝙓𝙋𝙇𝘼𝙔 𝙊𝙏𝙏 𝙏𝙑 #
+
+
+
 💯 FREE PLAYLIST PREMIUM & FREEMIUM WITH UNLIMITED CHANNELS.
 
 
 
+# ⚠️ CAUTION ⚠️ #
+
+
+
+*Don't Sell or Buy My Playlist Without My Permission*
 
 
 
 
-✌️ 𝑭𝒓𝒆𝒆𝒎𝒊𝒖𝒎 & 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 𝒃𝒚 𝑶𝒏𝒚𝒙𝑷𝒍𝒂𝒚𝑶𝑻𝑻 𝑻V ✌️
+
+
+
 
 
 
@@ -24,13 +34,11 @@
 
 
 
-*This is personal playlist, that can used in Many IPTV APPS such as Televizo, OTT Navigator, Tivimate & more.* 
+*This is personal playlist, that can used in many iptv apps for devices such as Televizo, OTT Navigator, Tivimate & more.* 
 
 
 
 
-
-‼️ Don't Sell or Buy My Playlist From Unknown 3rd Party From The Other Sources Without My Permission.
 
 
 
