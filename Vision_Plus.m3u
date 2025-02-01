@@ -1,0 +1,854 @@
+
+
+
+
+
+
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"} 
+#EXTINF:-1 group-logo="https://rocket-tv.online/Gambar.webp" tvg-id="hanacaraka TV" tvg-logo="https://static.mncnow.id/images/channel/d49eb932/13f5.png" group-title="Vision | Plus", hanacaraka TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeba2c9c08078d2a729328dbcd1e002b:19090336609b8f4fee1e7aea837a10d9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://token.rocket-tv.online/Vision_Mpd/LifeStyleFashion/LifeStyleFashion.mpd
+
+
+========================================soccerchannel-HD==================================================
+
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"} 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gp2wz1R/soccerchannel.png" group-title="Vision | Plus", SOCCER CHANNEL
+https://token.rocket-tv.online/Vision_Mpd/soccerchannel-test/soccerchannel-test.mpd
+
+=======================================SPORTSTAR 1===================================================
+
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"} 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KbHPy2S/sportstar1.png" group-title="Vision | Plus", SPORTSTAR 1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+https://token.rocket-tv.online/Vision_Mpd/MNCSports-HD/MNCSports-HD.mpd
+ 
+=========================================SPORTSTAR 2=================================================
+
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"} 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2q9GMzY/sportstar2.png" group-title="Vision | Plus", SPORTSTAR 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://token.rocket-tv.online/Vision_Mpd/MNCSports2-HD/MNCSports2-HD.mpd
+ 
+========================================SPORTSTAR 3==================================================
+
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"} 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rmdGc3S/sportstar3.png" group-title="Vision | Plus", SPORTSTAR 3
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+https://token.rocket-tv.online/Vision_Mpd/MNCSports3-HD/MNCSports3-HD.mpd
+ 
+=============================================SPORTSTAR 4=============================================
+
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JHYtZKw/sportstar4.png" group-title="Vision | Plus", SPORTSTAR 4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+https://token.rocket-tv.online/Vision_Mpd/Sportstar4/Sportstar4.mpd
+ 
+=============================================SPOTV-HD=============================================
+
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"} 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5rhxLK9/spotv1.png" group-title="Vision | Plus", SPOTV 1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://token.rocket-tv.online/Vision_Mpd/SPOTV-HD/SPOTV-HD.mpd
+ 
+=============================================SPOTV2-HD=============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nbhpMm0/spotv2.png" group-title="Vision | Plus", SPOTV 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://token.rocket-tv.online/Vision_Mpd/SPOTV2-HD/SPOTV2-HD.mpd
+ 
+=====================================AlJazeeraInternational=====================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cLqQJkx/aljazeera.png" group-title="Vision | Plus", ALJAZEERA
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59b86c4bc0dc5de64bdfafe5152cc8f1:014e41ad9ec2997fe29d3c3bc372491f
+https://token.rocket-tv.online/Vision_Mpd/AlJazeeraInternational/AlJazeeraInternational.mpd
+ 
+=======================================AnhuiTV===================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2jWfMVr/anhui.png" group-title="Vision | Plus", ANHUI TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6935d1a7c21abca8907b1a7b63f2d2c9:1842c9b39c3558bb4c7dbb6e400561aa
+https://token.rocket-tv.online/Vision_Mpd/AnhuiTV/AnhuiTV.mpd
+ 
+=========================================Animax=================================================
+
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rFSj5hW/animax.png" group-title="Vision | Plus", ANIMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6344a8272809245e3fa9d926099528c3:93b6c4ff420c6864a6294f6d223d9b2c
+https://token.rocket-tv.online/Vision_Mpd/Animax/Animax.mpd
+ 
+==========================================ANTV================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q0nY02b/antv.png" group-title="Vision | Plus", ANTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://token.rocket-tv.online/Vision_Mpd/ANTV/ANTV.mpd
+ 
+===========================================Arirang===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBNBjW5/arirang.png" group-title="Vision | Plus", ARIRANG
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bc202de2b177ff5bb64dacb0ab3fd8d:d71b81338f16bf009608665b08a49197
+https://token.rocket-tv.online/Vision_Mpd/Arirang/Arirang.mpd
+ 
+========================================AXN==================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4gnSVfP/axn.png" group-title="Vision | Plus", AXN
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
+https://token.rocket-tv.online/Vision_Mpd/AXN/AXN.mpd
+ 
+=========================================BabyTV-NewHD=================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6dNDM3/babytv.png" group-title="Vision | Plus", BABY TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc62ba18b44dce828a5fb8a213d6e5b:02a01282f77edf03e964e713fb447e93
+https://token.rocket-tv.online/Vision_Mpd/BabyTV-NewHD/BabyTV-NewHD.mpd
+ 
+===========================================BaliTV===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Q91065/bali.png" group-title="Vision | Plus", BALI TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
+https://token.rocket-tv.online/Vision_Mpd/BaliTV/BaliTV.mpd
+ 
+============================================BBCEarth-HD==============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vdfR6dj/bbcearth.png" group-title="Vision | Plus", BBC EARTH
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
+https://token.rocket-tv.online/Vision_Mpd/BBCEarth-HD/BBCEarth-HD.mpd
+ 
+===============================================BBCWorldNews===========================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nP0rck4/bbcworld.png" group-title="Vision | Plus", BBC WORLD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82e458dc5613eaaa2608de8d190f1637:c25659bd78913e93e3fddace99a964c1
+https://token.rocket-tv.online/Vision_Mpd/BBCWorldNews/BBCWorldNews.mpd
+ 
+=============================================BeritaSatu=============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HdW4fs6/btv.png" group-title="Vision | Plus", BERITA SATU
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
+https://token.rocket-tv.online/Vision_Mpd/BeritaSatu/BeritaSatu.mpd
+ 
+=========================================Bloomberg=================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f97qvLR/bloomberg.png" group-title="Vision | Plus", BLOOMBERG
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=272401a5b200375e49a4712cf39f369c:39d7bc2faf1f13b8a2bb106b617e604a
+https://token.rocket-tv.online/Vision_Mpd/Bloomberg/Bloomberg.mpd
+ 
+==============================================Cbeebies============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mH4t6rm/cbeebies.png" group-title="Vision | Plus", CBEEBIES
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
+https://token.rocket-tv.online/Vision_Mpd/Cbeebies/Cbeebies.mpd
+ 
+==========================================CELEBRITY================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cvqFXZN/celebriti.png" group-title="Vision | Plus", CELEBRITY
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a17bbb3d95ba22f0fa680bba609340f6:cb682391dc1830d2cec8ca9d4ce681cc
+https://token.rocket-tv.online/Vision_Mpd/MNCInfotainment/MNCInfotainment.mpd
+ 
+=================================================CelestialClassic=========================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gsc93x2/ccm.png" group-title="Vision | Plus", CELESTIAL CLASSIC
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
+https://token.rocket-tv.online/Vision_Mpd/CelestialClassic/CelestialClassic.mpd
+ 
+============================================CelestialMovie==============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PzG6G7P/celestial.png" group-title="Vision | Plus", CELESTIAL MOVIE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
+https://token.rocket-tv.online/Vision_Mpd/CelestialMovie/CelestialMovie.mpd
+ 
+===========================================CGTN_Doc===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7nGXhYD/cgtndock.png" group-title="Vision | Plus", CGTN DOCUMENTARY
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87354c602dcabe0eef472f2a68f6685a:518ecaa33b9f05494f8cfaa7dd56a968
+https://token.rocket-tv.online/Vision_Mpd/CGTN_Doc/CGTN_Doc.mpd
+ 
+=========================================CGTN=================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mT0QFD4/cgtnnews.png" group-title="Vision | Plus", CGTN NEWS
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=725ccd861fa88300c0e1d258b20bc9b1:ab190baece633191b7201cb96d065bbb
+https://token.rocket-tv.online/Vision_Mpd/CGTN/CGTN.mpd
+ 
+=============================================CinemaWorld=============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kx7dFS0/cinemaworld.png" group-title="Vision | Plus", CINEMA WORLD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
+https://token.rocket-tv.online/Vision_Mpd/CinemaWorld/CinemaWorld.mpd
+ 
+==========================================Cinemachi-HD================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XyFBhtM/cinemachi.png" group-title="Vision | Plus", CINEMACHI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
+https://token.rocket-tv.online/Vision_Mpd/Cinemachi-HD/Cinemachi-HD.mpd
+ 
+===========================================Cinemachi-Action===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"} 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ph6jvng/chiaction.png" group-title="Vision | Plus", CINEMACHI ACTION
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
+https://token.rocket-tv.online/Vision_Mpd/Cinemachi-Action/Cinemachi-Action.mpd
+ 
+============================================Cinemachi-Kids-HD==============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c15cg1S/chikids.png" group-title="Vision | Plus", CINEMACHI KIDS
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
+https://token.rocket-tv.online/Vision_Mpd/Cinemachi-Kids-HD/Cinemachi-Kids-HD.mpd
+ 
+==========================================Cinemachi-Max-HD================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7vSWStv/chimax.png" group-title="Vision | Plus", CINEMACHI MAX
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
+https://token.rocket-tv.online/Vision_Mpd/Cinemachi-Max-HD/Cinemachi-Max-HD.mpd
+ 
+======================================Cinemachi-Xtra-HD====================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fxn9g6Z/chiextra.png" group-title="Vision | Plus", CINEMACHI XTRA
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
+https://token.rocket-tv.online/Vision_Mpd/Cinemachi-Xtra-HD/Cinemachi-Xtra-HD.mpd
+ 
+==========================================ChannelNewsAsia================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pnL5fzk/cna.png" group-title="Vision | Plus", CNA
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWR
+https://token.rocket-tv.online/Vision_Mpd/hannelNewsAsia/ChannelNewsAsia.mpd
+ 
+=========================================CNBC=================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LZLkhQL/cnbc.png" group-title="Vision | Plus", CNBC
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6de9ad0c51e2673f543b71ac5a54211:533886c95819317d48fd079d78c3d757
+https://token.rocket-tv.online/Vision_Mpd/CNBC/CNBC.mpd
+ 
+===========================================CrimeInvestigation===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kGGdm6W/crime.png" group-title="Vision | Plus", CRIME INVESTIGATION
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc6157edc80fa15e6b6f23e695d461e4:7c068dd99c87e0ab1efc635bb77adcb4
+https://token.rocket-tv.online/Vision_Mpd/CrimeInvestigation/CrimeInvestigation.mpd
+ 
+ 
+===========================================DAAITV===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TKsQ39N/daaitv.png" group-title="Vision | Plus", DAAI TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb7c09e964e89e668266ea31f2710ffa:0a9832e32206fff46674b8210c9b6897
+https://token.rocket-tv.online/Vision_Mpd/DAAITV/DAAITV.mpd
+ 
+==========================================DragonTV================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XFgvbRn/dragon.png" group-title="Vision | Plus", DRAGON TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5b643fdc1b2cb4684bd859f699dce2c:4605d2990f4b1d7c4049cdd83529f3a7
+https://token.rocket-tv.online/Vision_Mpd/ShanghaiDragonTVShanghaiDragonTV.mpd
+ 
+=========================================Dreamwork-HD=================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rwZjXfn/dreamworks.png" group-title="Vision | Plus", DREAMWORK
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://token.rocket-tv.online/Vision_Mpd/Dreamwork-HD/Dreamwork-HD.mpd
+ 
+========================================DW==================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XYHxCcR/dw.png" group-title="Vision | Plus", DWTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4472db9a36186f11703d04a4adbbf279:f00791bacba0575927de6cf15cfcd9d9
+https://token.rocket-tv.online/Vision_Mpd/DW/DW.mpd
+ 
+============================================EuroNews==============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qx2TRTn/euronews.png" group-title="Vision | Plus", EURO NEWS
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9acec565e4d5e994523b3b18e0a7521e:a16eb03e31229b194ec4b45c3cb80b46
+https://token.rocket-tv.online/Vision_Mpd/EuroNews/EuroNews.mpd
+ 
+======================================EWTN====================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hf4cmR7/ewtn.png" group-title="Vision | Plus", EWTN
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb2393dc078c4b708cce148304db1ea7:78437d7ccfe7a3a220c53180eb5bdeb1
+https://token.rocket-tv.online/Vision_Mpd/EWTN/EWTN.mpd
+ 
+===========================================FightSports===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SBmp9Dt/fight.png" group-title="Vision | Plus", FIGHT SPORT
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
+https://token.rocket-tv.online/Vision_Mpd/FightSports/FightSports.mpd
+ 
+=========================================FMN=================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HVjXg2S/fmn.png" group-title="Vision | Plus", FMN
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=009a1278e0755ed82e70df01460e90c3:12d010a918431785676c4fd63ef648bd
+https://token.rocket-tv.online/Vision_Mpd/FMN/FMN.mpd
+ 
+===========================================FoxNews===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vX5mpqj/foxnews.png" group-title="Vision | Plus", FOX NEWS
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a547a31e9c19c36f94d120a83f61f92d:7e86ccfba721e3297b73fc9e2b07628d
+https://token.rocket-tv.online/Vision_Mpd/FoxNews/FoxNews.mpd
+ 
+ 
+============================================France24==============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yhw1Szz/f24.png" group-title="Vision | Plus", FRANCE 24
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2968b8d8884c66ebfc54b53bee1070ee:7182638b386cb06e211b6771c1a10861
+https://token.rocket-tv.online/Vision_Mpd/France24/France24.mpd
+ 
+===========================================Galaxy-HD===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PgXtWLS/galaxy.png" group-title="Vision | Plus", GALAXY
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
+https://token.rocket-tv.online/Vision_Mpd/Galaxy-HD/Galaxy-HD.mpd
+ 
+================================================GalaxyPremium-HD==========================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pKCbSHv/galaxypremium.png" group-title="Vision | Plus", GALAXY PREMIUM
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
+https://token.rocket-tv.online/Vision_Mpd/GalaxyPremium-HD/GalaxyPremium-HD.mpd
+ 
+============================================Globaltrekker==============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8jS7R7f/globaltrekker.png" group-title="Vision | Plus", GLOBAL TREKKER
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b27270c10422acdf2b70c296c8ddb29:32ca577ab5b577a31cc61eb847642fa8
+https://token.rocket-tv.online/Vision_Mpd/Globaltrekker/Globaltrekker.mpd
+ 
+=========================================GTV-HD=================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1bZnf89/gtv.png" group-title="Vision | Plus", GTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
+https://token.rocket-tv.online/Vision_Mpd/GTV-HD/GTV-HD.mpd
+ 
+ 
+============================================History==============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KWz3RwN/history.png" group-title="Vision | Plus", HISTORY
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5
+https://token.rocket-tv.online/Vision_Mpd/History/History.mpd
+ 
+==========================================HITS================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJ8zxhc/hits.png" group-title="Vision | Plus", HITS
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
+https://token.rocket-tv.online/Vision_Mpd/HITS/HITS.mpd
+ 
+============================================HitsMovies==============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXLNG0Q/hitsmovie.png" group-title="Vision | Plus", HITS MOVIE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
+https://token.rocket-tv.online/Vision_Mpd/HitsMovies/HitsMovies.mpd
+ 
+==========================================HunanTV================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/284Kfkw/hunan.png" group-title="Vision | Plus", HUNAN TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e9df1ff194224dd922a4ee50a083ea8:1f822977efb4700dfef3aef29ce53d98
+https://token.rocket-tv.online/Vision_Mpd/HunanTV/HunanTV.mpd
+ 
+==========================================IDX================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZzP28F/idx.png" group-title="Vision | Plus", IDX
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbdbe252e6354b175852d1929c42d848:7a8bb14fcf8fd0b896ab41c29a78aae0
+https://token.rocket-tv.online/Vision_Mpd/IDX/IDX.mpd
+ 
+============================================IndonesiaMovieChannels-HD==============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jb6zL13/imc.png" group-title="Vision | Plus", INDONESIA MOVIE CHANNEL
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
+https://token.rocket-tv.online/Vision_Mpd/IndonesiaMovieChannels/IndonesiaMovieChannels-HD.mpd
+ 
+============================================iNewsTV-HDD==============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XW1NSrF/inews.png" group-title="Vision | Plus", iNEWS
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
+https://token.rocket-tv.online/Vision_Mpd/iNewsTV-HDDiNewsTV-HDD.mpd
+ 
+==========================================JakTV================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dt22jVZ/jaktv.png" group-title="Vision | Plus", JAKTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c9087e5432ce2c2f4ae8e1fd77ae4c:f7a50262991ca7d505fce1572a7f0c2a
+https://token.rocket-tv.online/Vision_Mpd/JakTVJakTV.mpd
+ 
+========================================JiangsuTV==================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pQVW2gb/jiangsu.png" group-title="Vision | Plus", JIANGSU TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab3b56e3b5bd35ee40d1f18a8e2a73f0:1ae67b4eeeb450fd430e3540694abc6a
+https://token.rocket-tv.online/Vision_Mpd/JiangsuTV/JiangsuTV.mpd
+ 
+=======================================JTV===================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dBQRJ3P/jtv.png" group-title="Vision | Plus", JTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10e203f655014b5d18b0c85a6c72c809:acdcd0b65014e4929c6296171bdfebad
+https://token.rocket-tv.online/Vision_Mpd/JTV/JTV.mpd
+ 
+===========================================KidsChannel===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T40f15Z/kidstv.png" group-title="Vision | Plus", KIDS CHANNEL
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
+https://token.rocket-tv.online/Vision_Mpd/KidsChannel/KidsChannel.mpd
+ 
+========================================KIX==================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VvJmfjW/kix.png" group-title="Vision | Plus", KIX
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
+https://token.rocket-tv.online/Vision_Mpd/KIX/KIX.mpd
+ 
+===========================================KompasTV===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/swc6Jsm/kompas.png" group-title="Vision | Plus", KOMPASTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
+https://token.rocket-tv.online/Vision_Mpd/KompasTV/KompasTV.mpd
+ 
+==========================================Life================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L0C1bT2/life.png" group-title="Vision | Plus", LIFE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdd9eab3335c9abd97e27d89852d8ee5:1a88565a73164fd886dd0e7fe66059b8
+https://token.rocket-tv.online/Vision_Mpd/Life/Life.mpd
+ 
+ 
+========================================Lifetime==================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9pjngK0/lifetime.png" group-title="Vision | Plus", LIFETIME
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bd8efd4840c37f50f8a053f92e9b015:7f8b3b508bb394919dab1b6e91e7bacf
+https://token.rocket-tv.online/Vision_Mpd/Lifetime/Lifetime.mpd
+ 
+=========================================Metro-TV2=================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3vMqG6N/metro.png" group-title="Vision | Plus", METROTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
+https://token.rocket-tv.online/Vision_Mpd/Metro-TV2/Metro-TV2.mpd
+ 
+=========================================MNCEntertainment=================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWjF6r6/ent.png" group-title="Vision | Plus", ENT
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e97187c5c7978ad9fc48943df7ed9045:36af3adb3e7c4edd9286e7412fc5f596
+https://token.rocket-tv.online/Vision_Mpd/MNCEntertainment/MNCEntertainment.mpd
+ 
+===========================================MNCTV-HD===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xMTzkfh/mnctv.png" group-title="Vision | Plus", MNCTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
+https://token.rocket-tv.online/Vision_Mpd/MNCTV-HD/MNCTV-HD.mpd
+ 
+==========================================MTV 90'================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jRj0WTx/mtv90-s.png" group-title="Vision | Plus", MTV 90's
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e1d75138efd44969abf01914a47ff54:d0c52fed5210338569837a61e3e0b675
+https://token.rocket-tv.online/Vision_Mpd/MNCShopSmart/MNCShopSmart.mpd
+ 
+===========================================MTV===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8644rf/mtvlive.png" group-title="Vision | Plus", MTV Live
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b9753643572b0c6c467793b50900029:ebeda1cf36dae2b0bdedf1065129ea93
+https://token.rocket-tv.online/Vision_Mpd/MTV/MTV.mpd
+ 
+============================================MusicChannel==============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5Lr4KT3/musik.png" group-title="Vision | Plus", MUSIK CHANNEL
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
+https://token.rocket-tv.online/Vision_Mpd/Music-HD/Music-HD.mpd
+ 
+===========================================MyCinema===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wg0SJrN/mycinema.png" group-title="Vision | Plus", MY CINEMA
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://token.rocket-tv.online/Vision_Mpd/MyCinema/MyCinema.mpd
+ 
+==========================================MyCinema-Asia================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kD9KwdW/mycinemaasia.png" group-title="Vision | Plus", MY CINEMA ASIA
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://token.rocket-tv.online/Vision_Mpd/MyCinema-Asia/MyCinema-Asia.mpd
+ 
+===========================================MyFamily===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b28Tr5j/myfamily.png" group-title="Vision | Plus", MY FAMILY
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://token.rocket-tv.online/Vision_Mpd/MyFamily/MyFamily.mpd
+ 
+======================================My-Kids====================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9ZC1RYn/mykids.png" group-title="Vision | Plus", MY KIDZ
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
+https://token.rocket-tv.online/Vision_Mpd/My-Kids/My-Kids.mpd
+ 
+=======================================NatGeoWild===================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qskZxrm/natgeowild.png" group-title="Vision | Plus", NATGEO WILD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
+https://token.rocket-tv.online/Vision_Mpd/NatGeoWild/NatGeoWild.mpd
+ 
+=========================================NatGeoChannel=================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1JP5SHh/natgeo.png" group-title="Vision | Plus", NATIONAL GEOGRAPHIC
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+https://token.rocket-tv.online/Vision_Mpd/NatGeoChannel/NatGeoChannel.mpd
+ 
+===========================================NetTV-HD===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qm1cWC4/net.png" group-title="Vision | Plus", NET.
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
+https://token.rocket-tv.online/Vision_Mpd/NetTV-HD/NetTV-HD.mpd
+ 
+==========================================NHKWorldPremium================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RHfVLHp/nhkpremium.png" group-title="Vision | Plus", NHK PREMIUM
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWR
+https://token.rocket-tv.online/Vision_Mpd/NHKWorldPremium/NHKWorldPremium.mpd
+ 
+============================================NHKWorldTV==============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9NKnRhL/nhkworld.png" group-title="Vision | Plus", NHK WORLD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62ce01c83653c3f20af6bcafc6979fe6:f1325e71f440c06f7e93d7551cb4014a
+https://token.rocket-tv.online/Vision_Mpd/NHKWorldTV/NHKWorldTV.mpd
+ 
+============================================NickJr-HDD==============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sjgmrDb/nickjr.png" group-title="Vision | Plus", NICK Jr
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
+https://token.rocket-tv.online/Vision_Mpd/NickJr-HDD/NickJr-HDD.mpd
+ 
+============================================Nickelodeon==============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMFXrpT/nick.png" group-title="Vision | Plus", NICKELODEON
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
+https://token.rocket-tv.online/Vision_Mpd/Nickelodeon/Nickelodeon.mpd
+ 
+==========================================OKTV================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dL4JrTj/oktv.png" group-title="Vision | Plus", OKTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://token.rocket-tv.online/Vision_Mpd/OKTV/OKTV.mpd
+ 
+===========================================OKZONE===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z4VtXMs/okzone.png" group-title="Vision | Plus", OKZONE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeba2c9c08078d2a729328dbcd1e002b:19090336609b8f4fee1e7aea837a10d9
+https://token.rocket-tv.online/Vision_Mpd/LifeStyleFashion/LifeStyleFashion.mpd
+ 
+==========================================One================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvFFdpy/one.png" group-title="Vision | Plus", ONE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
+https://token.rocket-tv.online/Vision_Mpd/SetOne/SetOne.mpd
+
+ 
+===========================================Rockaction===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMP8wGh/rockaction.png" group-title="Vision | Plus", ROCK ACTION
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
+https://token.rocket-tv.online/Vision_Mpd/Rockaction/Rockaction.mpd
+ 
+===========================================Rockentertainment===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J53RVk0/rockentertainment.png" group-title="Vision | Plus", ROCK ENTERTAINMENT
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://token.rocket-tv.online/Vision_Mpd/Rockentertainment/Rockentertainment.mpd
+ 
+=============================================RCTI-DD=============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x6rFRdn/rcti.png" group-title="Vision | Plus", RCTI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+https://token.rocket-tv.online/Vision_Mpd/RCTI-DD/RCTI-DD.mpd
+ 
+===========================================RTEnglish===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/18RHj7c/rt.png" group-title="Vision | Plus", RT ENGLISH
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec5705bb82f3e66b054de048287fd3a4:7819a6f6427b7c7764a514abe8173b02
+https://token.rocket-tv.online/Vision_Mpd/RTEnglish/RTEnglish.mpd
+ 
+=============================================RTV=============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JCSLGcv/rtv.png" group-title="Vision | Plus", RTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
+https://token.rocket-tv.online/Vision_Mpd/RTV/RTV.mpd
+ 
+=============================================SEA-Channel=============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VVWQbwf/sea.png" group-title="Vision | Plus", SEA TODAY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfb76a400a6af053881f7fff14483323:aa5af1f3edb3abd10a68b8f7e7c0b1ad
+https://token.rocket-tv.online/Vision_Mpd/SEA-Channel/SEA-Channel.mpd
+ 
+ 
+=============================================SINDO NEWS=============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D1FX0nt/sindonews.png" group-title="Vision | Plus", SINDO NEWS
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
+https://token.rocket-tv.online/Vision_Mpd/MNCnews-HDD/MNCnews-HDD.mpd
+ 
+
+==========================================Thrill================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h1kTqK9/thrill.png" group-title="Vision | Plus", THRILL
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
+https://token.rocket-tv.online/Vision_Mpd/Thrill/Thrill.mpd
+ 
+===========================================Trans7-2===============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JzNV1xB/trans7.png" group-title="Vision | Plus", TRANS 7
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
+https://token.rocket-tv.online/Vision_Mpd/Trans7-2/Trans7-2.mpd
+ 
+============================================TransTV-2==============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/48nTMzT/transtv.png" group-title="Vision | Plus", TRANS TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+https://token.rocket-tv.online/Vision_Mpd/TransTV-2/TransTV-2.mpd
+ 
+==========================================TRTWorld================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7g5kFvg/trtworld.png" group-title="Vision | Plus", TRT WORLD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2664cc86dfb0f48e6b3f792dd4e8983c:5fc5b980db05c4450482b4bd7cda39fe
+https://token.rocket-tv.online/Vision_Mpd/TRTWorld/TRTWorld.mpd
+ 
+ 
+==========================================TV5================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kHrF92W/tv5monde-big-copy.png" group-title="Vision | Plus", TV5 MONDE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b411a92f60bd9751d9637e849d3a632:d9bbfb8e1d34089daf5cc0c3ca17c694
+https://token.rocket-tv.online/Vision_Mpd/TV5/TV5.mpd
+ 
+========================================tvN==================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4FFDk2/tvn.png" group-title="Vision | Plus", TVN
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
+https://token.rocket-tv.online/Vision_Mpd/tvN/tvN.mpd
+ 
+=================================================tvNMovies=========================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hzy2Wqg/tvnmovie.png" group-title="Vision | Plus", TVN MOVIES
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
+https://token.rocket-tv.online/Vision_Mpd/tvNMovies/tvNMovies.mpd
+ 
+=========================================TVOne-2=================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X3Fn8mV/tvone.png" group-title="Vision | Plus", TVONE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
+https://token.rocket-tv.online/Vision_Mpd/TVOne-2/TVOne-2.mpd
+ 
+==========================================TVRI================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m6g803F/tvri.png" group-title="Vision | Plus", TVRI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7
+https://token.rocket-tv.online/Vision_Mpd/PemersatuBangsa/PemersatuBangsa.mpd
+ 
+=============================================VisionPrime=============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7K2nLLG/visionprime.png" group-title="Vision | Plus", VISION PRIME
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
+https://token.rocket-tv.online/Vision_Mpd/VisionPrime/VisionPrime.mpd
+ 
+============================================XingKongTV==============================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7C4PRjf/xingkong.png" group-title="Vision | Plus", XINGKONG TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8e1f7cdc8ed2515f795b3a8ff2713cb:36b8461eccdafbaa9ab41785123c9d36
+https://token.rocket-tv.online/Vision_Mpd/XingKongTV/XingKongTV.mpd
+ 
+ 
+===============================================ZeeBIOSKOP===========================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x5tXhNG/zeebioskop.png" group-title="Vision | Plus", ZEE BIOSKOP
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
+https://token.rocket-tv.online/Vision_Mpd/ZeeBIOSKOP/ZeeBIOSKOP.mpd
+ 
+ 
+=========================================ZooMoo=================================================
+#EXTHTTP:{"X-Token":"404cb7f246636261b655764b0f8b2265784e34715671795044432b744469697064744c6d66324d755273632f43366646414a6152516952693865733d"}  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bw4zg2n/zoomoo.png" group-title="Vision | Plus", ZooMoo
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
+https://token.rocket-tv.online/Vision_Mpd/Boomerang/Boomerang.mpd
+
