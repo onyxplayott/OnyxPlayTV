@@ -3,7 +3,11 @@
 
 
 
-💯 FREE PLAYLIST PREMIUM & FREEMIUM WITH UNLIMITED CHANNELS THAT CAN ACCES THROUGH IT.
+
+
+
+
+💯 𝙁𝙍𝙀𝙀 𝙋𝙇𝘼𝙔𝙇𝙄𝙎𝙏 𝙋𝙍𝙀𝙈𝙄𝙐𝙈 & 𝙁𝙍𝙀𝙀𝙈𝙄𝙐𝙈 𝙒𝙄𝙏𝙃 𝙐𝙉𝙇𝙄𝙈𝙄𝙏𝙀𝘿 𝘾𝙃𝘼𝙉𝙉𝙀𝙇𝙎 𝙏𝙃𝘼𝙏 𝘾𝘼𝙉 𝘼𝘾𝘾𝙀𝙎𝙎 𝙏𝙃𝙍𝙊𝙐𝙂𝙃 𝙄𝙏
 
 
 
@@ -11,10 +15,19 @@
 
 
 
-*Don't Sell or Buy My Playlist Without My Permission.*
 
-*If They Sell My Playlist, I will deleted for iptv playlist permanent and cannot watching it for anyone.*
+*doɴ'т ѕεll or вυy мy plαylιѕт wιтнoυт мy pεrмιѕѕιoɴ.*     
 
+
+
+
+
+*ιғ тнεy ѕεll мy plαylιѕт, ι wιll dεlεтεd ғor ιpтv plαylιѕт pεrмαɴεɴт αɴd cαɴɴoт wαтcнιɴɢ ιт ғor αɴyoɴε.*
+
+
+
+
+*❝𝗬𝗢𝗨 𝗨𝗡𝗗𝗘𝗥𝗦𝗧𝗔𝗡𝗗?!❞*
 
 
 
@@ -48,64 +61,87 @@
 
 
 
-💯 FREE IPTV PLAYLIST & VIDEO ON DEMAND THAT WE GETTING FROM MANY SOURCES.
-
-
-
-
-‼️ IF CHANNELS ARE UNSTABLE OR NOT WORKING ANYMORE, WE WILL BE REMOVE IT AND THEN CHANGING WITH THE ANOTHER SOURCE.
+💯 𝙵𝚁𝙴𝙴 𝙸𝙿𝚃𝚅 𝙿𝙻𝙰𝚈𝙻𝙸𝚂𝚃 & 𝚅𝙸𝙳𝙴𝙾 𝙾𝙽 𝙳𝙴𝙼𝙰𝙽𝙳 𝚃𝙷𝙰𝚃 𝚆𝙴 𝙶𝙴𝚃𝚃𝙸𝙽𝙶 𝙵𝚁𝙾𝙼 𝙼𝙰𝙽𝚈 𝚂𝙾𝚄𝚁𝙲𝙴𝚂.  
 
 
 
 
 
 
-
-
-ℹ️ ONYXPLAYOTT LIVE TV SERVICE INCLUDING VOD ACCESS ℹ️ :
-
-
-🔴🟢 WE PROVIDE THEIR SERVICE AS ABOVE TO PRIVATE USER ONLY 👇 :
-
-
-
-
-(●) Service: Freemium & Premium IPTV
-
-
-
-(●) Total Channels: Null
-
-
-
-(●) Video On Demand (VOD): Null
-
-
-
-
-(●) This Channels are Currently Stable.
-
-
-
-🟢🔴 「SHORT LINKS」 🔴🟢
+‼️ 𝙸𝙵 𝙲𝙷𝙰𝙽𝙽𝙴𝙻𝚂 𝙰𝚁𝙴 𝚄𝙽𝚂𝚃𝙰𝙱𝙻𝙴 𝙾𝚁 𝙽𝙾𝚃 𝚆𝙾𝚁𝙺𝙸𝙽𝙶 𝙰𝙽𝚈𝙼𝙾𝚁𝙴, 𝚆𝙴 𝚆𝙸𝙻𝙻 𝙱𝙴 𝚁𝙴𝙼𝙾𝚅𝙴 𝙸𝚃 𝙰𝙽𝙳 𝚃𝙷𝙴𝙽 𝙲𝙷𝙰𝙽𝙶𝙸𝙽𝙶 𝚆𝙸𝚃𝙷 𝚃𝙷𝙴 𝙰𝙽𝙾𝚃𝙷𝙴𝚁 𝚂𝙾𝚄𝚁𝙲𝙴. 
 
 
 
 
 
-🟢OnyxPlayOTT V2: https://bit.ly/onyxplayottv2
+ℹ️ 𝙾𝙽𝚈𝚇𝙿𝙻𝙰𝚈𝙾𝚃𝚃 𝙻𝙸𝚅𝙴 𝚃𝚅 𝚂𝙴𝚁𝚅𝙸𝙲𝙴 𝙸𝙽𝙲𝙻𝚄𝙳𝙸𝙽𝙶 𝚅𝙾𝙳 𝙰𝙲𝙲𝙴𝚂𝚂 ℹ️ :  
 
 
 
-🟢TeleZapES with EPG Spain: https://bit.ly/3EqSXx3
+
+🔴🟢 𝚆𝙴 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝚃𝙷𝙴𝙸𝚁 𝚂𝙴𝚁𝚅𝙸𝙲𝙴 𝙰𝚂 𝙰𝙱𝙾𝚅𝙴 𝚃𝙾 𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝚄𝚂𝙴𝚁 𝙾𝙽𝙻𝚈 👇 : 
 
 
-*Will be updated more channels soon.*
 
 
 
-*Powered by Sunrakuxxx & OnyxPlayOTT*
+(●) 𝚂𝚎𝚛𝚟𝚒𝚌𝚎: 𝙵𝚛𝚎𝚎𝚖𝚒𝚞𝚖 & 𝙿𝚛𝚎𝚖𝚒𝚞𝚖 𝙸𝙿𝚃𝚅  
 
+
+
+(●) 𝚃𝚘𝚝𝚊𝚕 𝙲𝚑𝚊𝚗𝚗𝚎𝚕𝚜: 𝙽𝚞𝚕𝚕  
+
+
+
+
+
+
+
+(●) 𝚅𝚒𝚍𝚎𝚘 𝙾𝚗 𝙳𝚎𝚖𝚊𝚗𝚍 (𝚅𝙾𝙳): 𝙽𝚞𝚕𝚕  
+
+
+
+
+
+
+(●) 𝚃𝚑𝚒𝚜 𝙲𝚑𝚊𝚗𝚗𝚎𝚕𝚜 𝚊𝚛𝚎 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚂𝚝𝚊𝚋𝚕𝚎.  
+
+
+
+
+
+
+🟢🔴 「𝚂𝙷𝙾𝚁𝚃 𝙻𝙸𝙽𝙺𝚂」 🔴🟢 
+
+
+
+🔴𝙾𝚗𝚢𝚡𝙿𝚕𝚊𝚢𝙾𝚃𝚃 𝚅𝟸: 
+𝚑𝚝𝚝𝚙𝚜://𝚋𝚒𝚝.𝚕𝚢/𝚘𝚗𝚢𝚡𝚙𝚕𝚊𝚢𝚘𝚝𝚝𝚟𝟸  
+
+
+
+
+
+🟢𝚃𝚎𝚕𝚎𝚉𝚊𝚙𝙴𝚂 𝚠𝚒𝚝𝚑 𝙴𝙿𝙶 𝚂𝚙𝚊𝚒𝚗:
+𝚑𝚝𝚝𝚙𝚜://𝚋𝚒𝚝.𝚕𝚢/𝟹𝙴𝚚𝚂𝚇𝚡𝟹  
+
+
+
+
+
+
+
+
+*𝚆𝚒𝚕𝚕 𝚋𝚎 𝚞𝚙𝚍𝚊𝚝𝚎𝚍 𝚖𝚘𝚛𝚎 𝚌𝚑𝚊𝚗𝚗𝚎𝚕𝚜 𝚜𝚘𝚘𝚗*.  
+
+
+
+
+
+
+
+
+*𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝚂𝚞𝚗𝚛𝚊𝚔𝚞𝚡𝚡𝚡 & 𝙾𝚗𝚢𝚡𝙿𝚕𝚊𝚢𝙾𝚃𝚃.*
 
 
 
