@@ -17,10 +17,6 @@ https://fl2.moveonjoy.com/HBO/index.m3u8
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde17bf6591d0009839e02" tvg-id="5dcde17bf6591d0009839e02" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" tvg-chno="1251" group-title="Japan TV (Anime Zone)" , Pluto TV Anime Español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Cinema One Global" tvg-logo="https://iili.io/JmoHb6b.png" group-title="CINEMA PINOY 🎬", Cinema One Philippines
-https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmoJ98Q.png" group-title="CINEMA PINOY 🎬", Cinemo HD Philippines
-https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="Pbo.ph" tvg-logo="https://iili.io/2G9xVP2.png" group-title="CINEMA PINOY 🎬", PBO TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
