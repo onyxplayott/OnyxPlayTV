@@ -99,8 +99,6 @@ https://rocket-tv.online/naver/index.php?id=20250118021F148
 http://iptv12k.com:35461/654321/123456/3211
 #EXTINF:-1 tvg-name="CTS HD" tvg-logo="https://pbs.twimg.com/profile_images/899810873836838912/MRSOTP51_400x400.jpg" group-title="KOREAN PREMIUM", CTS HD
 http://iptv12k.com:35461/654321/123456/3218
-#EXTINF:-1 tvg-name="TOONIVERSEKR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Tooniverse_logo_2019.svg/1280px-Tooniverse_logo_2019.svg.png" group-title="KOREAN PREMIUM", TOONIVERSE HD
-
 ========================================================
 #EXTINF:-1 tvg-name="CGTN English" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="CGTN Channels", CGTN English
 https://0472.org/hls/cgtn.m3u8
@@ -146,11 +144,11 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 https://tv2.jptv.live/hls/main.m3u8
 #EXTINF:-1 tvg-id="ShopChannel.jp" tvg-logo="https://prtimes.jp/i/3563/33/resize/c1e26eaa5a38083f0f1d54e281d835f1.jpg" group-title="Japan TV (Test Broadcast)", Shop Channel Japan
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTrkOuPs_yv8H2SuON3mu5lA9YkBZVCBMYIA&s" group-title="Japan TV (Test Broadcast)", Nippon TV Tokyo
+#EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTrkOuPs_yv8H2SuON3mu5lA9YkBZVCBMYIA&s" group-title="Japan TV (Test Broadcast)", Nippon TV
 https://ntv4.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="TBSTVTokyo" tvg-logo="https://cdn.c21media.net/wp-content/uploads/2021/02/tokyobroadcastingsystem_logo_420x237_thumb.jpg" group-title="Japan TV (Test Broadcast)", TBS TV Tokyo
+#EXTINF:-1 tvg-id="TBSTVTokyo" tvg-logo="https://cdn.c21media.net/wp-content/uploads/2021/02/tokyobroadcastingsystem_logo_420x237_thumb.jpg" group-title="Japan TV (Test Broadcast)", TBS Japan
 
-#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/fujitv12.png" group-title="Japan TV (Test Broadcast)", Fuji TV Tokyo
+#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/fujitv12.png" group-title="Japan TV (Test Broadcast)", Fuji TV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="TravelChannel" tvg-logo="http://playtv.unifi.com.my:7037/CPS/images/universal/film/logo/202108/20210831/20210831161520835mdk.png" group-title="Saluran Percubaan (Test Channel)", Travel Channel HD (Unifi)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -158,8 +156,6 @@ https://fujitv4.mov3.co/hls/fujitv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b125629ad757520ac833a40e4b4f22e8:4d027e6b858d68fdde37270b2cd0172b
 https://web.hypp.tv:443/PLTV/88888888/224/3221227593/3221227593.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWbuVTT0kQ7uQ6vwRhl32tZfEg2x34ieDQHngPU9P4aoumIekQBXXHJTV%2FlcIMzKQARE3mdVv54VWwAPr54dFy6yoKcpl0e4a0zbHhKPy16D%3A20240429163850%3AUTC%2C10001002674168%2C27.125.245.253%2C20240429163850%2Curn:Huawei:liveTV:iptv17606%2C10001002674168%2C-1%2C0%2C1%2C%2C%2C2%2C1024%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C609129027%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBhE_w1HUiiteuCk2WSTTdfEulczwFe2kRYXqon_XrvW68y8yZsSLH3utCsMzArOmMqoqhSwVS2o29haQtalYZn-mqglswihH30T3Yz9HLYnUfCCSyn4mrXz20eAX4bNdTCUtHhTB0q33pJ2ueM3ZA7vE3lMfRz5PuB-TGGZMGoXM7ESSkm1luVGSTbNaYt8fjbsF3kbhwsSua_o_wHdIWRiF9gzPDUYSI_XEF7cd3JPmwd5l3rk8wAAAA&tenantId=6001
-#EXTINF:-1 tvg-id="PhoenixMoviesChannel" tvg-name="Phoenix MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a0/Phoenix_Movies.svg/1280px-Phoenix_Movies.svg.png" group-title="Saluran Percubaan (Test Channel)", Phoenix Movies Channel
-http://home.js001.com:7777/stream/channelid/884059847?profile=pass
 #EXTINF:-1 tvg-id="100.astro" group-title="Saluran Percubaan (Test Channel)" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Xilele.png", Astro XiLele 喜乐乐 (POPUP CHANNEL)
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1029,10 +1025,6 @@ http://185.189.225.150:85/NationalGeographic/index.m3u8
 http://185.189.225.150:85/odisea/index.m3u8
 #EXTINF:-1 cuid="435" tvg-chno="435" tvg-name="" tvg-id="Nat.Geo.Wild.es" tvg-logo="https://logo.iptveditor.com/natgeowild.png" group-title="ZapiTV España", Nat Geo Wild España 
 http://185.189.225.150:85/natgeowild/index.m3u8
-#EXTINF:-1 tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" tvg-id="La1.es" group-title="RTVE Digital TV", La 1 HD
-https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
-#EXTINF:-1 tvg-name="24h" tvg-logo="https://i.imgur.com/ZKR2jKr.png" tvg-id="24h.es" group-title="RTVE Digital TV", 24h
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 #EXTINF:-1 cuid="102" tvg-chno="110" tvg-name="El Pais 🇪🇸" tvg-id="ESBC39000033J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20240925T141414SQUARE.png" group-title="ZapiTV España", Canal El Pais
 https://bit.ly/3pXfx9q?profile=inspirationFreetv.m3u8
 #EXTINF:-1 cuid="451" tvg-chno="451" tvg-name="Nova 🇪🇸" tvg-id="Nova.es" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200" group-title="ZapiTV España", Nova 
@@ -1059,7 +1051,7 @@ http://176.65.146.224:8401/play/a0a7/index.m3u8
 http://line.4smart.in:80/live/TYHZRW6/MF7V7X2/975893&f=.ts
 #EXTINF:-1 cuid="453" tvg-chno="453" tvg-name="" tvg-id="Ten.es" tvg-logo="https://tentv.es/images/logo.png" group-title="ZapiTV España", TEN España 
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
-#EXTINF:-1 cuid="441" tvg-chno="441" tvg-name="Antena 3 🇪🇸" tvg-id="Antena.3.es" tvg-logo="https://logo.iptveditor.com/antena3.png" group-title="ZapiTV España", Antena tr3s
+#EXTINF:-1 cuid="441" tvg-chno="441" tvg-name="Antena 3 🇪🇸" tvg-id="Antena.3.es" tvg-logo="https://logo.iptveditor.com/antena3.png" group-title="ZapiTV España", Antena 3 SD
 http://176.65.146.224:8401/play/a0a5/index.m3u8
 #EXTINF:-1 cuid="441" tvg-chno="441" tvg-name="Antena 3 🇪🇸" tvg-id="Antena.3.es" tvg-logo="https://logo.iptveditor.com/antena3.png" group-title="ZapiTV España", Antena 3 HD
 https://tvnoov.com/fadoo/antena3.m3u8
