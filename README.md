@@ -7,7 +7,7 @@
 
 
 
-# ⚠️「ATTENTION」⚠️
+# ⚠️「ATTENTION」
 
 
 
