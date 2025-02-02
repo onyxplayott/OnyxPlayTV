@@ -234,10 +234,6 @@ http://myserver.myphuket.net:25461/test2/test2/58
 http://myserver.myphuket.net:25461/test2/test2/59
 #EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="True Sport Pack", True SPORT 3
 http://myserver.myphuket.net:25461/test2/test2/29
-#EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp" group-title="True Sport Pack", True SPORT 4
-   # OFFLINE #
-#EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="True Sport Pack", True SPORT 5
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/true5.m3u8
 #EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="True Sport Pack", True SPORT 7
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/true7.m3u8
 #EXTINF:-1  tvg-logo="https://truevisions.co.th/static/ba1de35c-8a25-47de-a27c-5cd8f705a14f.png" group-title="True Sport Pack", True SPORT PREMIER LEAGUE 1
