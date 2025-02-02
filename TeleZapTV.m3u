@@ -1,8 +1,11 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml" tvg-shift=0 m3uautoload=1
 
 ⚠️ Warning ⚠️ 
-If this channel was unstable, I will be deleted these channels.
+🇬🇧 - If this channel was unstable, I will be deleted these channels.
 
+🇪🇸 - Si este canal era inestable, se eliminarán estos canales.
+
+🇪🇸 (Basque Dialect) - Kanal hau ezegonkorra balitz, kanal horiek ezabatuko nituzke.
 
 #EXTINF:-1 tvg-id="Atreseries" tvg-logo="https://iili.io/Jmoqudg.png" group-title="ZapiTV España", Atreseries HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
