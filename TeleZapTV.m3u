@@ -168,11 +168,14 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-name="24h" tvg-logo="https://i.imgur.com/ZKR2jKr.png" tvg-id="24h.es" group-title="RTVE Digital Canal", 24h
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 
-#EXTINF:-1 cuid="436" tvg-chno="436" tvg-name="La 1 🇪🇸" tvg-id="ESBC4100001NZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="RTVE Digital", La 1 FHD
+#EXTINF:-1 cuid="436" tvg-chno="436" tvg-name="La 1 🇪🇸" tvg-id="ESBC4100001NZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1148px-Logo_TVE-1.svg.png" group-title="RTVE Digital Canal", La 1 FHD
 https://bit.ly/48Xf5t6?profile=ESBC4100001NZ.m3u8
 
-#EXTINF:-1 cuid="437" tvg-chno="437" tvg-name="La 2 🇪🇸" tvg-id="ESBC4100002AG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="RTVE Digital", La 2 FHD
+#EXTINF:-1 cuid="437" tvg-chno="437" tvg-name="La 2 🇪🇸" tvg-id="ESBC4100002AG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="RTVE Digital Canal", La 2 FHD
 https://bit.ly/3u1GriR?profile=ESBC4100002AG.m3u8
+
+#EXTINF:-1 tvg-id="RNETV" tvg-name="RNETVCanal" tvg-logo="https://scontent.fkul3-5.fna.fbcdn.net/v/t39.30808-1/305199103_507329958061256_1402581169584861695_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=79bf43&_nc_ohc=PTJRP5MHNpcQ7kNvgEX23zs&_nc_zt=24&_nc_ht=scontent.fkul3-5.fna&edm=AKsJ254EAAAA&_nc_gid=Ajtv5SvqznBpCXUmwhCYhxW&oh=00_AYCZM9L8a7LH0Qo6Yblyr2V0Ol5lobsnhUQvM4VJduxBMA&oe=67A55E93" group-title="RTVE Digital Canal", RNE TV y Radio
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8?hdnts=exp%3D1738520982%7Ehmac%3Dee3fa143f9b96838698a16fba8f639cd6b1c77751c313d3bfb727885248cd1f7&idasset=6688753
 
 #EXTINF:-1 tvg-name="DW Español" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEspanol.de" group-title="Noticias en Español", DW Español HD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
