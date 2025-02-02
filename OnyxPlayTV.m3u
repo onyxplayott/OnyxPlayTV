@@ -119,13 +119,9 @@ https://0472.org/hls/cgtna.m3u8
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 #EXTINF:-1 tvg-id="Animax HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png" group-title="Japan TV (Anime Zone)", Animax Hong Kong
 http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-name="AniplusID" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1495076748_logo-aniplus-png.png" group-title="Japan TV (Anime Zone)", Aniplus Indonesia
-http://iptv12k.com:35461/654321/123456/2098
-#EXTINF:-1 tvg-name="Aniplus HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555" group-title="Japan TV (Anime Zone)", Aniplus HD
-http://iptv12k.com:35461/654321/123456/686
 #EXTINF:-1 tvg-id="" tvg-name="ID: Animax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="Japan TV (Anime Zone)", Animax Indonesia 
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165081
-#EXTINF:-1 tvg-id="" tvg-name="ID: AniPlus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d0f77c4ae23b787f4aab6ed458ece469.png" group-title="Japan TV (Anime Zone)", Aniplus (AflaxTV Feed)
+#EXTINF:-1 tvg-id="" tvg-name="ID: AniPlus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d0f77c4ae23b787f4aab6ed458ece469.png" group-title="Japan TV (Anime Zone)", Aniplus (AflaxTV)
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298504
 #EXTINF:-1 group-title="Japan TV (Anime Zone)" tvg-logo="https://i.postimg.cc/T15q1gJr/anim.png", Anime All Day on PlutoTV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
