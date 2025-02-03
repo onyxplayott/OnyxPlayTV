@@ -162,14 +162,6 @@ https://bit.ly/3EqSXx3
 
 
 
-![IPTV LOGO](https://logomakerr.ai/uploads/output/2024/01/01/8885530ec61808b14946e3e3e6755660.jpg?t=1704077405.png)
-
-
-
-
-![IPTV LOGO](https://logomakerr.ai/uploads/output/2024/01/01/8885530ec61808b14946e3e3e6755660.jpg?t=1704077405.png)
-
-
 
 
 ![ANIME](https://i.pinimg.com/736x/81/52/36/8152365d50d39bc67a1fe25ce2f51175.jpg)
