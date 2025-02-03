@@ -172,10 +172,14 @@ https://bit.ly/3EqSXx3
 
 
 
+![ANIME](https://i.pinimg.com/736x/81/52/36/8152365d50d39bc67a1fe25ce2f51175.png)
+
+
+
+![ANIME](https://i.pinimg.com/474x/ce/2f/3d/ce2f3d3c5357fa402692c7c0e3fdc9f6.png)
 
 
 
 
 
-
-
+![SEIYUU](https://static.wikia.nocookie.net/ultra/images/b/bb/11-Haruka-Tomatsu.jpg/revision/latest?cb=20200925175813.png)
