@@ -2,8 +2,7 @@
 
 
 
-![Screenshot of a comment on a GitHub issue showing an image, an IPTV Logo comes with title "IPTV WORLD PREMIUM".]
-(https://logomakerr.ai/uploads/output/2024/01/01/8885530ec61808b14946e3e3e6755660.jpg?t=1704077405)
+
 
 
 
