@@ -1,6 +1,5 @@
 ℹ️ INFORMATION ℹ️ 
 
-
 This is an example of the "json" format for creating VOD (movies only) that can be used in OTT NAVIGATOR & TIVIMATE that SUPPORT MPD.
  
 
