@@ -12,6 +12,16 @@
 💯 𝙁𝙍𝙀𝙀 𝙋𝙇𝘼𝙔𝙇𝙄𝙎𝙏 𝙋𝙍𝙀𝙈𝙄𝙐𝙈 & 𝙁𝙍𝙀𝙀𝙈𝙄𝙐𝙈 𝙒𝙄𝙏𝙃 𝙐𝙉𝙇𝙄𝙈𝙄𝙏𝙀𝘿 𝘾𝙃𝘼𝙉𝙉𝙀𝙇𝙎 𝙏𝙃𝘼𝙏 𝘾𝘼𝙉 𝘼𝘾𝘾𝙀𝙎𝙎 𝙏𝙃𝙍𝙊𝙐𝙂𝙃 𝙄𝙏.
 
 
+***THIS SERVICES INCLUDED****
+
+***📡📺: LIVE TV***
+
+***🎧📻: LIVE RADIO***
+
+***🎥🍿: VOD MOVIES***
+
+***📺🍿: VOD TV SERIES (COMING SOON)***
+
 
 # ⚠️「ATTENTION」
 
