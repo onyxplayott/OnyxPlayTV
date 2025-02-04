@@ -820,7 +820,7 @@ http://iptv12k.com:35461/654321/123456/2179
 http://103.165.207.118:9088/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="RCTIOKE" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/1280px-RCTI_2015.svg.png" group-title="INDONESIA (DIGITAL TV)", RCTI OKE
 http://103.165.207.118:9088/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="MNCTV" tvg-name="MNCTVHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1280px-MNCTV_logo_2015.svg.png" group-title="INDONESIA (DIGITAL TV)", MNCTV HD
+#EXTINF:-1 tvg-id="MNCTV" tvg-name="MNCTVHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1280px-MNCTV_logo_2015.svg.png" group-title="INDONESIA (DIGITAL TV)", MNCTV
 http://103.165.207.118:9088/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="TransTV" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="INDONESIA (DIGITAL TV)", TRANSTV Digital
 http://103.165.207.118:9088/play/a006/index.m3u8
