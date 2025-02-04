@@ -188,3 +188,13 @@ https://bit.ly/3EqSXx3
 
 ![MOTHERKOREANGAMER](https://i.imgflip.com/9ivtit.jpg)
 
+![ANIME](https://i.pinimg.com/736x/e7/aa/c5/e7aac501b997796c7a22e2c1a7cd9565.jpg)
+
+![ANIME](https://i.pinimg.com/736x/ba/73/f5/ba73f570ae7fdde24f0bf07d6ee5e3ca.jpg)
+
+![ANIME](https://i.pinimg.com/736x/5a/1a/d6/5a1ad61b5a3f3ccb7e5ddda6e88fe871.jpg)
+
+![ANIME](https://i.pinimg.com/736x/71/93/4a/71934a4688dad8b6833ba75562a28669.jpg)
+
+
+![ANIME](https://i.pinimg.com/736x/94/1f/fd/941ffd2577d407e6c06837ebd416dd3b.jpg)
