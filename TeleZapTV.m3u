@@ -338,13 +338,13 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 cuid="466" tvg-chno="466" tvg-name="TeleMadrid Internacional 🇪🇸" tvg-id="Telemadrid.Int..es" tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png?hash=dcdede14b767968b29028761f31fe79e" group-title="ZapiTV España", TeleMadrid Intl
 https://new-international-23-secure2.akamaized.net/index.m3u8
 
-#EXTINF:-1 cuid="438" tvg-chno="438" tvg-name="TV3CAT 🇪🇸" tvg-id="TV3.Cat.es" tvg-logo="https://www.3cat.cat/_resources/favicons/3cat-favicon-192x192.png" group-title="ZapiTV España", TV3CAT HD
+#EXTINF:-1 cuid="438" tvg-chno="438" tvg-name="TV3CAT 🇪🇸" tvg-id="TV3.Cat.es" tvg-logo="https://www.3cat.cat/_resources/favicons/3cat-favicon-192x192.png" group-title="ZapiTV España", TV3CAT
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/bitrate_7.m3u8
 
 #EXTINF:-1 cuid="439" tvg-chno="439" tvg-name="3/24 🇪🇸" tvg-id="3.24.es" tvg-logo="https://logo.iptveditor.com/324.png" group-title="ZapiTV España", Canal 3/24 HD
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
-#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="M+.Vamos" tvg-id="M+.Vamos.es" tvg-logo="https://logo.iptveditor.com/vamos.png" group-title="M+ Deportes", M+.Vamos 
+#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="M+.Vamos" tvg-id="M+.Vamos.es" tvg-logo="https://logo.iptveditor.com/vamos.png" group-title="M+ Deportes", M+ Vamos SD
 http://line.4smart.in:80//live/TYHZRW6/MF7V7X2/309439&f=.ts
 
 #EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="" tvg-id="M+.Vamos.es" tvg-logo="https://logo.iptveditor.com/vamos.png" group-title="M+ Deportes", M+ Vamos HD
@@ -365,7 +365,7 @@ https://xyzdddd.mizhls.ru/lb/premium84/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FLaLigaTV%5BUK%5D
 
-#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="M+.Deportes" tvg-id="M+.Deportes.es" tvg-logo="https://logo.iptveditor.com/mdeporte1.png" group-title="M+ Deportes", M+.Deportes HD
+#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="M+.Deportes" tvg-id="M+.Deportes.es" tvg-logo="https://logo.iptveditor.com/mdeporte1.png" group-title="M+ Deportes", M+ Deportes HD
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -394,7 +394,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="NickEspaña" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1280px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="ZapiTV España", Nickelodeon España
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
-#EXTINF:-1 tvg-id="HITTV.es" tvg-name="HitTVEspaña" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HIT_TV_logo.svg/1280px-HIT_TV_logo.svg.png" group-title="ZapiTV España", Hit TV España (TDT)
+#EXTINF:-1 tvg-id="HITTV.es" tvg-name="HitTVEspaña" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HIT_TV_logo.svg/1280px-HIT_TV_logo.svg.png" group-title="ZapiTV España", HIT TV España (TDT)
 http://185.189.225.149/HitTV/index.m3u8
 
 
