@@ -191,9 +191,3 @@ https://bit.ly/3EqSXx3
 ***🔴🟢👉Resevered Channel🟢🔴👈***
 ***🔴🟢👉Resevered Channel🟢🔴👈***
 ***🔴🟢👉Resevered Channel🟢🔴👈***
-***🔴🟢👉Resevered Channel🟢🔴👈***
-***🔴🟢👉Resevered Channel🟢🔴👈***
-***🔴🟢👉Resevered Channel🟢🔴👈***
-***🔴🟢👉Resevered Channel🟢🔴👈***
-***🔴🟢👉Resevered Channel🟢🔴👈***
-***🔴🟢👉Resevered Channel🟢🔴👈***
