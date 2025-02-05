@@ -23,19 +23,24 @@ This is an example of the "json" format for creating VOD (movies only) that can 
            "drm": "clearkey", 
            "drmkey": ""
  }, 
-=======================================================
+
+"MPD FORMAT JSON"
 
 ⚠️ CAUTION ⚠️
+
 
 
 
 ONLY FOR PROVIDER THAT USED DRM CLEARKEY TO GET A DRM KEY FOR WATCH THESE SHOWS.
 
 
+
 This is only for VOD Movies that using DRM-Clearkey to play it at VOD libary.
 
 
+
 I will updated that for later.
+
 
 
 *Powered by Sunrakuxxx*
