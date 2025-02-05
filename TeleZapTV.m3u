@@ -411,6 +411,4 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_premium.smil/
 #EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="CanalExtremaduraDVR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1280px-CEXMA_new.png" group-title="ZapiTV España", Canal Extremadura (TDT)
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
 
-
-
-#EXTM3U billed-msg="TeleZapTV España Canal Digital 🇪🇸"
+#EXTM3U billed-msg="TeleZapTV España Canal Digital 🇪🇸 (100% Free Canales de Mucho)"
