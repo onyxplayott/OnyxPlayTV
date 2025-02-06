@@ -39,7 +39,7 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nba-turnaround-cm
 #EXTINF:-1 tvg-id="A_JapaneseProBaseball" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/122_pacificleague.png" group-title="drmCH", (x122x) パ・リーグSpecial
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-japanese-baseball-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A_Golf" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/124_albatvgolf.png" group-title="Rakuten-JP", (123) ALBA TV  l  ゴルフ
+#EXTINF:-1 tvg-id="A_Golf" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/124_albatvgolf.png" group-title="Rakuten-JP", (123) ALBA TV l  ゴルフ
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fitness-cmaf1-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sky A" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/126_skya.png" group-title="Rakuten-JP", (126) スカイA　サプリ
@@ -93,7 +93,7 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmovie3hls
 #EXTINF:-1 tvg-id="Movie_and_Drama_3" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/170_moviedratv.png" group-title="Rakuten-JP", (170) ムビドラTV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FashionTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/177_fashiontv.png" group-title="Rakuten-JP", (177) FashionTV
+#EXTINF:-1 tvg-id="FashionTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/177_fashiontv.png" group-title="Rakuten-JP", (177) Fashion TV HD
 https://b0ba6aee6b5a4ecda186b32e3e734289.mediatailor.ap-northeast-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenJP-web_FashionTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="History_Amagi" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/180_history.png" group-title="Rakuten-JP", (180) HISTORY TV
@@ -165,8 +165,9 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecoh
 #EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="Rakuten TV その他",楽天TV (アイドルグラビア) // GRAVURE IDOL CHANNEL
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
 
-#EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="Rakuten TV その他", 楽天TV (アニメ-DRM) // ANIME CHANNEL 1 [DRM]
+#EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="Rakuten TV その他", 楽天TV (アニメ-DRM) // ANIME CHANNEL 1
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime3cmafhls-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
+
 
 
 #EXTM3U billed-msg="RAKUTENTV JAPAN (RAKUTENTV FAST CHANNEL) 🇯🇵📡📺/楽天TV (Rチャンネル) 🇯🇵📡📺"
