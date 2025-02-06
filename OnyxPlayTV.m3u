@@ -15,15 +15,12 @@
                    👇
 
 
-
-
-
 ========================================================
 ℹ️ INFORMATION 𝑶𝒏𝒚𝒙𝑷𝒍𝒂𝒚𝑶𝑻𝑻 𝑻V ℹ️
 # (●) Service: Freemium & Premium Only
 # (●) Total Channels: Unlimited Channel List
 # (●) User: Only Private User (👥)
-🔴🟢 Currently Active 🔴🟢
+🔴🟢 Currently Active Right Now 🔴🟢
 ========================================================
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/02/257841ac-7e01-3ebb-8091-3630d0a6ef8b.jpeg?w=500&f=webp" tvg-id="052" group-title="HBO USA Channels", HBO Zone (Test)
@@ -35,7 +32,7 @@ https://gcp.live.na.prd.media.max.com/live/use1/e91_CixhY2EwNjZmYi05OGJiLTU3NmIt
 https://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBO2WEST" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/1280px-HBO_2_%282014%29.svg.png" group-title="HBO USA Channels", HBO 2 East
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-id="HBOVietnam" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/1280px-HBO_2_%282014%29.svg.png" group-title="Saluran Percubaan (Test Channel)", HBO Vietnam
+#EXTINF:-1 tvg-id="HBOVietnam" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bd/HBO_Asia_1995.png/revision/latest?cb=20220112083459&path-prefix=vi" group-title="Saluran Percubaan (Test Channel)", HBO Vietnam
 http://113.22.41.104:12345/udp/225.1.2.233:30120
 #EXTINF:-1 channel-id="pluto-5dcde17bf6591d0009839e02" tvg-id="5dcde17bf6591d0009839e02" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" tvg-chno="1251" group-title="Japan TV (Anime Zone)" , Pluto TV Anime Español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -145,7 +142,6 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298504
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="tokushoutsu" tvg-logo="http://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="Japan TV (Anime Zone)", Tokushoutsu on PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e2ff68-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=76da6dab-6ec1-433d-8d30-a0c34b5dd207&userId=&serverSideAds=false
-
 #EXTINF:-1 tvg-id="701" group-title="Saluran Percubaan (Test Channel)" tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png", Unifi Sports HD (MPD)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=Y2M1YzUwMTEtMWYxYi0zYjAxLTg2M2YtZjJmZTA2MWIyM2Nh
@@ -161,7 +157,6 @@ https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTrkOuPs_yv8H2SuON3mu5lA9YkBZVCBMYIA&s" group-title="Japan TV (Test Broadcast)", Nippon TV
 https://ntv4.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="TBSTVTokyo" tvg-logo="https://cdn.c21media.net/wp-content/uploads/2021/02/tokyobroadcastingsystem_logo_420x237_thumb.jpg" group-title="Japan TV (Test Broadcast)", TBS Japan
-
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/fujitv12.png" group-title="Japan TV (Test Broadcast)", Fuji TV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="TravelChannel" tvg-logo="http://playtv.unifi.com.my:7037/CPS/images/universal/film/logo/202108/20210831/20210831161520835mdk.png" group-title="Saluran Percubaan (Test Channel)", Travel Channel HD (Unifi)
@@ -686,17 +681,17 @@ https://github.com/bacyree/siaranMy/raw/refs/heads/main/channels/AstroAwani/inde
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/609/
 https://linearfast06.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_6_Ad/dash.mpd
-#EXTINF:-1 tvg-id="DramaHebat" group-title="MALAYSIA TV (SOOKA FAST CHANNEL)" ch-number="002" tvg-logo="https://aqfadtv.xyz/logos/DramaHebat.png", Drama Hebat 
+#EXTINF:-1 tvg-id="DramaHebat" group-title="MALAYSIA TV (SOOKA FAST CHANNEL)" ch-number="002" tvg-logo="https://aqfadtv.xyz/logos/DramaHebat.png", Drama Hebat by Sooka
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
-#EXTINF:-1 tvg-id="FilemMantap" group-title="MALAYSIA TV (SOOKA FAST CHANNEL)" ch-number="003" tvg-logo="https://aqfadtv.xyz/logos/FilemMantap.png",Filem Mantap 
+#EXTINF:-1 tvg-id="FilemMantap" group-title="MALAYSIA TV (SOOKA FAST CHANNEL)" ch-number="003" tvg-logo="https://aqfadtv.xyz/logos/FilemMantap.png", Filem Mantap by Sooka
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
-#EXTINF:-1 tvg-id="LawakSentral" group-title="MALAYSIA TV (SOOKA FAST CHANNEL)" ch-number="004" tvg-logo="https://aqfadtv.xyz/logos/LawakSentral.png", Lawak Sentral 
+#EXTINF:-1 tvg-id="LawakSentral" group-title="MALAYSIA TV (SOOKA FAST CHANNEL)" ch-number="004" tvg-logo="https://aqfadtv.xyz/logos/LawakSentral.png", Lawak Sentral by Sooka
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
-#EXTINF:-1 tvg-id="DramaHotpot" group-title="MALAYSIA TV (SOOKA FAST CHANNEL)" ch-number="005" tvg-logo="https://aqfadtv.xyz/logos/DramaHotpot.png", Drama Hotpot
+#EXTINF:-1 tvg-id="DramaHotpot" group-title="MALAYSIA TV (SOOKA FAST CHANNEL)" ch-number="005" tvg-logo="https://aqfadtv.xyz/logos/DramaHotpot.png", Drama Hotpot by Sooka
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
-#EXTINF:-1 tvg-id="Travel&Taste" group-title="MALAYSIA TV (SOOKA FAST CHANNEL)" ch-number="006" tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png", Travel & Taste
+#EXTINF:-1 tvg-id="Travel&Taste" group-title="MALAYSIA TV (SOOKA FAST CHANNEL)" ch-number="006" tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png", Travel & Taste by Sooka
 https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
-#EXTINF:-1 tvg-id="OhMyCeria" group-title="MALAYSIA TV (SOOKA FAST CHANNEL)" ch-number="007" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png", Oh My Ceria
+#EXTINF:-1 tvg-id="OhMyCeria" group-title="MALAYSIA TV (SOOKA FAST CHANNEL)" ch-number="007" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png", Oh My Ceria by Sooka
 https://linearfast07.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="INDONESIA (DIGITAL TV)", CNBC Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
