@@ -14,13 +14,13 @@
 
 ***THIS SERVICES INCLUDING:***
 
-***📡📺: LIVE TV***
+***📡📺: LIVE TV CHANNELS***
 
-***🎧📻: LIVE RADIO***
+***🎧📻: LIVE AUDIO CHANNELS***
 
-***🎥🍿: VOD MOVIES***
+***🎥🍿: VOD MOVIES (DOMESTIC & WORLD MOVIES***
 
-***📺🍿: VOD TV SERIES (COMING SOON)***
+***📺🍿: VOD TV SERIES (COMING SOON TO BE ADDED)***
 
 
 # ⚠️「ATTENTION」
@@ -128,7 +128,6 @@
 
 
 🔴𝙾𝚗𝚢𝚡𝙿𝚕𝚊𝚢𝙾𝚃𝚃 𝚅𝟸 (✓): 
-
 https://bit.ly/onyxplayottv2
 
 
@@ -136,7 +135,6 @@ https://bit.ly/onyxplayottv2
 
 
 🟢𝚃𝚎𝚕𝚎𝚉𝚊𝚙𝙴𝚂 𝚠𝚒𝚝𝚑 𝙴𝙿𝙶 𝚂𝚙𝚊𝚒𝚗 (✓):
-
 https://bit.ly/3EqSXx3
 
 
