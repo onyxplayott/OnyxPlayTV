@@ -324,7 +324,7 @@
  }, 
 {        
   "name": "Test1", 
-  "category": "",
+  "category": "Coming Soon",
   "info": { 
            "poster": "", 
            "bg": "", 
@@ -341,7 +341,7 @@
  }, 
  {        
   "name": "Test2", 
-  "category": "",
+  "category": "Coming Soon",
   "info": { 
            "poster": "", 
            "bg": "", 
@@ -358,7 +358,7 @@
  }, 
  {        
   "name": "Test3", 
-  "category": "",
+  "category": "Coming Soon",
   "info": { 
            "poster": "", 
            "bg": "", 
@@ -375,7 +375,58 @@
  }, 
  {        
   "name": "Test4", 
-  "category": "",
+  "category": "Coming Soon",
+  "info": { 
+           "poster": "", 
+           "bg": "", 
+           "plot": "", 
+           "backdrop": "", 
+           "director": [""], 
+           "cast": [""],
+           "trailer": "",
+           "year": ""
+           }, 
+           "video": "", 
+            
+           
+ }, 
+{        
+  "name": "Test5", 
+  "category": "Coming Soon",
+  "info": { 
+           "poster": "", 
+           "bg": "", 
+           "plot": "", 
+           "backdrop": "", 
+           "director": [""], 
+           "cast": [""],
+           "trailer": "",
+           "year": ""
+           }, 
+           "video": "", 
+            
+           
+ }, 
+ {        
+  "name": "Test6", 
+  "category": "Coming Soon",
+  "info": { 
+           "poster": "", 
+           "bg": "", 
+           "plot": "", 
+           "backdrop": "", 
+           "director": [""], 
+           "cast": [""],
+           "trailer": "",
+           "year": ""
+           }, 
+           "video": "", 
+            
+           
+ },
+ {        
+  "name": "Test7", 
+  "category": "Coming Soon",
   "info": { 
            "poster": "", 
            "bg": "", 
