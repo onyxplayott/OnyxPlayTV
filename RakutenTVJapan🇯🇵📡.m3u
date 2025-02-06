@@ -3,7 +3,7 @@
 🇯🇵 - VPNアプリを使用してのみ、日本IP経由でアクセスできます。
 
 #EXTM3U
-#EXTINF:-1 tvg-id="News1" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="Rakuten-JP", (104) 日テレ NEWS
+#EXTINF:-1 tvg-id="News1" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="Rakuten-JP", (104) 日テレ NEWS TV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WeatherNews" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png" group-title="Rakuten-JP", (106) ウェザーニュース LIVE
@@ -27,10 +27,10 @@ https://59155f3aad06478b9bbaf6510b811374.mediatailor.ap-northeast-1.amazonaws.co
 #EXTINF:-1 tvg-id="EuronewsEnglish" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/116_euronews.png" group-title="Rakuten-JP", (116) ユーロニュース
 https://1c380e6952614e9f9567582255d487d7.mediatailor.ap-northeast-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenJP-web_EuronewsWorld/playlist.m3u8
 
-#EXTINF:-1 tvg-id="W-cupSA" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/118_fifa2026sa.png" group-title="drmCH", (x118x) FIFA W杯26 南米予選
+#EXTINF:-1 tvg-id="W-cupSA" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/118_fifa2026sa.png" group-title="drmCH", (x118x) FIFA WC 杯26 南米予選
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-worldcupsa-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NBAPlayout" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/119_nbarakuten.png" group-title="drmCH", (x119x) NBA on Rakuten TV
+#EXTINF:-1 tvg-id="NBAPlayout" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/119_nbarakuten.png" group-title="drmCH", (x119x) NBA RAKUTEN
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nba-playout-cmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBATV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/120_nbatv.png" group-title="drmCH", (x121x) NBA TV
@@ -45,7 +45,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fitness-cmaf1-
 #EXTINF:-1 tvg-id="Sky A" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/126_skya.png" group-title="Rakuten-JP", (126) スカイA　サプリ
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-skyacmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="shigeki sports" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/128_shigekistrongsports.png" group-title="Rakuten-JP", (128) 刺激ストロングSPORTS
+#EXTINF:-1 tvg-id="shigeki sports" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/128_shigekistrongsports.png" group-title="Rakuten-JP", (128) 刺激ストロング SPORTS
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekisports-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GAORA" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/130_gaorazero.png" group-title="Rakuten-JP", (130) GAORA ZERO
@@ -72,7 +72,7 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime2hlscmaf-rak
 #EXTINF:-1 tvg-id="Benesse" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png" group-title="Rakuten-JP", (146) しまじろうチャンネル
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelbenessehlscmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A_BabySharkTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/148_babyshark.png" group-title="Rakuten-JP", (149) BABY SHARK TV PINKFONG
+#EXTINF:-1 tvg-id="A_BabySharkTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/148_babyshark.png" group-title="Rakuten-JP", (149) BABY SHARK TV PINKFONG CHANNEL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-babyshark-cmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KidsEnglish" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/150_kids.png" group-title="Rakuten-JP", (150) キッズ
@@ -114,10 +114,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakut
 #EXTINF:-1 tvg-id="Fishing" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/198_fishing.png" group-title="Rakuten-JP", (198) 釣り
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fishinghlscmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Shogi" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/205_shogi.png" group-title="Rakuten-JP", (205) 将棋
+#EXTINF:-1 tvg-id="Shogi" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/205_shogi.png" group-title="Rakuten-JP", (205) 将棋 TV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shogicmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A_Mahjong" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/206_mahjong.png" group-title="Rakuten-JP", (206) 麻雀
+#EXTINF:-1 tvg-id="A_Mahjong" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/206_mahjong.png" group-title="Rakuten-JP", (206) 麻雀 TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-mahjong-cmaf1-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pachi-slo" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/207_pachislo.png" group-title="Rakuten-JP", (207) パチンコ・パチスロ
