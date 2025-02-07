@@ -96,38 +96,7 @@ http://38.41.8.1:8000/play/a0ex
 http://181.78.105.146:6060/play/a052
 #EXTINF:-1 cuid="1354" tvg-chno="1354" tvg-name="Venus TV 🇦🇷" tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/800px-Canal_Venus_logo.svg.png", Venus TV
 http://45.5.117.182:8000/play/a0gf/index.m3u8
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqORiRitDqn2R8PSKF7BXUHjId1B0eJwES7WCjOjeQ=s900-c-k-c0x00ffffff-no-rj" group-title="Взрослые [18+]", Carac1 (18+ at Nite)
-http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="erox" group-title="Взрослые [18+]", Erox TV
-#EXTVLCOPT:http-user-agent=SmartTV
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Взрослые [18+]", Exxtasy TV
-#EXTVLCOPT:http-user-agent=SmartTV
-http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="babes-tv" group-title="Взрослые [18+]", Babes TV
-#EXTVLCOPT:http-user-agent=SmartTV
-http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/image-18-2048x902.png" group-title="Взрослые [18+]", Leo HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.goiptv.top/upload/REALITY-KINGS-TV-LOGO.png" tvg-id="no_epg_xxx" group-title="Взрослые [18+]", Reality Kings TV (RKTV)
-#EXTVLCOPT:http-user-agent=SmartTV
-http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="dorcel" group-title="Взрослые [18+]", Dorcel TV
-#EXTVLCOPT:http-user-agent=SmartTV
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="eroxxxhd" group-title="Взрослые [18+]", Eroxxx
-#EXTVLCOPT:http-user-agent=SmartTV
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="brazzers-tv-europe-ru" group-title="Взрослые [18+]", Brazzers TV 1
-http://live.admuspeh.my/8131/index.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="brazzers-tv-europe" group-title="Взрослые [18+]", Brazzers TV 2
-#EXTVLCOPT:http-user-agent=SmartTV
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="sholk" group-title="Взрослые [18+]", Шёлк тв
-http://live.admuspeh.my/8129/index.m3u8?token=iptvshared
-#EXTINF:-1 tvg-id="russkaya-noch" group-title="Взрослые [18+]", Русская ночь тв
-http://live.admuspeh.my/8191/index.m3u8?token=iptvshared
+
 =================>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
