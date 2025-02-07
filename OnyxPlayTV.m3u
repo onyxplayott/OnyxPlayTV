@@ -677,22 +677,6 @@ https://janton.whacat.me/tonton/ANIMAX
 https://janton.whacat.me/tonton/THRILL
 #EXTINF:-1 tvg-id="501.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="MALAYSIA & BRUNEI (DIGITAL TV)", Astro Awani HD
 https://github.com/bacyree/siaranMy/raw/refs/heads/main/channels/AstroAwani/index.m3u8
-#EXTINF:-1 tvg-id="JomNgaji" group-title="MALAYSIA TV (SOOKA FAST CHANNEL)" ch-number="001" tvg-logo="https://aqfadtv.xyz/logos/JomNgaji.png",Jom Ngaji
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/609/
-https://linearfast06.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_6_Ad/dash.mpd
-#EXTINF:-1 tvg-id="DramaHebat" group-title="MALAYSIA TV (SOOKA FAST CHANNEL)" ch-number="002" tvg-logo="https://aqfadtv.xyz/logos/DramaHebat.png", Drama Hebat by Sooka
-https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
-#EXTINF:-1 tvg-id="FilemMantap" group-title="MALAYSIA TV (SOOKA FAST CHANNEL)" ch-number="003" tvg-logo="https://aqfadtv.xyz/logos/FilemMantap.png", Filem Mantap by Sooka
-https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
-#EXTINF:-1 tvg-id="LawakSentral" group-title="MALAYSIA TV (SOOKA FAST CHANNEL)" ch-number="004" tvg-logo="https://aqfadtv.xyz/logos/LawakSentral.png", Lawak Sentral by Sooka
-https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
-#EXTINF:-1 tvg-id="DramaHotpot" group-title="MALAYSIA TV (SOOKA FAST CHANNEL)" ch-number="005" tvg-logo="https://aqfadtv.xyz/logos/DramaHotpot.png", Drama Hotpot by Sooka
-https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
-#EXTINF:-1 tvg-id="Travel&Taste" group-title="MALAYSIA TV (SOOKA FAST CHANNEL)" ch-number="006" tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png", Travel & Taste by Sooka
-https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
-#EXTINF:-1 tvg-id="OhMyCeria" group-title="MALAYSIA TV (SOOKA FAST CHANNEL)" ch-number="007" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png", Oh My Ceria by Sooka
-https://linearfast07.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="INDONESIA (DIGITAL TV)", CNBC Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
