@@ -255,12 +255,6 @@ http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/1782&f=.ts
 #EXTINF:-1 cuid="441" tvg-chno="441" tvg-name="Antena 3 🇪🇸" tvg-id="Antena.3.es" tvg-logo="https://logo.iptveditor.com/antena3.png" group-title="ZapiTV España", Antena 3 (TDT)
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="M+LaLiga" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGS" group-title="M+ Deportes", M+ LaLiga (Hypermotion)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"6d08b265a6639e32da7c880d5491e3d2":"0c92556ca14b95f367993710e7cfbc94"}
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
-
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://logo.iptveditor.com/trece.png" group-title="ZapiTV España", Trece HD
 https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
 
@@ -355,34 +349,28 @@ https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/bitrate_7.m3u8
 #EXTINF:-1 cuid="439" tvg-chno="439" tvg-name="3/24 🇪🇸" tvg-id="3.24.es" tvg-logo="https://logo.iptveditor.com/324.png" group-title="ZapiTV España", Canal 3/24 HD
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
-#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="M+.Vamos" tvg-id="M+.Vamos.es" tvg-logo="https://logo.iptveditor.com/vamos.png" group-title="M+ Deportes", M+ Vamos SD
+#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="M+.Vamos" tvg-id="M+.Vamos.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="M+ Deportes", Vamos por M+ SD
 http://line.4smart.in:80//live/TYHZRW6/MF7V7X2/309439&f=.ts
 
-#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="" tvg-id="M+.Vamos.es" tvg-logo="https://logo.iptveditor.com/vamos.png" group-title="M+ Deportes", M+ Vamos HD
+#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="" tvg-id="M+.Vamos.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="M+ Deportes", Vamos por M+ HD
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 #EXTVLCOPT:network-caching=1000
 https://xyzdddd.mizhls.ru/lb/premium521/index.m3u8
 
-#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="M+.LALIGA.TV" tvg-id="LALIGA.TV.BAR.es" tvg-logo="https://logo.iptveditor.com/mlaliga.png" group-title="M+ Deportes", M+ La Liga TV
+#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="M+.LALIGA.TV" tvg-id="LALIGA.TV.BAR.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1280px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="M+ Deportes", LaLiga TV por M+
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 #EXTVLCOPT:network-caching=1000
 https://xyzdddd.mizhls.ru/lb/premium84/index.m3u8
 
-#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="LALIGA.TV.BAR" tvg-id="LALIGA.TV.BAR.es" tvg-logo="https://logo.iptveditor.com/laligatv.png" group-title="M+ Deportes", M+ La Liga Bar TV
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FLaLigaTV%5BUK%5D
-
-#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="M+.Deportes" tvg-id="M+.Deportes.es" tvg-logo="https://logo.iptveditor.com/mdeporte1.png" group-title="M+ Deportes", M+ Deportes HD
+#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="M+.Deportes" tvg-id="M+.Deportes.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="M+ Deportes", Deportes por M+
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FMovistarDeportes%5BSpain%5D
 
-#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="Liga Campeones 🇪🇸" tvg-id="M+.Liga.de.Campeones.es" tvg-logo="https://logo.iptveditor.com/lcampeones.png" group-title="M+ Deportes", M+ Liga de Campeones
+#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="Liga Campeones 🇪🇸" tvg-id="M+.Liga.de.Campeones.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="M+ Deportes", Liga de Campeones por M+
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 https://xyzdddd.mizhls.ru/lb/premium435/index.m3u8
