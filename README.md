@@ -172,14 +172,7 @@ https://bit.ly/3EqSXx3
 
 
 
-
-
-![KOREAN CRAZY FUCKIN' GAMER](https://static.wikia.nocookie.net/0f09766c-f620-4b40-ba6b-623cbb494353/scale-to-width/755)
-
-
-
-
-![MOTHERKOREANGAMER](https://i.imgflip.com/9ivtit.jpg)
+***🔴🟢👉Resevered Channel🟢🔴👈***
 
 
 ***🔴🟢👉Resevered Channel🟢🔴👈***
@@ -194,23 +187,9 @@ https://bit.ly/3EqSXx3
 ***🔴🟢👉Resevered Channel🟢🔴👈***
 
 
-
 ***🔴🟢👉Resevered Channel🟢🔴👈***
 
-
-
-
 ***🔴🟢👉Resevered Channel🟢🔴👈***
-
-
-
-***🔴🟢👉Resevered Channel🟢🔴👈***
-
-
-
-***🔴🟢👉Resevered Channel🟢🔴👈***
-
-
 
 
 ***🔴🟢👉Resevered Channel🟢🔴👈***
@@ -231,15 +210,6 @@ https://bit.ly/3EqSXx3
 
 
 
-***🔴🟢👉Resevered Channel🟢🔴👈***
-
-
-
-
-***🔴🟢👉Resevered Channel🟢🔴👈***
-
-
-
 
 ***🔴🟢👉Resevered Channel🟢🔴👈***
 
@@ -247,6 +217,34 @@ https://bit.ly/3EqSXx3
 
 
 
+***🔴🟢👉Resevered Channel🟢🔴👈***
+
+
+
+
+
+***🔴🟢👉Resevered Channel🟢🔴👈***
+
+
+
+
+
+
+
+
+
+
+***🔴🟢👉Resevered Channel🟢🔴👈***
+
+
+
+
+
+
+    
+    
+    
+    
     👉 (●🔴🟢) (●🟢🔴) 👈
     👉 (●🔴🟢) (●🟢🔴) 👈
     👉 (●🔴🟢) (●🟢🔴) 👈
