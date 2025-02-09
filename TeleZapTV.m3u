@@ -201,7 +201,7 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" tvg-id="rtve.es" group-title="Noticias en Español", 24Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 cuid="102" tvg-chno="110" tvg-name="El Pais 🇪🇸" tvg-id="ESBC39000033J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20240925T141414SQUARE.png" group-title="ZapiTV España", Canal El Pais
+#EXTINF:-1 cuid="102" tvg-chno="110" tvg-name="El Pais 🇪🇸" tvg-id="ESBC39000033J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20240925T141414SQUARE.png" group-title="ZapiTV España", ElPais TV
 https://bit.ly/3pXfx9q?profile=inspirationFreetv.m3u8
 
 #EXTINF:-1 cuid="451" tvg-chno="451" tvg-name="Nova 🇪🇸" tvg-id="Nova.es" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200" group-title="ZapiTV España", Nova 
@@ -282,16 +282,16 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 #EXTINF:-1 cuid="463" tvg-chno="463" tvg-name="ETB 3 🇪🇸" tvg-id="ETB3.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ETB3.webp" group-title="ZapiTV España", ETB 3
 https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:273_HD.smil/manifest.m3u8
 
-#EXTINF:-1 cuid="456" tvg-chno="456" tvg-name="Galicia Europa 🇪🇸" tvg-id="TVG.Europa.es" tvg-logo="https://crtvg.gal/o/portal-crtvg-base-theme/images/favicon.ico" group-title="ZapiTV España", TV Galicia Europa
+#EXTINF:-1 cuid="456" tvg-chno="456" tvg-name="Galicia Europa 🇪🇸" tvg-id="TVG.Europa.es" tvg-logo="https://crtvg.gal/o/portal-crtvg-base-theme/images/favicon.ico" group-title="ZapiTV España", TVGalicia Europa
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 
-#EXTINF:-1 cuid="457" tvg-chno="457" tvg-name="Galicia America 🇪🇸" tvg-id="TVG.Europa.es" tvg-logo="https://crtvg.gal/o/portal-crtvg-base-theme/images/favicon.ico" group-title="ZapiTV España", TV Galicia America
+#EXTINF:-1 cuid="457" tvg-chno="457" tvg-name="Galicia America 🇪🇸" tvg-id="TVG.Europa.es" tvg-logo="https://crtvg.gal/o/portal-crtvg-base-theme/images/favicon.ico" group-title="ZapiTV España", TVGalicia America
 https://crtvg-america.flumotion.cloud/playlist.m3u8
 
-#EXTINF:-1 cuid="458" tvg-chno="458" tvg-name="Galicia 2 🇪🇸" tvg-id="TVG.2.es" tvg-logo="https://crtvg.gal/o/portal-crtvg-base-theme/images/favicon.ico" group-title="ZapiTV España", TV Galicia 2
+#EXTINF:-1 cuid="458" tvg-chno="458" tvg-name="Galicia 2 🇪🇸" tvg-id="TVG.2.es" tvg-logo="https://crtvg.gal/o/portal-crtvg-base-theme/images/favicon.ico" group-title="ZapiTV España", TVGalicia 2
 https://crtvg-events1.flumotion.cloud/playlist.m3u8
 
-#EXTINF:-1 cuid="455" tvg-chno="455" tvg-name="La Otra 🇪🇸" tvg-id="La.Otra.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/La%20Otra.webp" group-title="ZapiTV España", La Otra TV
+#EXTINF:-1 cuid="455" tvg-chno="455" tvg-name="La Otra 🇪🇸" tvg-id="La.Otra.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/La%20Otra.webp" group-title="ZapiTV España", La Otra
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 #EXTVLCOPT:http-referrer=https://www.telemadrid.es/
@@ -310,7 +310,7 @@ http://185.233.16.53:80/live/UWCPVED8V2/H5gMVveKAHAD/989557&f=.ts
 #EXTINF:-1 cuid="444" tvg-chno="444" tvg-name="Telecinco 🇪🇸" tvg-id="Telecinco.es" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="ZapiTV España", Telecinco SD
 https://tvnoov.com/fadoo/telecincohd.m3u8
 
-#EXTINF:-1 cuid="444" tvg-chno="444" tvg-name="Telecinco 🇪🇸" tvg-id="Telecinco.es" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="ZapiTV España", Telecinco (backup)
+#EXTINF:-1 cuid="444" tvg-chno="444" tvg-name="Telecinco 🇪🇸" tvg-id="Telecinco.es" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="ZapiTV España", Telecinco (Server 2)
 http://176.65.146.224:8401/play/a0ab/index.m3u8
 
 #EXTINF:-1 cuid="444" tvg-chno="444" tvg-name="Telecinco 🇪🇸" tvg-id="Telecinco.es" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="ZapiTV España", Telecinco (TDT)
@@ -375,7 +375,7 @@ https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FMo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 https://xyzdddd.mizhls.ru/lb/premium435/index.m3u8
 
-#EXTINF:-1 cuid="1048" tvg-chno="1050" tvg-name="Eurosport 1 🇪🇸" tvg-id="Eurosport.1.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="ZapiTV España", Eurosport España
+#EXTINF:-1 cuid="1048" tvg-chno="1050" tvg-name="Eurosport 1 🇪🇸" tvg-id="Eurosport.1.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="ZapiTV España", Eurosport 1 España
 http://oldraindays.net/live/228463308/r576049x/324257.ts
 
 #EXTINF:-1 cuid="1048" tvg-chno="1050" tvg-name="Eurosport 1 🇪🇸" tvg-id="Eurosport.1.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="ZapiTV España", Eurosport 1 España (Backup)
@@ -396,10 +396,10 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="HITTV.es" tvg-name="HitTVEspaña" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HIT_TV_logo.svg/1280px-HIT_TV_logo.svg.png" group-title="ZapiTV España", HIT TV España
 http://185.189.225.149/HitTV/index.m3u8
 
-#EXTINF:-1 tvg-id="Boing.es" tvg-name="CanalBoingES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1280px-Boing_2020.svg.png" group-title="ZapiTV España", Boing España
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="CanalBoingES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1280px-Boing_2020.svg.png" group-title="ZapiTV España", Canal Boing España
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_premium.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="CanalExtremaduraDVR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1280px-CEXMA_new.png" group-title="ZapiTV España", Canal Extremadura Digital
+#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="CanalExtremaduraDVR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1280px-CEXMA_new.png" group-title="ZapiTV España", Canal Extremadura (TDT)
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
 
 #EXTM3U billed-msg="TeleZapTV 💯 Canal España Digital 🇪🇸"
