@@ -1,8 +1,10 @@
 #EXTM3U
 #EXT-X-APP APTV
-      #      APTV TEST CHANNEL    #
-     
-      #  TEST THROUGH OTTNAVIGATOR #
+      #  APTV HOTEL PLAY TEST CHANNEL #
+     #  TEST ON OTTNAVIGATOR #
+
+
+
 
 #EXTINF:-1,178
 http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476178.m3u8
