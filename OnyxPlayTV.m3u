@@ -27,7 +27,7 @@
 🔴🟢 Currently Active Right Now 🔴🟢
 ========================================================
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/02/257841ac-7e01-3ebb-8091-3630d0a6ef8b.jpeg?w=500&f=webp" tvg-id="052" group-title="HBO USA Channels", HBO Zone USA (Test)
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/02/257841ac-7e01-3ebb-8091-3630d0a6ef8b.jpeg?w=500&f=webp" tvg-id="052" group-title="HBO USA Channels", HBO Zone US (Test)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQHURlafg8JSmECHohNOUw","k":"aAvjS0qckmR3GxmDsf3JnA"},{"kty":"oct","kid":"AQJZdTB7XAUB6HEDAHSqzg","k":"sBBTAsuuI9lRvrEmkAVlNg"},{"kty":"oct","kid":"AQBGyruYoH5M3wnD77PBIQ","k":"GbD4P1ZiDyfxV5qB2-bIjQ"}],"type":"temporary"}
@@ -38,11 +38,11 @@ https://fl2.moveonjoy.com/HBO/index.m3u8
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde17bf6591d0009839e02" tvg-id="5dcde17bf6591d0009839e02" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" tvg-chno="1251" group-title="Japan TV (Anime Zone)" , Pluto TV Anime Español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Pbo.ph" tvg-logo="https://iili.io/2G9xVP2.png" group-title="CINEMA PINOY 🎬", PBO TV
+#EXTINF:-1 tvg-id="Pbo.ph" tvg-logo="https://iili.io/2G9xVP2.png" group-title="CINEMA PINOY 🎬", PBO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
-#EXTINF:-1 tvg-id="Viva.ph" tvg-logo="https://iili.io/2G9Tn99.png" group-title="CINEMA PINOY 🎬", Viva Cinema Pinoy
+#EXTINF:-1 tvg-id="Viva.ph" tvg-logo="https://iili.io/2G9Tn99.png" group-title="CINEMA PINOY 🎬", VIVACINEMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
@@ -102,7 +102,7 @@ http://iptv12k.com:35461/654321/123456/3225
 http://iptv12k.com:35461/654321/123456/3205
 #EXTINF:-1 tvg-name="MBCDRAMAHD" tvg-logo="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2FxC8tauk2Y5mR88Mfy3TAwpRbBozyFNQFkdJrEojjwDVBs1498542930503compressflag.jpg&thumbnail=650x2147483647&quality=80&type=jpg" group-title="KOREAN PREMIUM", MBC DRAMA
 http://iptv12k.com:35461/654321/123456/3220
-#EXTINF:-1 tvg-name="KR: 연합뉴스TV" tvg-logo="http://image.sbs.co.kr/sbs/4n/favicon.png" group-title="KOREAN PREMIUM", 연합뉴스TV (Yonhap News TV)
+#EXTINF:-1 tvg-name="KR: 연합뉴스TV" tvg-logo="http://image.sbs.co.kr/sbs/4n/favicon.png" group-title="KOREAN PREMIUM", Yonhap News TV
 http://iptv12k.com:35461/654321/123456/3209
 #EXTINF:-1 tvg-name="KR:  TV조선 KR" tvg-logo="https://cphoto.asiae.co.kr/listimglink/1/2019040209412936343_1554165689.png" group-title="KOREAN PREMIUM", TV CHOSUN
 http://iptv12k.com:35461/654321/123456/321
@@ -110,11 +110,9 @@ http://iptv12k.com:35461/654321/123456/321
 http://iptv12k.com:35461/654321/123456/3206
 #EXTINF:-1 tvg-name="KR: SBS스포츠 KR" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FctkSdK%2FbtqDWr6nsCE%2F6OCIsMnprjRYR86Lcp9Msk%2Fimg.jpg" group-title="KOREAN PREMIUM", SBS SPORTS
 http://iptv12k.com:35461/654321/123456/3207
-#EXTINF:-1 tvg-name="KR: SBS스포츠 KR" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FctkSdK%2FbtqDWr6nsCE%2F6OCIsMnprjRYR86Lcp9Msk%2Fimg.jpg" group-title="KOREAN PREMIUM", SBS SPORTS (backup)
-https://rocket-tv.online/naver/index.php?id=20250118021F148
-#EXTINF:-1 tvg-name="KR: SBS plus KR" tvg-logo="http://image.sbs.co.kr/sbs/4n/favicon.png" group-title="KOREAN PREMIUM", SBS PLUS
+#EXTINF:-1 tvg-name="KR: SBS plus KR" tvg-logo="http://image.sbs.co.kr/sbs/4n/favicon.png" group-title="KOREAN PREMIUM", SBS PLUS (SBS+)
 http://iptv12k.com:35461/654321/123456/3211
-#EXTINF:-1 tvg-name="CTS HD" tvg-logo="https://pbs.twimg.com/profile_images/899810873836838912/MRSOTP51_400x400.jpg" group-title="KOREAN PREMIUM", CTS HD
+#EXTINF:-1 tvg-name="CTS HD" tvg-logo="https://pbs.twimg.com/profile_images/899810873836838912/MRSOTP51_400x400.jpg" group-title="KOREAN PREMIUM", CTS TV
 http://iptv12k.com:35461/654321/123456/3218
 ========================================================
 #EXTINF:-1 tvg-name="CGTN English" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="CGTN Channels", CGTN
