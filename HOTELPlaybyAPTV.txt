@@ -483,4 +483,5 @@ http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476993.m3u8
 http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476997.m3u8
 #EXTINF:-1,998
 http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476998.m3u8
+
 =====HOTELPLAY TEST CHANNEL============
