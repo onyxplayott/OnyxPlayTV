@@ -141,7 +141,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298504
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="tokushoutsu" tvg-logo="http://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="Japan TV (Anime Zone)", Tokushoutsu on PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e2ff68-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=76da6dab-6ec1-433d-8d30-a0c34b5dd207&userId=&serverSideAds=false
-#EXTINF:-1 tvg-id="701" group-title="Saluran Percubaan (Test Channel)" tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png", Unifi Sports HD (MPD)
+#EXTINF:-1 tvg-id="701" group-title="Saluran Percubaan (Test Channel)" tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png", Unifi Sports 701
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=Y2M1YzUwMTEtMWYxYi0zYjAxLTg2M2YtZjJmZTA2MWIyM2Nh
 https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -156,15 +156,16 @@ https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTrkOuPs_yv8H2SuON3mu5lA9YkBZVCBMYIA&s" group-title="Japan TV (Test Broadcast)", Nippon TV
 https://ntv4.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="TBSTVTokyo" tvg-logo="https://cdn.c21media.net/wp-content/uploads/2021/02/tokyobroadcastingsystem_logo_420x237_thumb.jpg" group-title="Japan TV (Test Broadcast)", TBS Japan
+
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/fujitv12.png" group-title="Japan TV (Test Broadcast)", Fuji TV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 tvg-id="TravelChannel" tvg-logo="http://playtv.unifi.com.my:7037/CPS/images/universal/film/logo/202108/20210831/20210831161520835mdk.png" group-title="Saluran Percubaan (Test Channel)", Travel Channel HD (Unifi)
+#EXTINF:-1 tvg-id="TravelChannel" tvg-logo="http://playtv.unifi.com.my:7037/CPS/images/universal/film/logo/202108/20210831/20210831161520835mdk.png" group-title="Saluran Percubaan (Test Channel)", Travel Channel Asia (Unifi)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b125629ad757520ac833a40e4b4f22e8:4d027e6b858d68fdde37270b2cd0172b
 https://web.hypp.tv:443/PLTV/88888888/224/3221227593/3221227593.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWbuVTT0kQ7uQ6vwRhl32tZfEg2x34ieDQHngPU9P4aoumIekQBXXHJTV%2FlcIMzKQARE3mdVv54VWwAPr54dFy6yoKcpl0e4a0zbHhKPy16D%3A20240429163850%3AUTC%2C10001002674168%2C27.125.245.253%2C20240429163850%2Curn:Huawei:liveTV:iptv17606%2C10001002674168%2C-1%2C0%2C1%2C%2C%2C2%2C1024%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C609129027%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBhE_w1HUiiteuCk2WSTTdfEulczwFe2kRYXqon_XrvW68y8yZsSLH3utCsMzArOmMqoqhSwVS2o29haQtalYZn-mqglswihH30T3Yz9HLYnUfCCSyn4mrXz20eAX4bNdTCUtHhTB0q33pJ2ueM3ZA7vE3lMfRz5PuB-TGGZMGoXM7ESSkm1luVGSTbNaYt8fjbsF3kbhwsSua_o_wHdIWRiF9gzPDUYSI_XEF7cd3JPmwd5l3rk8wAAAA&tenantId=6001
-#EXTINF:-1 tvg-id="100.astro" group-title="Saluran Percubaan (Test Channel)" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Xilele.png", Astro Xilele 喜乐乐 HD (Popup until 28 Feb)
+#EXTINF:-1 tvg-id="100.astro" group-title="Saluran Percubaan (Test Channel)" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Xilele.png", Astro Xilele (Popup until 28 Feb)
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -174,17 +175,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5179/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroWarnaSG" tvg-name="AstroWarnaSG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_Warna_%28Dec_2024%29.png/revision/latest/scale-to-width-down/250?cb=20241125072155" group-title="Saluran Percubaan (Test Channel)", Astro Warna SG (Test)
 https://haoyunlai.serv00.net/Smartv-1.php?id=Warna-O
 ========================================================
-#EXTINF:-1 tvg-name="Digi Sport 1 Romania" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/footer/digi-sport-alt.png" group-title="Digi Sport Pack", Digi Sport 1
+#EXTINF:-1 tvg-name="Digi Sport 1 Romania" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/footer/digi-sport-alt.png" group-title="Digi TV Sport Pack", Digi Sport 1
 https://webhdrunns.mizhls.ru/lb/premium400/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Digi Sport 2 Romania" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/footer/digi-sport-alt.png" group-title="Digi Sport Pack", Digi Sport 2
+#EXTINF:-1 tvg-name="Digi Sport 2 Romania" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/footer/digi-sport-alt.png" group-title="Digi TV Sport Pack", Digi Sport 2
 https://webhdrunns.mizhls.ru/lb/premium401/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Digi Sport 3 Romania" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/footer/digi-sport-alt.png" group-title="Digi Sport Pack", Digi Sport 3
+#EXTINF:-1 tvg-name="Digi Sport 3 Romania" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/footer/digi-sport-alt.png" group-title="Digi TV Sport Pack", Digi Sport 3
 https://webhdrunns.mizhls.ru/lb/premium402/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Digi Sport 4 Romania" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/footer/digi-sport-alt.png" group-title="Digi Sport Pack", Digi Sport 4
+#EXTINF:-1 tvg-name="Digi Sport 4 Romania" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/footer/digi-sport-alt.png" group-title="Digi TV Sport Pack", Digi Sport 4
 https://webhdrunns.mizhls.ru/lb/premium403/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="Ziggo Sport 5" tvg-logo="" group-title="Ziggo Sport Pack", Ziggo Sport 5
 https://webhdrunns.mizhls.ru/lb/premium383/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Ziggo Sport Select" tvg-logo="https://d3tw7elnk2m6f4.cloudfront.net/Ziggo-Sport-Black-RGB.png" group-title="Ziggo Sport Pack", Ziggo Sport 
+#EXTINF:-1 tvg-name="Ziggo Sport Select" tvg-logo="https://d3tw7elnk2m6f4.cloudfront.net/Ziggo-Sport-Black-RGB.png" group-title="Ziggo Sport Pack", Ziggo Sport 1
 https://webhdrunns.mizhls.ru/lb/premium393/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="Ziggo Sport 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Ziggo_Sport_4.svg/revision/latest?cb=20240702091648" group-title="Ziggo Sport Pack", Ziggo Sport 4
 https://webhdrunns.mizhls.ru/lb/premium396/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
