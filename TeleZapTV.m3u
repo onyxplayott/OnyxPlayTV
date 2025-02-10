@@ -13,7 +13,7 @@
 
 🇪🇸 (Basque) - Kanal hau ezegonkorra balitz, kanal horiek ezabatuko nituzke.
 
-#EXTINF:-1 tvg-id="Atreseries" tvg-logo="https://iili.io/Jmoqudg.png" group-title="ZapiTV España", Atreseries HD
+#EXTINF:-1 tvg-id="Atreseries" tvg-logo="https://iili.io/Jmoqudg.png" group-title="ZapiTV España", A3S HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f9f8aec731ad9b6da84e72df2b318fa:8581c19cf83e9b0a872484377ea8c162
 https://ott.zapitv.com/live/eds_c2/atreseries_hd/dash_live_enc/atreseries_hd.mpd
@@ -381,7 +381,7 @@ http://oldraindays.net/live/228463308/r576049x/324257.ts
 #EXTINF:-1 cuid="1048" tvg-chno="1050" tvg-name="Eurosport 1 🇪🇸" tvg-id="Eurosport.1.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="ZapiTV España", Eurosport 1 España (Backup)
 http://185.189.225.150:85/Eurosport1/index.m3u8
 
-#EXTINF:-1 cuid="1062" tvg-chno="1062" tvg-name="Eurosport 2 🇪🇸" tvg-id="Eurosport.2.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="ZapiTV España", Eurosport 2 España
+#EXTINF:-1 cuid="1062" tvg-chno="1062" tvg-name="Eurosport 2 🇪🇸" tvg-id="Eurosport.2.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="ZapiTV España", Eurosport 2 España (Backup)
 http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1 cuid="1222" tvg-chno="1220" tvg-name="Sol Musica 🇪🇸" tvg-id="ESBD2300004Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png" group-title="ZapiTV España", Sol Musica HD
