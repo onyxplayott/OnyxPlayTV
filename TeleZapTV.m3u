@@ -402,4 +402,7 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_premium.smil/
 #EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="CanalExtremaduraDVR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1280px-CEXMA_new.png" group-title="ZapiTV España", Canal Extremadura (TDT)
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
 
+#EXTINF:-1 tvg-id="BeinSportXtraEspaña" tvg-name="BeinSportXtraÑ" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/thumbnail.jpg" group-title="ZapiTV España", beIN Sports Xtra ñ 
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
 #EXTM3U billed-msg="TeleZapTV 💯 Canal España Digital 🇪🇸"
