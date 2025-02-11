@@ -803,9 +803,7 @@ http://103.165.207.118:9088/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="TransTV" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="INDONESIA (DIGITAL TV)", TRANSTV Digital
 http://103.165.207.118:9088/play/a006/index.m3u8
 ========================================================
-#EXTINF:-1 tvg-id="Sextreme" tvg-name="Sextreme" group-title="Hot Channels 🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Sextreme.webp", Sextreme
-http://38.41.8.1:8000/play/a0ex
-#EXTINF:-1 tvg-id="EroxTV" tvg-name="EroxTV" group-title="Hot Channels 🔞" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp", Erox
+#EXTINF:-1 tvg-id="EroxTV" tvg-name="EroxTV" group-title="Hot Channels 🔞" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/5d/Erox_HD_2.png/revision/latest?cb=20150605110106&path-prefix=ru", Erox
 http://178.219.128.68:64888/EROXHD
 #EXTINF:-1 tvg-id="songshi1" tvg-name="songtv1adult" tvg-logo="https://newsdragon-prod.s3.ap-northeast-1.amazonaws.com/channelMedia/519d83f36eecc0c2d22e7e9bd2aa6257.JPG__1___SSTV1.JPG" group-title="Hot Channels 🔞", SSTV 1 JAPAN MOVIES (松視1台)
 http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
@@ -821,7 +819,7 @@ http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
 http://125.227.210.55:8156/VideoInput/play.ts
 #EXTINF:-1 cuid="1354" tvg-chno="1354" tvg-name="Venus TV" tvg-id="Venus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/800px-Canal_Venus_logo.svg.png" group-title="Hot Channels 🔞", Canal Venus
 http://45.5.117.182:8000/play/a0gf/index.m3u8
-#EXTINF:-1 cuid="1349" tvg-chno="1349" tvg-name="Bunga Bunga" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp" group-title="Hot Channels 🔞", Bunga Bunga
+#EXTINF:-1 cuid="1349" tvg-chno="1349" tvg-name="Bunga Bunga" tvg-logo="https://images-platform.99static.com/D4R81P5IldYWdGTvK4CaAv5iki8=/500x500/top/smart/99designs-contests-attachments/49/49642/attachment_49642111" group-title="Hot Channels 🔞", Bunga Bunga
 http://62.210.123.134:98/live/an75d/75d/98.ts
 #EXTINF:-1 tvg-id="Rainbow" tvg-name="彩虹频道" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Rainbow.png" group-title="Hot Channels 🔞", 彩虹频道 // Rainbow TV
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
