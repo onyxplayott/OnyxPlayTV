@@ -23,7 +23,7 @@
 # (●) Service: Freemium & Premium Only
 # (●) Total Channels: Unlimited Channels
 # (●) User: Only Private User (👥)
-🔴🟢 Currently Active 🔴🟢
+🔴🟢 Currently Active Channels Available 🔴🟢
 ========================================================
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/02/257841ac-7e01-3ebb-8091-3630d0a6ef8b.jpeg?w=500&f=webp" tvg-id="052" group-title="HBO USA Channels", HBO Zone US (Test)
@@ -109,7 +109,7 @@ http://iptv12k.com:35461/654321/123456/3206
 http://iptv12k.com:35461/654321/123456/3207
 #EXTINF:-1 tvg-name="KR: SBS plus KR" tvg-logo="http://image.sbs.co.kr/sbs/4n/favicon.png" group-title="KOREAN PREMIUM", SBS PLUS (SBS+)
 http://iptv12k.com:35461/654321/123456/3211
-#EXTINF:-1 tvg-name="CTS HD" tvg-logo="https://pbs.twimg.com/profile_images/899810873836838912/MRSOTP51_400x400.jpg" group-title="KOREAN PREMIUM", CTS TV
+#EXTINF:-1 tvg-name="CTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYPNqWqf0aGKlrggH2WeoSw2GCWlGU1cVllg&s" group-title="KOREAN PREMIUM", CTS TV
 http://iptv12k.com:35461/654321/123456/3218
 ========================================================
 #EXTINF:-1 tvg-name="CGTN English" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="CGTN Channels", CGTN
