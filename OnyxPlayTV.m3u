@@ -508,11 +508,11 @@ https://n40a-eu.rcs.revma.com/7ww2a4tbv4uvv/64_2yvaj6nnb69x02/playlist.m3u8
 https://n12a-eu.rcs.revma.com/4p3nqmmbv4uvv/18_1oxzafird6r4w02/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="CHN" ch-number="880" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Era_Sarawak_2018.png/revision/latest?cb=20211107023427", ERA Sarawak (Astro Radio)
 https://n44a-eu.rcs.revma.com/bkqfqkrbv4uvv/68_p7vhxushjqmj02/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA & SG RADIO 📻 (Others)" tvg-id="Suria FM" tvg-name="Suria FM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Suria.png", Suria FM
+#EXTINF:-1 group-title="MALAYSIA & SG RADIO 📻 (Others)" tvg-id="Suria FM" tvg-name="Suria FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Suria_logo-01.png/1280px-Suria_logo-01.png", Suria FM
 https://mifntechnology.github.io/siaranMy/radio/SuriaFm/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA & SG RADIO 📻 (Others)" tvg-id="Best FM" tvg-name="BestFM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/bestfm.png", Best FM
+#EXTINF:-1 group-title="MALAYSIA & SG RADIO 📻 (Others)" tvg-id="Best FM" tvg-name="BestFM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/eZjgx8CJVy.jpg", Best FM Johor
 https://mifntechnology.github.io/siaranMy/radio/BestFm/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA & SG RADIO 📻 (Others)" tvg-id="Ria FM" tvg-name="Ria89.7" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RiaFm.png", RIA897FM (SG)
+#EXTINF:-1 group-title="MALAYSIA & SG RADIO 📻 (Others)" tvg-id="Ria FM" tvg-name="Ria89.7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8A8NPxv1pGtYyxmEw_-y3NQiYED0hGXlwaw&s", RIA 89.7 (meListen)
 https://mifntechnology.github.io/siaranMy/radio/RiaFm/playlist.m3u8
 #EXTINF:-1 tvg-id="Gold905" group-title="MALAYSIA & SG RADIO 📻 (Others)" tvg-logo="https://aqfadtv.xyz/logos/Gold905.png", Gold 90.5
 https://22403.live.streamtheworld.com/GOLD905_PREM.aac
