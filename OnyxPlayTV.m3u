@@ -914,8 +914,6 @@ https://cdn-live.dltv.ac.th/dltv13.m3u8
 https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="THAILAND TV (EDUCATION)", DLTV 15
 https://cdn-live.dltv.ac.th/dltv15.m3u8
-#EXTINF:-1 tvg-id="3BBLiveTest" group-title="THAILAND TV (Truevisions TH)", 3BB Live Test
-https://cnt1-slb.cdn.3bbtv.com:8443/3bb/live/204/204.mpd
 ========================================================
 #EXTINF:-1 tvg-id="Atreseries" tvg-logo="https://iili.io/Jmoqudg.png" group-title="ZapiTV España", Atreseries HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
