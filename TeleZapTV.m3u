@@ -1,7 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml, https://www.open-epg.com/files/spain3.xml" tvg-shift=0 m3uautoload=1
 
 
-⚠️ Warning // Aviso ⚠️ 
+⚠️ Warning ⚠️ 
+           ⚠️ Aviso ⚠️
+            
             👇
             👇 
 
@@ -398,10 +400,10 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_premium.smil/
 #EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="CanalExtremaduraDVR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1280px-CEXMA_new.png" group-title="ZapiTV España", Canal Extremadura
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
 
-#EXTINF:-1 tvg-id="BeinSportXtraEspaña" tvg-name="BeinSportXtraÑ" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/thumbnail.jpg" group-title="ZapiTV España", beIN Sports Xtra ñ 
+#EXTINF:-1 tvg-id="BeinSportXtraEspaña" tvg-name="BeinSportXtraÑ" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/thumbnail.jpg" group-title="ZapiTV España", beIN Sports Xtra Ñ
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-id="Dazn LaLiga España" tvg-name="DaznLaLigaES🇪🇸" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="ZapiTV España", DAZN LaLiga España
+#EXTINF:-1 tvg-id="Dazn LaLiga España" tvg-name="DaznLaLigaES🇪🇸" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="ZapiTV España", DAZN LaLiga TV España
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/yasjqprt7n/out/v1/8086df78d3ce479e8e375147f72942c6/cenc.mpd
