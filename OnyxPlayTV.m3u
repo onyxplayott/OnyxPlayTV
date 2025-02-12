@@ -357,6 +357,12 @@ https://webtvstream.bhtelecom.ba/hls6/arena_esport.mpd
 https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000&quality=70" group-title="Taiwan Sports Premium Pack", DAZN 1 Taiwan
 http://iptv12k.com:35461/654321/123456/14440
+#EXTINF:-1 tvg-id="ELTASPORTS1" tvg-name="ELTASPORTS1" group-title="Taiwan Sports Premium Pack", 愛爾達體育1 // ELTA SPORTS 1
+https://haoyunlai.serv00.net/Smartv-1.php?id=eltasport_twn
+#EXTINF:-1 tvg-id="ELTASPORTS2" tvg-name="ELTASPORTS2" group-title="Taiwan Sports Premium Pack", 愛爾達體育2 // ELTA SPORTS 2
+https://haoyunlai.serv00.net/Smartv-1.php?id=eltasport2_twn
+#EXTINF:-1 tvg-id="ELTASPORTS3" tvg-name="ELTASPORTS3" group-title="Taiwan Sports Premium Pack", 愛爾達體育3 // ELTA SPORTS 3
+https://haoyunlai.serv00.net/Smartv-1.php?id=eltasport3_twn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 #EXTINF:-1 group-title="Peacock Live Event"  tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", PeacockTV EPL Live
