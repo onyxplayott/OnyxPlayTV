@@ -198,6 +198,9 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" tvg-id="rtve.es" group-title="Noticias en Español", 24Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
+#EXTINF:-1 tvg-id="ElToroTV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Noticias en Español", ElToro TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+
 #EXTINF:-1 cuid="102" tvg-chno="110" tvg-name="El Pais 🇪🇸" tvg-id="ESBC39000033J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20240925T141414SQUARE.png" group-title="ZapiTV España", ElPais TV
 https://bit.ly/3pXfx9q?profile=inspirationFreetv.m3u8
 
@@ -266,6 +269,24 @@ https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af54
 
 #EXTINF:-1 tvg-id="CanalSur2.es" tvg-name="Canal Sur Andalucia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/1280px-Canal_Sur_2_-_2017_logo.png" group-title="ZapiTV España", Canal Sur 2 Andalucia (Accesible)
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200" group-title="ZapiTV España" tvg-name="Canal Sur Más Noticias", Canal Sur Más Noticias
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200" group-title="ZapiTV España" tvg-name="Andalucía Cocina", Canal Andalucía Cocina
+#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYsl5e6jEIMtXIoTUHvkJqXxDfASrvQP_QFRRww=s200" group-title="ZapiTV España" tvg-name="Andalucía Turismo", Canal Andalucía Turismo
+https://stream-us-east-1.getpublica.com/playlist.m3u8?&network_id=12685&live=1
+
+#EXTINF:-1 tvg-id="OndaCadiz.TV" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="ZapiTV España" tvg-name="Onda Cádiz", Onda Cádiz TV
+https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1612490465005142019/AU1R7Q6q_200x200.jpg" group-title="ZapiTV España" tvg-name="PTV Almería", PTV Almería
+https://streamer.zapitv.com/ptv_almeria/index.m3u8
+
+
 
 #EXTINF:-1 cuid="459" tvg-chno="459" tvg-name="El Toro TV 🇪🇸" tvg-id="El.Toro.TV.es" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="ZapiTV España", El Toro TV
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
