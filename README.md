@@ -252,14 +252,14 @@ https://bit.ly/3EqSXx3
 ***🔴🟢👉Resevered Channel🟢🔴👈***
 
 
-# NOTICE REBRANDING TO TELEZAP ESPAÑA #
+# NOTICE ABOUT REBRANDING TO TELEZAP ESPAÑA #
 
 
 ![IPTV LOGO](https://logomakerr.ai/uploads/output/2024/01/01/8885530ec61808b14946e3e3e6755660.jpg?t=1704077405.png)
 
 
 
-*ENGLISH 🇬🇧:
+ENGLISH 🇬🇧:
 
 
 As of today, ZapiTV España is no longer available and rebrands to TeleZap España with new categories and new channels to make it easier for TeleZap viewers to watch the channels without interruptions and make sure that the Internet is stable to watch them.
