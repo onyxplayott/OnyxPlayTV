@@ -20,7 +20,7 @@
 
 ***🎥🍿: VOD MOVIES***
 
-***📺🍿: VOD TV SERIES (COMING SOON TO BE ADDED ON LIBRARY, IF I ADDED NEW TV SHOWS.)***
+***📺🍿: VOD SERIES (COMING SOON TO BE ADDED ON LIBRARY, IF I ADDED NEW TV SHOWS.)***
 
 
 # ⚠️ ATTENTION & CAUTION #
@@ -105,7 +105,7 @@
 
 
 
-(●) 𝚃𝚘𝚝𝚊𝚕 𝙲𝚑𝚊𝚗𝚗𝚎𝚕𝚜:    𝙽𝚞𝚕𝚕  
+(●) 𝚃𝚘𝚝𝚊𝚕 𝙲𝚑𝚊𝚗𝚗𝚎𝚕𝚜: 𝙽𝚞𝚕𝚕  
 
 
 
@@ -113,7 +113,7 @@
 
 
 
-(●) 𝚅𝚒𝚍𝚎𝚘 𝙾𝚗 𝙳𝚎𝚖𝚊𝚗𝚍 (𝚅𝙾𝙳):      𝙽𝚞𝚕𝚕  
+(●) 𝚅𝚒𝚍𝚎𝚘 𝙾𝚗 𝙳𝚎𝚖𝚊𝚗𝚍 (𝚅𝙾𝙳): 𝙽𝚞𝚕𝚕  
 
 
 
@@ -222,13 +222,23 @@ https://bit.ly/3EqSXx3
 
 
 
-***🔴🟢👉Resevered Channel🟢🔴👈***
 
 
 
 
 
 ***🔴🟢👉Resevered Channel🟢🔴👈***
+
+
+
+
+
+
+
+
+
+***🔴🟢👉Resevered Channel🟢🔴👈***
+
 
 
 
