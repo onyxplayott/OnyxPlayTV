@@ -174,6 +174,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5179/default_primary.mpd
 https://haoyunlai.serv00.net/Smartv-1.php?id=Warna-O
 #EXTINF:-1, tvg-id="緯來日本" tvg-name="VideolandTVJapan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcz3lkrP9cFSTR86qc2PwNa8XvT9Suvc93Qg&s" group-title="Taiwan Premium Channel", Videoland Japan
 https://haoyunlai.serv00.net/Smartv-1.php?id=videolandjapan
+#EXTINF:-1 tvg-id="BeautifulLifeTV.tw" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live008_mobile.png" group-title="Taiwan Premium Channel", Beautiful Life TV (BLTV)
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 tvg-id="CGNTVChinese.tw" tvg-logo="https://yt3.googleusercontent.com/pFbmIsFPGw0tGfP_-IKGMV-RHcBFMNYlcDuANH2J_hgZSItJSMA4wOWf0HV2ac6KCAu2UEDPGA=s900-c-k-c0x00ffffff-no-rj" group-title="Taiwan Premium Channel", CGNTV Chinese
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+#EXTINF:-1 tvg-id="DaAi1.tw" tvg-logo="https://daai.tv/images/og-channel.jpg" group-title="Taiwan Premium Channel", 大愛1 // DaAi Channel 1 
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-id="DaAi2.tw" tvg-logo="https://daai.tv/images/og-channel.jpg" group-title="Taiwan Premium Channel", 大愛2 // DaAi Channel 2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-id="DaliTV.tw" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyXGJ75LwffU7_T-JxBRM5kEZT3-U9nDXfxA&s" group-title="Taiwan Premium Channel", 大立電視台 // DaliTV 
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 ========================================================
 #EXTINF:-1 tvg-name="Digi Sport 1 Romania" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/footer/digi-sport-alt.png" group-title="Digi TV Sport Pack", Digi Sport 1
 https://webhdrunns.mizhls.ru/lb/premium400/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -371,7 +381,7 @@ https://haoyunlai.serv00.net/Smartv-1.php?id=bosisport2_twn
 https://haoyunlai.serv00.net/Smartv-1.php?id=bositennis_twn
 #EXTINF:-1 tvg-id="Bossgolf1" tvg-name="Boss Golf 1" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@149@1846.png" group-title="Taiwan Sports Premium Pack", 博斯高球1 // Boss Golf 1
 https://haoyunlai.serv00.net/Smartv-1.php?id=bosigolf1_twn
-#EXTINF:-1 tvg-id="Bossgolf2" tvg-name="Boss Golf 2" tvg-logo="https://www.123iptv.tv/tv_img/bosigaoqiu2_hd.jpg" group-title="Taiwan Sports Premium Pack", 博斯高球2// Boss Golf 2
+#EXTINF:-1 tvg-id="Bossgolf2" tvg-name="Boss Golf 2" tvg-logo="https://www.123iptv.tv/tv_img/bosigaoqiu2_hd.jpg" group-title="Taiwan Sports Premium Pack", 博斯高球2 // Boss Golf 2
 https://haoyunlai.serv00.net/Smartv-1.php?id=bosigolf2_twn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
