@@ -343,6 +343,40 @@
   "name": "Beetlejuice 2: Beetlejuice Beetlejuice", 
   "category": "New Release on Astro First",
   "info": { 
+           "poster": "https://upload.wikimedia.org/wikipedia/en/b/ba/Beetlejuice_Beetlejuice_poster.jpg", 
+           "bg": "https://upload.wikimedia.org/wikipedia/en/b/ba/Beetlejuice_Beetlejuice_poster.jpg", 
+           "plot": "Sekuel daripada filem pertama, Lydia Deetz menjadi hos dalam rancangan perbualan paranormal yang dipanggil Ghost House. Dia telah terasing dari anak perempuannya, Astrid sejak suaminya dan bapanya, Astrid Richard meninggal dunia semasa berada di Amazon. Astrid juga enggan mempercayai bahawa ibunya dapat melihat hantu. Semasa merakam episod, Lydia berhalusinasi melihat Betelgeuse, yang cuba menikahinya pada 36 tahun sebelumnya, kepada para penonton rancangan tersebut.", 
+           "backdrop": "https://perfecttv.net/first/beetlejuice2024.jpg", 
+           "director": ["Tim Burton"], 
+           "cast": ["Jenna Ortega, Michael Keaton, Winona Ryder, Catherine O'Hara & Willem Dafoe"],
+           "trailer": "",
+           "year": "2024"
+           }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b48b9365-b71f-5e0c-93eb-1f2227e3f68a/default_primary.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "a5b607bdb3da585f0564f9ec6491d510:ea77dc9e6d06ca58d5e424794e6829f3"
+ }, 
+{        
+  "name": "Sting", 
+  "category": "New Release on Astro First",
+  "info": { 
+           "poster": "https://upload.wikimedia.org/wikipedia/en/c/c6/Sting2024Poster.jpg", 
+           "bg": "https://upload.wikimedia.org/wikipedia/en/c/c6/Sting2024Poster.jpg", 
+           "plot": "Charlotte, seorang gadis berusia dua belas tahun yang memberontak tinggal di sebuah bangunan apartmen yang sudah musnah dengan bapa tirinya yang terlalu banyak bekerja, Ethan, ibunya Heather dan adik tirinya Liam. Charlotte sering ditinggalkan sendiri dan tersandung pada labah-labah kecil yang menetas dari objek yang aneh dan bercahaya yang terhempas di apartmen Bibi besarnya. Terpesona, dia memutuskan untuk menyimpan labah-labah sebagai haiwan kesayangan, menamakannya Sting. Semasa Charlotte menjaga Sting, labah-labah itu mula tumbuh dengan kadar yang membimbangkan. Pada mulanya, dia menyimpan rahsia saiznya, tetapi apabila ia menjadi lebih sukar untuk disembunyikan, bapa tirinya dan jiran-jirannya mula melihat kejadian aneh di sekitar bangunan itu. Saiz Sting yang semakin meningkat dan selera makan yang tidak terpuaskan tidak lama lagi menyebabkan kematian haiwan peliharaan dan penduduk. Hubungan Charlotte dengan bapa tirinya tegang kerana realiti bapa kandungnya. Semasa krisis dari Ethan, Sting menyerang kedua-dua ibu bapa sementara Charlotte berada di dekatnya, tidak sedar dengan abangnya.", 
+           "backdrop": "https://perfecttv.net/first/sting2024.jpg", 
+           "director": ["Kiah Roache-Turner"], 
+           "cast": ["Ryan Corr, Alyla Browne, Penelope Mitchell & Robyn Nevin"],
+           "trailer": "",
+           "year": "2024"
+           }, 
+           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/528cb906-115e-5fe6-a295-865c4a7b8990/default_dash.mpd", 
+           "drm": "clearkey", 
+           "drmkey": "30cc8f5f5b116b2f88b2211bd2f30910:1e1aed2cbbabdbb5a6aa890b6fd8319c"
+ }, 
+{        
+  "name": "No Title", 
+  "category": "Coming Soon TBA",
+  "info": { 
            "poster": "", 
            "bg": "", 
            "plot": "", 
@@ -352,13 +386,47 @@
            "trailer": "",
            "year": ""
            }, 
-           "video": "http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b48b9365-b71f-5e0c-93eb-1f2227e3f68a/default_primary.mpd", 
+           "video": "", 
            "drm": "clearkey", 
-           "drmkey": "a5b607bdb3da585f0564f9ec6491d510:ea77dc9e6d06ca58d5e424794e6829f3"
+           "drmkey": ""
  }, 
 {        
-  "name": "", 
-  "category": "",
+  "name": "No Title", 
+  "category": "Coming Soon TBA",
+  "info": { 
+           "poster": "", 
+           "bg": "", 
+           "plot": "", 
+           "backdrop": "", 
+           "director": [""], 
+           "cast": [""],
+           "trailer": "",
+           "year": ""
+           }, 
+           "video": "", 
+           "drm": "clearkey", 
+           "drmkey": ""
+ }, 
+{        
+  "name": "No Title", 
+  "category": "Coming Soon TBA",
+  "info": { 
+           "poster": "", 
+           "bg": "", 
+           "plot": "", 
+           "backdrop": "", 
+           "director": [""], 
+           "cast": [""],
+           "trailer": "",
+           "year": ""
+           }, 
+           "video": "", 
+           "drm": "clearkey", 
+           "drmkey": ""
+ }, 
+{        
+  "name": "No Title", 
+  "category": "Coming Soon TBA",
   "info": { 
            "poster": "", 
            "bg": "", 
