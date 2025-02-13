@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml, https://www.open-epg.com/files/spain3.xml" tvg-shift=0 m3uautoload=1
 
-
 ⚠️ Warning ⚠️ 
            ⚠️ Aviso ⚠️
             
@@ -16,7 +15,7 @@
 #KODIPROP:inputstream.adaptive.license_key=2f9f8aec731ad9b6da84e72df2b318fa:8581c19cf83e9b0a872484377ea8c162
 https://ott.zapitv.com/live/eds_c2/atreseries_hd/dash_live_enc/atreseries_hd.mpd
 
-#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-logo="https://iili.io/JmoqIrF.png" group-title="ZapiTV España", Factoría de Ficción (FDF HD)
+#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-logo="https://iili.io/JmoqIrF.png" group-title="ZapiTV España", Factoría de Ficción HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5032cdcff452f508b44fe895808b9cee:51c7c5b35ad30d4d8552143f19fd5e11
 https://ott.zapitv.com/live/eds_c2/fdf/dash_live_enc/fdf.mpd
@@ -391,13 +390,13 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="NickEspaña" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1280px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="ZapiTV España", Nickelodeon España
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
-#EXTINF:-1 tvg-id="HITTV.es" tvg-name="HitTVEspaña" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HIT_TV_logo.svg/1280px-HIT_TV_logo.svg.png" group-title="ZapiTV España", HIT TV España
+#EXTINF:-1 tvg-id="HITTV.es" tvg-name="HitTVEspaña" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HIT_TV_logo.svg/1280px-HIT_TV_logo.svg.png" group-title="ZapiTV España", HitTV España
 http://185.189.225.149/HitTV/index.m3u8
 
 #EXTINF:-1 tvg-id="Boing.es" tvg-name="CanalBoingES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1280px-Boing_2020.svg.png" group-title="ZapiTV España", Canal Boing España
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_premium.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="CanalExtremaduraDVR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1280px-CEXMA_new.png" group-title="ZapiTV España", Canal Extremadura
+#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="CanalExtremaduraDVR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1280px-CEXMA_new.png" group-title="ZapiTV España", Canal Extremadura TDT
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
 
 #EXTINF:-1 tvg-id="BeinSportXtraEspaña" tvg-name="BeinSportXtraÑ" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/thumbnail.jpg" group-title="ZapiTV España", beIN Sports Xtra Ñ
