@@ -875,6 +875,8 @@ http://18.svi-studio.com/live/908957700097/132663288386/20205.m3u8
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
 #EXTINF:-1 tvg-id="JStar" tvg-name="JStar极限台电影频道" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/JStar.png" group-title="Hot Channels 🔞", JStar 极限台电影频道 // J-STAR TV
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
+#EXTINF:-1 group-title="Hot Channels 🔞" tvg-id="Pigoo.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/p663.gif", アイドル専門チャンネル Pigoo // PigooTV Idol (Test Broadcast)
+http://luong.utako.moe/pigoo/index.m3u8
 ========================================================
 #EXTINF:-1 tvg-id="TRUE X-Zyte" tvg-name="True X-Zyte" tvg-logo="http://tvsmagazine.com/images/channels/sm_034.jpg" group-title="THAILAND TV (Truevisions TH)", True X-Zyte 
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
