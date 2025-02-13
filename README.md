@@ -255,7 +255,7 @@ https://bit.ly/3EqSXx3
 # NOTICE ABOUT REBRANDING TO TELEZAP ESPAÑA #
 
 
-![IPTV LOGO](https://logomakerr.ai/uploads/output/2024/01/01/8885530ec61808b14946e3e3e6755660.jpg?t=1704077405.png)
+![IPTV LOGO](https://www.adslzone.net/app/uploads-adslzone.net/2021/10/IPTV-Smarters-Pro-logo.jpg)
 
 
 
