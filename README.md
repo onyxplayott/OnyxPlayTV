@@ -259,19 +259,26 @@ https://bit.ly/3EqSXx3
 
 
 
-***ENGLISH 🇬🇧
-As of today, ZapiTV España is no longer available and rebrands to TeleZap España with new categories and new channels to make it easier for TeleZap viewers to watch the channels without interruptions and make sure that the Internet is stable to watch them.***
+*ENGLISH 🇬🇧:
+
+
+As of today, ZapiTV España is no longer available and rebrands to TeleZap España with new categories and new channels to make it easier for TeleZap viewers to watch the channels without interruptions and make sure that the Internet is stable to watch them.
 
 
 
 
 
-***ESPAÑA 🇪🇸
-A partir de hoy, ZapiTV España ya no está disponible y cambia de marca a TeleZap España con nuevas categorías y nuevos canales para facilitar que los espectadores de TeleZap vean los canales sin interrupciones y se aseguren de que Internet sea estable para verlos.***
+ESPAÑA 🇪🇸:
+
+
+A partir de hoy, ZapiTV España ya no está disponible y cambia de marca a TeleZap España con nuevas categorías y nuevos canales para facilitar que los espectadores de TeleZap vean los canales sin interrupciones y se aseguren de que Internet sea estable para verlos.
 
 
 
 
 
-***Basque 🇪🇸
-Gaur Egun, ZapiTV Espainia ez dago gehiago eskuragarri Eta TeleZap Espainia izenarekin markatu da kategoria eta kanal berriekin, TeleZap ikusleek etenik gabe kanalak ikustea errazteko eta Internet horiek ikustea egonkorra dela ziurtatzeko.***
+Basque 🇪🇸:
+
+
+
+Gaur Egun, ZapiTV Espainia ez dago gehiago eskuragarri Eta TeleZap Espainia izenarekin markatu da kategoria eta kanal berriekin, TeleZap ikusleek etenik gabe kanalak ikustea errazteko eta Internet horiek ikustea egonkorra dela ziurtatzeko.
