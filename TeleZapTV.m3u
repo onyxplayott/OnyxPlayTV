@@ -365,6 +365,12 @@ https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/bitrate_7.m3u8
 #EXTINF:-1 cuid="439" tvg-chno="439" tvg-name="3/24 🇪🇸" tvg-id="3.24.es" tvg-logo="https://logo.iptveditor.com/324.png" group-title="TeleZap España", Canal 3/24 HD
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="Antena 3 Spain" tvg-logo="https://raw.githubusercontent.com/emaschi123/eventi/refs/heads/main/ddlive.png" group-title="TeleZap España", Antena3 (Daddylive)
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/531/mono.m3u8
+
 #EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="M+.Vamos" tvg-id="M+.Vamos.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="TeleZap España | M+ Deportes", Vamos por M+ SD
 http://line.4smart.in:80//live/TYHZRW6/MF7V7X2/309439&f=.ts
 
@@ -421,12 +427,33 @@ https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m
 #EXTINF:-1 tvg-id="BeinSportXtraEspaña" tvg-name="BeinSportXtraÑ" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/thumbnail.jpg" group-title="TeleZap España", beIN Sports Xtra Ñ
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-id="Dazn LaLiga España" tvg-name="DaznLaLigaES🇪🇸" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="TeleZap España", DAZN LaLiga TV España
+#EXTINF:-1 tvg-id="Dazn LaLiga España" tvg-name="DaznLaLigaES🇪🇸" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="TeleZap España | DAZN España", DAZN LaLiga TV España
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/yasjqprt7n/out/v1/8086df78d3ce479e8e375147f72942c6/cenc.mpd
 
+#EXTINF:-1 tvg-id="446" tvg-name="DAZN 2 Spain" tvg-logo="https://raw.githubusercontent.com/michael1900/eventi/refs/heads/main/bg/daddylive-logo.png" group-title="TeleZap España | DAZN España", DAZN 2 España
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.107 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium446/mono.m3u8
+
+#EXTINF:-1 tvg-id="447" tvg-name="DAZN 3 Spain" tvg-logo="https://raw.githubusercontent.com/michael1900/eventi/refs/heads/main/bg/daddylive-logo.png" group-title="TeleZap España | DAZN España", DAZN 3 España
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.107 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium447/mono.m3u8
+
+#EXTINF:-1 tvg-id="448" tvg-name="DAZN 4 Spain" tvg-logo="https://raw.githubusercontent.com/michael1900/eventi/refs/heads/main/bg/daddylive-logo.png" group-title="TeleZap España | DAZN España", DAZN 4 España 
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.107 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium448/mono.m3u8
+
+
+
 
 #EXTM3U billed-msg="TeleZapTV 💯 Canal España Digital 🇪🇸"
+
 
 🇪🇸 (Basque) - Kanal hau ezegonkorra balitz, kanal horiek ezabatuko nituzke.
