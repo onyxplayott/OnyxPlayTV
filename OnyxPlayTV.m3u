@@ -1,5 +1,6 @@
 ✌️ 𝑭𝒓𝒆𝒆𝒎𝒊𝒖𝒎 & 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 𝒃𝒚 𝑶𝒏𝒚𝒙𝑷𝒍𝒂𝒚𝑶𝑻𝑻 𝑻V ✌️
 
+
 (●) ::::::::: RE~STR3AM :::::::::::: (●)
 (●) ::::::::: RE~STR3AM :::::::::::: (●)
 (●) ::::::::: RE~STR3AM :::::::::::: (●)
@@ -1094,13 +1095,13 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ASuVFay.png" group-title="BERITA ANTARABANGSA", BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 ========================================================
-#EXTINF:-1 tvg-name="BBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BBC_One_HD_Box.svg/1280px-BBC_One_HD_Box.svg.png" group-title="BBC TV 「United Kingdom」", BBC 1 UK
+#EXTINF:-1 tvg-name="BBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BBC_One_HD_Box.svg/1280px-BBC_One_HD_Box.svg.png" group-title="BBC TV 「United Kingdom」", BBC1
 http://iptv12k.com:35461/654321/123456/4310
-#EXTINF:-1 tvg-name="BBC 2 HD" tvg-logo="https://www.pngkit.com/png/detail/337-3373255_bbc-two-bbc-studios-logo-png.png" group-title="BBC TV 「United Kingdom」", BBC 2 UK
+#EXTINF:-1 tvg-name="BBC 2 HD" tvg-logo="https://www.pngkit.com/png/detail/337-3373255_bbc-two-bbc-studios-logo-png.png" group-title="BBC TV 「United Kingdom」", BBC2
 http://iptv12k.com:35461/654321/123456/4309
-#EXTINF:-1 tvg-name="BBC 3 HD" tvg-logo="https://www.pngfind.com/pngs/m/608-6089647_bbc-three-logo-png-transparent-png.png" group-title="BBC TV 「United Kingdom」", BBC 3 UK
+#EXTINF:-1 tvg-name="BBC 3 HD" tvg-logo="https://www.pngfind.com/pngs/m/608-6089647_bbc-three-logo-png-transparent-png.png" group-title="BBC TV 「United Kingdom」", BBC3
 http://iptv12k.com:35461/654321/123456/4308
-#EXTINF:-1 tvg-name="BBC 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/BBC_Four_HD_Logo.svg/1200px-BBC_Four_HD_Logo.svg.png" group-title="BBC TV 「United Kingdom」", BBC 4 UK
+#EXTINF:-1 tvg-name="BBC 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/BBC_Four_HD_Logo.svg/1200px-BBC_Four_HD_Logo.svg.png" group-title="BBC TV 「United Kingdom」", BBC4
 http://iptv12k.com:35461/654321/123456/4307
 ========================================================
 #EXTINF:-1 group-logo="" tvg-id="vtvcab1hd" group-title="VIETNAM (VTVCab Digital)" tvg-logo="https://i.imgur.com/7GSKm46.png", ON Vie Giải Trí
