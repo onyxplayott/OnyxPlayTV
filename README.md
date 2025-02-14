@@ -245,12 +245,10 @@ https://bit.ly/3EqSXx3
 
 
 
-![1000028162](https://github.com/user-attachments/assets/62454d4a-2a90-46ea-8417-7ab17115b530)
-
-
-
 ***🔴🟢👉Resevered Channel🟢🔴👈***
 
+
+![1000028162](https://github.com/user-attachments/assets/62454d4a-2a90-46ea-8417-7ab17115b530)
 
 # NOTICE ABOUT REBRANDING TO TELEZAP ESPAÑA #
 
