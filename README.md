@@ -282,3 +282,7 @@ Basque 🇪🇸:
 
 
 Gaur Egun, ZapiTV Espainia ez dago gehiago eskuragarri Eta TeleZap Espainia izenarekin markatu da kategoria eta kanal berriekin, TeleZap ikusleek etenik gabe kanalak ikustea errazteko eta Internet horiek ikustea egonkorra dela ziurtatzeko.
+
+
+Sincere,
+TeleZap Team.
