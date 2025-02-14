@@ -25,12 +25,12 @@
 ***WATCH IT FOR FREE AND JUST PASTE THIS LINKS INTO IPTV PLAYER THAT AVAILABLE ON YOUR ANDROID PHONE.***
 
 
-# ⚠️ ATTENTION & CAUTION #
+# WARNING ⚠️ ‼️ 🚫 #
 
 
 
 
-*doɴ'т ѕεll or вυy мy plαylιѕт wιтнoυт мy pεrмιѕѕιoɴ.*     
+❎ :*doɴ'т ѕεll or вυy мy plαylιѕт wιтнoυт мy pεrмιѕѕιoɴ.*     
 
 
 
