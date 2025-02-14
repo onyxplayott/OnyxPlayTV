@@ -1,7 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml, https://www.open-epg.com/files/spain3.xml" tvg-shift=0 m3uautoload=1
 
 ⚠️ Warning ⚠️ 
-           ⚠️ Aviso ⚠️
+           
+
+          ⚠️ Aviso ⚠️
             
             👇
             👇 
@@ -450,10 +452,6 @@ https://zekonew.iosplayer.ru/zeko/premium447/mono.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium448/mono.m3u8
 
-
-
-
 #EXTM3U billed-msg="TeleZapTV 💯 Canal España Digital 🇪🇸"
-
 
 🇪🇸 (Basque) - Kanal hau ezegonkorra balitz, kanal horiek ezabatuko nituzke.
