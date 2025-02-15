@@ -8,4 +8,62 @@ https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd?n=frobinsxmeyy
 
 https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd?n=
 
+"ARENA_1": {
+                url: "https://webtvstream.bhtelecom.ba/hls6/arena1.mpd",
+                k1: "c18b6aa739be4c0b774605fcfb5d6b68",
+                k2: "e41c3a6f7532b2e3a828d9580124c89d"
+            },
+            "ARENA_2": {
+                url: "https://webtvstream.bhtelecom.ba/hls6/arena2.mpd",
+                k1: "c18b6aa739be4c0b774605fcfb5d6b68",
+                k2: "e41c3a6f7532b2e3a828d9580124c89d"
+            },
+            "ARENA_3": {
+                url: "https://webtvstream.bhtelecom.ba/hls6/arena3.mpd",
+                k1: "c18b6aa739be4c0b774605fcfb5d6b68",
+                k2: "e41c3a6f7532b2e3a828d9580124c89d"
+            },
+            "ARENA_4": {
+                url: "https://webtvstream.bhtelecom.ba/hls6/arena4.mpd",
+                k1: "c18b6aa739be4c0b774605fcfb5d6b68",
+                k2: "e41c3a6f7532b2e3a828d9580124c89d"
+                 },
+            "ARENA_5": {
+                url: "https://webtvstream.bhtelecom.ba/hls6/arena5.mpd",
+                k1: "c18b6aa739be4c0b774605fcfb5d6b68",
+                k2: "e41c3a6f7532b2e3a828d9580124c89d"
+                },
+             "ARENA_6": {
+               url: "https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd",
+                k1: "c18b6aa739be4c0b774605fcfb5d6b68",
+                k2: "e41c3a6f7532b2e3a828d9580124c89d"
+                },
+            "ARENA_PREMIUM_1": {
+                url: "https://webtvstream.bhtelecom.ba/hls9/smart_tv.mpd",
+                k1: "c18b6aa739be4c0b774605fcfb5d6b68",
+                k2: "e41c3a6f7532b2e3a828d9580124c89d"
+            },
+            "ARENA_PREMIUM_2": {
+                url: "https://webtvstream.bhtelecom.ba/hls7/fight_network.mpd",
+                k1: "c18b6aa739be4c0b774605fcfb5d6b68",
+                k2: "e41c3a6f7532b2e3a828d9580124c89d"
+            },
+            "ARENA_PREMIUM_3": {
+             url: "https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd",
+              k1: "c18b6aa739be4c0b774605fcfb5d6b68",
+              k2: "e41c3a6f7532b2e3a828d9580124c89d"
+              },
+             "PREMIER_LEAGUE": {
+                url: "https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd",
+                k1: "c18b6aa739be4c0b774605fcfb5d6b68",
+                k2: "e41c3a6f7532b2e3a828d9580124c89d"
+            },
+            "ARENA_1X2": {
+                url: "https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd",
+                k1: "c18b6aa739be4c0b774605fcfb5d6b68",
+                k2: "e41c3a6f7532b2e3a828d9580124c89d"
+            },
+
+
+
 # TEST ON OTT NAVIGATOR #
