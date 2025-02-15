@@ -468,7 +468,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/7346/index.m3u8
 #EXTINF:0 group-title="TeleZap España" tvg-id="5693" tvg-logo="http://epg.one/img2/5693.png" tvg-rec="0", Gol Play
 http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/15241/index.m3u8
 
-#EXTINF:-1 tvg-id="437" tvg-name="#0 Spain" tvg-logo="https://raw.githubusercontent.com/michael1900/eventi/refs/heads/main/bg/daddylive-logo.png" group-title="TeleZap España", Canal M+
+#EXTINF:-1 tvg-id="437" tvg-name="#0 Spain" tvg-logo="https://raw.githubusercontent.com/michael1900/eventi/refs/heads/main/bg/daddylive-logo.png" group-title="TeleZap España", M+ Info
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.107 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
