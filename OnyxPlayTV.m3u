@@ -155,8 +155,6 @@ https://tv2.jptv.live/hls/main.m3u8
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTrkOuPs_yv8H2SuON3mu5lA9YkBZVCBMYIA&s" group-title="Japan TV (Test Broadcast)", Nippon TV
 https://ntv4.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="TBSTVTokyo" tvg-logo="https://cdn.c21media.net/wp-content/uploads/2021/02/tokyobroadcastingsystem_logo_420x237_thumb.jpg" group-title="Japan TV (Test Broadcast)", TBS Japan
-
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/fujitv12.png" group-title="Japan TV (Test Broadcast)", Fuji TV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="TravelChannel" tvg-logo="http://playtv.unifi.com.my:7037/CPS/images/universal/film/logo/202108/20210831/20210831161520835mdk.png" group-title="Saluran Percubaan (Test Channel)", Travel Channel Asia (Unifi)
@@ -728,8 +726,6 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JMp3eKg.png" group-title="INDONESIA (DIGITAL TV)", Magna TV
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmFZtFs.png" group-title="INDONESIA (DIGITAL TV)", TVR Parlemen HD
-http://103.18.181.69:1935/golive/livestream/chunklist_w1350607412.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://iili.io/JMp3DJf.png" group-title="INDONESIA (DIGITAL TV)", TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnQjI.png" group-title="INDONESIA (DIGITAL TV)", Elshinta TV HD
@@ -793,27 +789,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
 https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
-#EXTINF:-1 group-title="INDONESIA (DIGITAL TV)" tvg-logo="https://images.indihometv.com/logo_antvnew_small.png", ANTV (indihomeTV)
-https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8?c
-#EXTINF:-1 group-title="INDONESIA (DIGITAL TV)" tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg", SCTV (indihomeTV)
-https://cdn09jtedge.indihometv.com/atm/hlsv3/sctv/sctv-avc1_1200000=4-mp4a_96000=2.m3u8
-#EXTINF:-1 group-title="INDONESIA (DIGITAL TV)" tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg", INDOSIAR (indihomeTV)
-https://cdn09jtedge.indihometv.com/atm/hlsv3/indosiar/indosiar-avc1_1200000=4-mp4a_96000=2.m3u8
-#EXTINF:-1 group-title="INDONESIA (DIGITAL TV)" tvg-logo="https://images.indihometv.com/logo_rodjatv_small1.png?v=2.0.0.13", RODJA TV (indihomeTV)
-https://cdn09jtedge.indihometv.com/joss/130/rodjatv/index.m3u8?c
-#EXTINF:-1 group-title="INDONESIA (DIGITAL TV)" tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13", MUI TV (indihomeTV)
-https://cdn09jtedge.indihometv.com/joss/130/muitv/index.m3u8?c
-#EXTINF:-1 group-title="INDONESIA (DIGITAL TV)" tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png", CNBC INDONESIA (indihomeTV)
-https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8?c
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="INDONESIA (DIGITAL TV)", RCTI
 http://iptv12k.com:35461/654321/123456/2185
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDONESIA (DIGITAL TV)", GTV (GlobalTV)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDONESIA (DIGITAL TV)",  GlobalTV ID
 http://iptv12k.com:35461/654321/123456/4290
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png" group-title="INDONESIA (DIGITAL TV)", Net/MDTV
 http://iptv12k.com:35461/654321/123456/2186
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="INDONESIA (DIGITAL TV)", Trans TV (backup)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="INDONESIA (DIGITAL TV)", Trans TV (backup 2)
 http://iptv12k.com:35461/654321/123456/2183
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title="INDONESIA (DIGITAL TV)", Trans 7 (backup)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title="INDONESIA (DIGITAL TV)", Trans 7 (backup 2)
 http://iptv12k.com:35461/654321/123456/2182
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_id.png" group-title="INDONESIA (DIGITAL TV)", TV One (backup)
 http://iptv12k.com:35461/654321/123456/2181
@@ -823,11 +807,11 @@ http://iptv12k.com:35461/654321/123456/2180
 http://iptv12k.com:35461/654321/123456/2179
 #EXTINF:-1 tvg-id="GlobalTVID" tvg-name="GTVMNCVision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1280px-GTV_%282017%29.svg.png" group-title="INDONESIA (DIGITAL TV)", GlobalTV Indonesia
 http://103.165.207.118:9088/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="RCTIOKE" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/1280px-RCTI_2015.svg.png" group-title="INDONESIA (DIGITAL TV)", RCTI OKE
+#EXTINF:-1 tvg-id="RCTIOKE" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/1280px-RCTI_2015.svg.png" group-title="INDONESIA (DIGITAL TV)", RCTI (Digital Backup)
 http://103.165.207.118:9088/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="MNCTV" tvg-name="MNCTVHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1280px-MNCTV_logo_2015.svg.png" group-title="INDONESIA (DIGITAL TV)", MNCTV
 http://103.165.207.118:9088/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="TransTV" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="INDONESIA (DIGITAL TV)", TRANSTV Digital
+#EXTINF:-1 tvg-id="TransTV" tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="INDONESIA (DIGITAL TV)", TRANSTV (Digital Backup)
 http://103.165.207.118:9088/play/a006/index.m3u8
 ========================================================
 #EXTINF:-1 tvg-id="EroxTV" tvg-name="EroxTV" group-title="Hot Channels 🔞" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/5d/Erox_HD_2.png/revision/latest?cb=20150605110106&path-prefix=ru", Erox
