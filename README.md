@@ -1,4 +1,4 @@
-# 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊「𝙊𝙉𝙔𝙓𝙋𝙇𝘼𝙔𝙊𝙏𝙏 V2.0」
+# 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊「𝙊𝙉𝙔𝙓𝙋𝙇𝘼𝙔𝙊𝙏𝙏 V2」
 
 
 ![IPTV LOGO](https://logomakerr.ai/uploads/output/2024/01/01/8885530ec61808b14946e3e3e6755660.jpg?t=1704077405.png)
@@ -24,12 +24,12 @@
 ***WATCH IT FOR FREE AND JUST PASTE THIS LINKS INTO IPTV PLAYER THAT AVAILABLE ON YOUR ANDROID PHONE.***
 
 
-# WARNING ⚠️ ‼️ 🚫 #
+# WARNING ‼️ 🚫 #
 
 
 
 
-❎ :*doɴ'т ѕεll or вυy мy plαylιѕт wιтнoυт мy pεrмιѕѕιoɴ.*     
+⚠️⚠️ :*doɴ'т ѕεll or вυy мy plαylιѕт wιтнoυт мy pεrмιѕѕιoɴ.*     
 
 
 
