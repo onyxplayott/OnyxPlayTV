@@ -1,4 +1,4 @@
-# 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊「𝙊𝙉𝙔𝙓𝙋𝙇𝘼𝙔𝙊𝙏𝙏 V2」
+# 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊「𝙊𝙉𝙔𝙓𝙋𝙇𝘼𝙔𝙊𝙏𝙏 V2.0」
 
 
 ![IPTV LOGO](https://logomakerr.ai/uploads/output/2024/01/01/8885530ec61808b14946e3e3e6755660.jpg?t=1704077405.png)
@@ -248,40 +248,3 @@ https://bit.ly/3EqSXx3
 
 
 ![1000028162](https://github.com/user-attachments/assets/62454d4a-2a90-46ea-8417-7ab17115b530)
-
-# NOTICE ABOUT REBRANDING TO TELEZAP ESPAÑA #
-
-
-![IPTV LOGO](https://www.adslzone.net/app/uploads-adslzone.net/2021/10/IPTV-Smarters-Pro-logo.jpg)
-
-
-
-ENGLISH 🇬🇧:
-
-
-As of today, ZapiTV España is no longer available and rebrands to TeleZap España with new categories and new channels to make it easier for TeleZap viewers to watch the channels without interruptions and make sure that the Internet is stable to watch them.
-
-
-
-
-
-ESPAÑA 🇪🇸:
-
-
-A partir de hoy, ZapiTV España ya no está disponible y cambia de marca a TeleZap España con nuevas categorías y nuevos canales para facilitar que los espectadores de TeleZap vean los canales sin interrupciones y se aseguren de que Internet sea estable para verlos.
-
-
-
-
-
-Basque 🇪🇸:
-
-
-
-Gaur Egun, ZapiTV Espainia ez dago gehiago eskuragarri Eta TeleZap Espainia izenarekin markatu da kategoria eta kanal berriekin, TeleZap ikusleek etenik gabe kanalak ikustea errazteko eta Internet horiek ikustea egonkorra dela ziurtatzeko.
-
-
-Sincere,
-
-
-TeleZap Team.
