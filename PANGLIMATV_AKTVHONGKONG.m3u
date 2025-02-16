@@ -135,7 +135,7 @@ http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="東方衛視國際頻道" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", 東方衛視國際頻道
 http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="KIX" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", KIX
+#EXTINF:-1 tvg-name="KIX" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", KIX HK
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", Nick JR
@@ -162,19 +162,20 @@ http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
 #EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", Love Nature HD
 http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", Love Nature HD (backup)
+#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", Love Nature HD2 (backup)
 http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="Astro iQIYI" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",  Astro iQIYI
 http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="Astro Xing He" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", Astro XingHe
+#EXTINF:-1 tvg-name="Astro Xing He" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", Astro Xing He
 http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="Astro AEC" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", Astro AEC
 http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", 纬来体育台
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", 纬来体育台 // Videoland Sports Taiwan
 http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
 🚀⚔️🇭🇰 AKTV HONG KONG 🇭🇰⚔️🚀
+🚀⚔️🇭🇰 FREE PLAYLIST AKTV HK 🇭🇰⚔️🚀
