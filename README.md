@@ -217,11 +217,3 @@ https://bit.ly/3EqSXx3
 ***🔴🟢👉Resevered Channel🟢🔴👈***
 
 
-![1000028292](https://github.com/user-attachments/assets/0704ed8f-10e1-4ffb-87f4-f70f6d4a7c13)
-
-Happy Birthday, Aya Endo 🎉🎉
-
-
-![1000028293](https://github.com/user-attachments/assets/f0845ca3-1b11-4528-98e2-82056902a957)
-
-Happy Birthday, Makoto Koichi 🎉🎉
