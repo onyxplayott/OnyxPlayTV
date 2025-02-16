@@ -146,6 +146,24 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298504
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-id="tokushoutsu" tvg-logo="http://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="Japan TV (Anime Channels)", Tokushoutsu on PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e2ff68-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=76da6dab-6ec1-433d-8d30-a0c34b5dd207&userId=&serverSideAds=false
+#EXTINF:-1 tvg-chno="937" tvg-id="GBBD1100010UB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100010UB_20250107T030759SQUARE.png" tvg-country="GB" group-title="Japan TV (Anime Channels)", Super Anime TV UK
+https://jmp2.uk/sam-GBBD1100010UB.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="ATBD390000167" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD390000167_20250207T120836SQUARE.png" tvg-country="AT" group-title="Japan TV (Anime Channels)", Aniverse Austria
+https://jmp2.uk/sam-ATBD390000167.m3u8
+#EXTINF:-1 tvg-chno="318" tvg-id="CHBD39000015L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD39000015L_20250207T094636SQUARE.png" tvg-country="CH" group-title="Japan TV (Anime Channels)", Aniverse TV 
+https://jmp2.uk/sam-CHBD39000015L.m3u8
+#EXTINF:-1 tvg-chno="322" tvg-id="CHBD5100001EF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD5100001EF_20250107T025428SQUARE.png" tvg-country="CH" group-title="Japan TV (Anime Channels)", ADN TV
+https://jmp2.uk/sam-CHBD5100001EF.m3u8
+#EXTINF:-1 tvg-chno="441" tvg-id="DEBD390000181" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD390000181_20250107T024253SQUARE.png" tvg-country="DE" group-title="Japan TV (Anime Channels)", Aniverse TV German
+https://jmp2.uk/sam-DEBD390000181.m3u8
+#EXTINF:-1 tvg-chno="719" tvg-id="FRBD41000051L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000051L_20241015T040414SQUARE.png" tvg-country="FR" group-title="Japan TV (Anime Channels)", Wasabi TV
+https://jmp2.uk/sam-FRBD41000051L.m3u8
+#EXTINF:-1 tvg-chno="716" tvg-id="FRBD5100001ZA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20241106T142617SQUARE.png" tvg-country="FR" group-title="Japan TV (Anime Channels)", ADN France
+https://jmp2.uk/sam-FRBD5100001ZA.m3u8
+#EXTINF:-1 channel-id="65652f7fc0fc88000883537a" tvg-id="65652f7fc0fc88000883537a" tvg-chno="3990" tvg-name="Crunchyroll" tvg-logo="https://images.pluto.tv/channels/65652f7fc0fc88000883537a/colorLogoPNG.png" group-title="Japan TV (Anime Channels)", Crunchyroll Channel by PlutoTV
+https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
+#EXTINF:-1 channel-id="5812b7d3249444e05d09cc49" tvg-id="5812b7d3249444e05d09cc49" tvg-chno="3980" tvg-name="Anime All Day" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Japan TV (Anime Channels)", Anime All Day by PlutoTV
+https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
 #EXTINF:-1 tvg-id="701" group-title="Saluran Percubaan (Test Channel)" tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png", Unifi Sports 701
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=Y2M1YzUwMTEtMWYxYi0zYjAxLTg2M2YtZjJmZTA2MWIyM2Nh
