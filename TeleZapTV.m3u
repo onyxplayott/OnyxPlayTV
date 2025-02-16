@@ -404,6 +404,21 @@ http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/6077/index.m3u8
 #EXTINF:0 group-title="TeleZap España | M+ Deportes" tvg-id="3101" tvg-logo="http://epg.one/img2/3101.png" tvg-rec="3", Deportes por M+ HD
 http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/6070/index.m3u8
 
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="TeleZap España | M+ Deportes", LaLiga por M+ FHD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/165385.ts
+
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="TeleZap España | M+ Deportes", LaLiga por M+ HD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/165392.ts
+
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="TeleZap España | M+ Deportes", LaLiga por M+ SD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/165393.ts
+
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LALIGA TV BAR FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="TeleZap España | M+ Deportes", LaLiga por M+ (BAR) SD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/268042.ts
+
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LALIGA TV BAR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="TeleZap España | M+ Deportes", LaLiga por M+ (BAR) HD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/165407.ts
+
 #EXTINF:-1 cuid="1048" tvg-chno="1050" tvg-name="Eurosport 1 🇪🇸" tvg-id="Eurosport.1.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="TeleZap España | Eurosport España", Eurosport 1 España
 http://oldraindays.net/live/228463308/r576049x/324257.ts
 
@@ -460,6 +475,18 @@ https://zekonew.iosplayer.ru/zeko/premium448/mono.m3u8
 #EXTINF:0 group-title="TeleZap España | DAZN España" tvg-id="5088" tvg-logo="http://epg.one/img2/5088.png" tvg-rec="3", DAZN F1 España
 http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/6071/index.m3u8
 
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: DAZN LALIGA HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="TeleZap España | DAZN España", DAZN LaLiga 1 [HD]
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320781.ts
+
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: DAZN LALIGA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="TeleZap España | DAZN España", DAZN LaLiga 1 [FHD]
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320782.ts
+
+#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="ES: DAZN LALIGA 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="TeleZap España | DAZN España", DAZN LaLiga 2 [HD]
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320779.ts
+
+#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="ES: DAZN LALIGA 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="TeleZap España | DAZN España", DAZN LaLiga 2 [FHD]
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320780.ts
+
 #EXTINF:0 group-title="TeleZap España" tvg-id="4512" tvg-logo="http://epg.one/img2/4512.png" tvg-rec="0", Caza y Pesca
 http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/7346/index.m3u8
 
@@ -478,18 +505,3 @@ https://zekonew.iosplayer.ru/zeko/premium437/mono.m3u8
 
 
 🇪🇸 (Basque) - Kanal hau ezegonkorra balitz, kanal horiek ezabatuko nituzke.
-
-NOTICE ABOUT REBRANDING TO TELEZAP ESPAÑA :
-
-ENGLISH 🇬🇧:
-As of today, ZapiTV España is no longer available and rebrands to TeleZap España with new categories and new channels to make it easier for TeleZap viewers to watch the channels without interruptions and make sure that the Internet is stable to watch them.
-
-ESPAÑA 🇪🇸:
-A partir de hoy, ZapiTV España ya no está disponible y cambia de marca a TeleZap España con nuevas categorías y nuevos canales para facilitar que los espectadores de TeleZap vean los canales sin interrupciones y se aseguren de que Internet sea estable para verlos.
-
-Basque 🇪🇸:
-Gaur Egun, ZapiTV Espainia ez dago gehiago eskuragarri Eta TeleZap Espainia izenarekin markatu da kategoria eta kanal berriekin, TeleZap ikusleek etenik gabe kanalak ikustea errazteko eta Internet horiek ikustea egonkorra dela ziurtatzeko.
-
-
-Sincere,
-TeleZap Team.
