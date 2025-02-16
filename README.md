@@ -8,18 +8,16 @@
 
 
 
-💯 𝙁𝙍𝙀𝙀 𝙋𝙇𝘼𝙔𝙇𝙄𝙎𝙏 𝙋𝙍𝙀𝙈𝙄𝙐𝙈 & 𝙁𝙍𝙀𝙀𝙈𝙄𝙐𝙈 𝙒𝙄𝙏𝙃 𝙐𝙉𝙇𝙄𝙈𝙄𝙏𝙀𝘿 𝘾𝙃𝘼𝙉𝙉𝙀𝙇𝙎 𝙏𝙃𝘼𝙏 𝘾𝘼𝙉 𝘼𝘾𝘾𝙀𝙎𝙎 𝙏𝙃𝙍𝙊𝙐𝙂𝙃 𝙄𝙏.
+💯 𝙁𝙍𝙀𝙀 𝙋𝙇𝘼𝙔𝙇𝙄𝙎𝙏 𝙋𝙍𝙀𝙈𝙄𝙐𝙈 & 𝙁𝙍𝙀𝙀𝙈𝙄𝙐𝙈 𝙒𝙄𝙏𝙃 𝙐𝙉𝙇𝙄𝙈𝙄𝙏𝙀𝘿 𝘾𝙃𝘼𝙉𝙉𝙀𝙇𝙎.
 
 
 ***THIS SERVICES THAT INCLUDING:***
 
-***📡📺: LIVE TV CHANNELS***
-
-***📻: LIVE RADIO CHANNELS***
+***📡📺📻: LIVE TV & RADIO CHANNELS***
 
 ***🎥🍿: VOD MOVIES***
 
-***📺🍿: VOD SERIES (COMING SOON TO BE ADDED ON LIBRARY, IF I ADDED NEW TV SHOWS.)***
+***📺🍿: VOD SERIES (COMING SOON TO BE ADDED ON LIBRARY. TBA)***
 
 ***WATCH IT FOR FREE AND JUST PASTE THIS LINKS INTO IPTV PLAYER THAT AVAILABLE ON YOUR ANDROID PHONE.***
 
@@ -44,18 +42,6 @@
 
 
 *❝𝗬𝗢𝗨 𝗨𝗡𝗗𝗘𝗥𝗦𝗧𝗔𝗡𝗗?!❞*
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
