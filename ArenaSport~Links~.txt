@@ -1,4 +1,5 @@
 # ARENA SPORT 1X2 #
+      🔻 | 🔺
 
 https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd?n=yourmomgae
 
@@ -66,6 +67,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd?n=
                 k2: "e41c3a6f7532b2e3a828d9580124c89d"
             },
 
+# FUBO SPORTS TEST STREAM #
 
 "FUBO_SPORTS": {
                 url: "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
@@ -73,7 +75,4 @@ https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd?n=
                 k2: "d0dcbcd7723bc40df0bf34c9c092d51f"
             },
 
-
-
-
-# TEST ON OTT NAVIGATOR 
+~ TEST ON OTT NAVIGATOR ~
