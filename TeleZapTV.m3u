@@ -34,6 +34,15 @@ https://ott.zapitv.com/live/eds_c2/divinity/dash_live_enc/divinity.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UJjq+v8rJG7hXo+a61QD+w", "kid":"FeQSpO3YUxMjOWmRMHLg/w" } ], "type":"temporary" }
 https://ott.zapitv.com/live/eds_c2/blaze/dash_live_enc/blaze.mpd
 
+#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC FHD" tvg-logo="http://astrill.today:80/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsT2ioIW55P-X8sXhaNTyRNh91IaMhdXrTO2Tg5pW1GXw.png" group-title="TeleZap España",AMC España 
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321102.ts
+
+#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC HD" tvg-logo="http://astrill.today:80/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsT2ioIW55P-X8sXhaNTyRNh91IaMhdXrTO2Tg5pW1GXw.png" group-title="TeleZap España", AMC España HD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321103.ts
+
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="ES: AMC CRIME SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="TeleZap España", AMC Crime España
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321101.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="TeleZap España", AXN España
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -126,6 +135,12 @@ https://ott.zapitv.com/live/eds_c2/xtrm_hd/dash_live_enc/xtrm_hd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "/EgDNo0v7U5PDroU9+X+BQ", "kid": "SQWp13V7XB6eVKxBFKyxkg"}, {"kty": "oct", "k": "6UfGXg7D9bzAIPQaVSuZkw", "kid": "SQtSiinYWAe4HlpAraw4wQ"}, {"kty": "oct", "k": "8kKm+/qnPfveyXyjfMr+CQ", "kid": "5wB7YGJeVL+XlLK83KrCTg"}], "type": "temporary"}
 https://tvup01.edge.milloh-cs.com/historia/historia.mpd
+
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA FHD" tvg-logo="http://cesbos.portal.ovh/logos/historia.jpg" group-title="TeleZap España", Historia España SD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/336326.ts
+
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUtnxIYYhzV-AtxNXFwD3gURtDr28OAhkojPEo8ZY-mUSA.png" group-title="TeleZap España", Historia España HD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/339761.ts
 
 #EXTINF:-1 cuid="427" tvg-chno="427" tvg-name="A3Series Internacional🇪🇸" tvg-id="A.3.Series.ch" tvg-logo="https://logo.iptveditor.com/a3satreseries1.png" group-title="TeleZap España", A3Series
 http://vp-txpro.com:80/live/lupita73/1973/53913&f=.ts
@@ -499,6 +514,20 @@ http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/15241/index.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium437/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY CHANNEL ESP HD" tvg-logo="" group-title="TeleZap España", Discovery Channel España
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1026555.ts
+
+#EXTINF:-1 tvg-id="SELEKT" tvg-name="ES: SELECK FHD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments/AMC_SELEKT_ORANGE_WHITE_176x122.png" group-title="TeleZap España", AMC Selekt HD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/990328.ts
+
+#EXTINF:-1 tvg-id="SELEKT" tvg-name="ES: SELECK SD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments/AMC_SELEKT_ORANGE_WHITE_176x122.png" group-title="TeleZap España", AMC Selekt SD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/990329.ts
+
+#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="ES: M+ DOCUMENTALES FHD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjjpYOYXnG7Sb3CFutAFeFEeg.png" group-title="TeleZap España", Documentales por M+ SD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/552954.ts
+
+#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="ES: M+ DOCUMENTALES HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjjpYOYXnG7Sb3CFutAFeFEeg.png" group-title="TeleZap España", Documentales por M+ HD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/552955.ts
 
 
 #EXTM3U billed-msg="TeleZapTV 💯 Canal España Digital 🇪🇸"
