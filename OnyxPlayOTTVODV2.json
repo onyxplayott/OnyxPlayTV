@@ -16,7 +16,7 @@
            "drm": "clearkey", 
            "drmkey": "0bb6939d812cc734a842b4fc6c327b10:dcaffa17622c2eb979f2cb5ad77ec59d"
  },
-
+[
 {        
   "name": "Reversi", 
   "category": "Astro First On Demand",
@@ -34,7 +34,7 @@
            "drm": "clearkey", 
            "drmkey": ""
  }, 
- 
+ [
  {        
   "name": "Cuckoo", 
   "category": "Astro First On Demand",
@@ -52,7 +52,7 @@
            "drm": "clearkey", 
            "drmkey": "ffdfc64af88af1d7a1cf275ed2e72810:3585e5afd9bf93e9ca31b3aedc119499"
  }, 
-
+ [
  {        
   "name": "Teasing Master Takagi-San", 
   "category": "Astro First On Demand",
@@ -70,7 +70,7 @@
            "drm": "clearkey", 
            "drmkey": "5565c3084a4370d4f6d4bb25c0d3eb10:bf8717a617d32735a99e1d94ec853f68"
  }, 
-
+[
 {        
  "name": "Hijack 1971", 
  "category": "Astro First On Demand",
@@ -88,7 +88,7 @@
            "drm": "clearkey", 
            "drmkey": ""
  }, 
-
+[
 {        
  "name": "Sting", 
  "category": "Astro First On Demand",
