@@ -1,5 +1,7 @@
 # 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊「𝙊𝙉𝙔𝙓𝙋𝙇𝘼𝙔𝙊𝙏𝙏 V2」
 
+![ONYXPLAYOTT LOGO](https://avatars.githubusercontent.com/u/196435549?v=4)
+
 
 ![IPTV LOGO](https://logomakerr.ai/uploads/output/2024/01/01/8885530ec61808b14946e3e3e6755660.jpg?t=1704077405.png)
 
