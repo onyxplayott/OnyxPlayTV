@@ -529,7 +529,32 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/552954.ts
 #EXTINF:-1 tvg-id="M+ Documentales" tvg-name="ES: M+ DOCUMENTALES HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjjpYOYXnG7Sb3CFutAFeFEeg.png" group-title="TeleZap España", Documentales por M+ HD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/552955.ts
 
+#EXTINF:-1 tvg-id="Onetoro TV" tvg-name="ES: ONETORO TV FHD" tvg-logo="https://up6.cc/2023/08/16908979245241.png" group-title="TeleZap España | Onetoro PPV", Onetoro PPV FHD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/558671.ts
 
+#EXTINF:-1 tvg-id="Onetoro TV" tvg-name="ES: ONETORO TV HD" tvg-logo="https://up6.cc/2023/08/16908979245241.png" group-title="TeleZap España | Onetoro PPV", Onetoro PPV HD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/558672.ts
+
+#EXTINF:-1 tvg-id="Onetoro TV" tvg-name="ES: ONETORO TV SD" tvg-logo="https://up6.cc/2023/08/16908979245241.png" group-title="TeleZap España | Onetoro PPV", Onetoro PPV199
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/558673.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOROLE TV FHD" tvg-logo="https://www.netvoz.eu/wp-content/uploads/2021/11/torole.png" group-title="Telezap España | Onetoro PPV", TorolePPV TV FHD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/539876.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOROLE TV HD" tvg-logo="https://www.netvoz.eu/wp-content/uploads/2021/11/torole.png" group-title="TeleZap España | Onetoro PPV", TorolePPV TV HD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/539877.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOROLE TV SD" tvg-logo="https://www.netvoz.eu/wp-content/uploads/2021/11/torole.png" group-title="TeleZap España | Onetoro PPV", TorolePPV TV SD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/539878.ts
+
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D_428_1_C00000_0_0_0.png" group-title="TeleZap España | Toros PPV", Toros PPV FHD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321445.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOROS HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D_428_1_C00000_0_0_0.png" group-title="TeleZap España | Toros PPV", Toros PPV HD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321446.ts
+
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D_428_1_C00000_0_0_0.png" group-title="TeleZap España | Toros PPV", Toros PPV SD
+http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321449.ts
 
 
 #EXTM3U billed-msg="TeleZapTV 💯 Canal España Digital 🇪🇸"
