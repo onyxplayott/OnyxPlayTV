@@ -871,10 +871,10 @@ http://18.svi-studio.com/live/908957700097/132663288386/6.m3u8
 http://18.svi-studio.com/live/908957700097/132663288386/20205.m3u8
 #EXTINF:-1 tvg-id="SSTV4" tvg-name="松视4台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/SSTV4.png" group-title="Hot Channels 🔞", 松视4台 // SSTV4
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
-#EXTINF:-1 tvg-id="JStar" tvg-name="JStar极限台电影频道" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/JStar.png" group-title="Hot Channels 🔞", JStar 极限台电影频道 // J-STAR TV
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
 #EXTINF:-1 group-title="Hot Channels 🔞" tvg-id="Pigoo.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/p663.gif", アイドル専門チャンネル Pigoo // PigooTV Idol (Test Broadcast)
 http://luong.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 tvg-id="JStar" tvg-name="JStar极限台电影频道" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/JStar.png" group-title="Hot Channels 🔞", JStar 极限台电影频道 // J-STAR TV
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
 ========================================================
 #EXTINF:-1 tvg-id="TRUE X-Zyte" tvg-name="True X-Zyte" tvg-logo="http://tvsmagazine.com/images/channels/sm_034.jpg" group-title="THAILAND TV (Truevisions TH)", True X-Zyte 
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
@@ -902,38 +902,6 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
 https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BoomAnimeThai" tvg-name="Boom Anime by Boomerang" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boom-anime.png" group-title="THAILAND TV (Truevisions TH)", Boom Anime TV
 https://edge2a.v2h-cdn.com/boom_anime/boom_anime.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ETV.th" tvg-logo="https://www.etvthai.tv/upload/picture/25032564_1126585563.jpg" group-title="THAILAND TV (EDUCATION)", ETV Thailand 
-http://150.95.66.20:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="THAILAND TV (EDUCATION)", DLTV 1
-https://cdn-live.dltv.ac.th/dltv01.m3u8
-#EXTINF:-1 tvg-id="DLTV2.th" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="THAILAND TV (EDUCATION)", DLTV 2
-https://cdn-live.dltv.ac.th/dltv02.m3u8
-#EXTINF:-1 tvg-id="DLTV3.th" tvg-logo="https://i.imgur.com/wmrxerm.png" group-title="THAILAND TV (EDUCATION)", DLTV 3
-https://cdn-live.dltv.ac.th/dltv03.m3u8
-#EXTINF:-1 tvg-id="DLTV4.th" tvg-logo="https://i.imgur.com/WkpoQhU.png" group-title="THAILAND TV (EDUCATION)", DLTV 4
-https://cdn-live.dltv.ac.th/dltv04.m3u8
-#EXTINF:-1 tvg-id="DLTV5.th" tvg-logo="https://i.imgur.com/J1E89jX.png" group-title="THAILAND TV (EDUCATION)", DLTV 5
-https://cdn-live.dltv.ac.th/dltv05.m3u8
-#EXTINF:-1 tvg-id="DLTV6.th" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="THAILAND TV (EDUCATION)", DLTV 6
-https://cdn-live.dltv.ac.th/dltv06.m3u8
-#EXTINF:-1 tvg-id="DLTV7.th" tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="THAILAND TV (EDUCATION)", DLTV 7
-https://cdn-live.dltv.ac.th/dltv07.m3u8
-#EXTINF:-1 tvg-id="DLTV8.th" tvg-logo="https://i.imgur.com/xIwn5Ha.png" group-title="THAILAND TV (EDUCATION)", DLTV 8
-https://cdn-live.dltv.ac.th/dltv08.m3u8
-#EXTINF:-1 tvg-id="DLTV9.th" tvg-logo="https://i.imgur.com/yPeSAry.png" group-title="THAILAND TV (EDUCATION)", DLTV 9
-https://cdn-live.dltv.ac.th/dltv09.m3u8
-#EXTINF:-1 tvg-id="DLTV10.th" tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="THAILAND TV (EDUCATION)", DLTV 10
-https://cdn-live.dltv.ac.th/dltv10.m3u8
-#EXTINF:-1 tvg-id="DLTV11.th" tvg-logo="https://i.imgur.com/hFk2b5s.png" group-title="THAILAND TV (EDUCATION)", DLTV 11
-https://cdn-live.dltv.ac.th/dltv11.m3u8
-#EXTINF:-1 tvg-id="DLTV12.th" tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="THAILAND TV (EDUCATION)", DLTV 12
-https://cdn-live.dltv.ac.th/dltv12.m3u8
-#EXTINF:-1 tvg-id="DLTV13.th" tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="THAILAND TV (EDUCATION)", DLTV 13
-https://cdn-live.dltv.ac.th/dltv13.m3u8
-#EXTINF:-1 tvg-id="DLTV14.th" tvg-logo="https://i.imgur.com/HOjZRNS.png" group-title="THAILAND TV (EDUCATION)", DLTV 14
-https://cdn-live.dltv.ac.th/dltv14.m3u8
-#EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="THAILAND TV (EDUCATION)", DLTV 15
-https://cdn-live.dltv.ac.th/dltv15.m3u8
 ========================================================
 #EXTINF:-1 tvg-id="Atreseries" tvg-logo="https://iili.io/Jmoqudg.png" group-title="ZapiTV España", Atreseries HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
