@@ -145,7 +145,7 @@ https://bit.ly/3EqSXx3
 
 
 
-***Will be updated channels soon***.  
+***Will be updated more channels soon on our platform***.  
 
 
 
@@ -158,67 +158,7 @@ https://bit.ly/3EqSXx3
 
 
 
-***𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 Lord 𝚂𝚞𝚗𝚛𝚊𝚔𝚞𝚡𝚡𝚡 & 𝙾𝚗𝚢𝚡𝙿𝚕𝚊𝚢𝙾𝚃𝚃.***
+***𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙾𝚗𝚢𝚡𝙿𝚕𝚊𝚢𝙾𝚃𝚃.***
 
-
-
-
-
-
-
-
-
-***🔴🟢👉Resevered Channel🟢🔴👈***
-
-
-***🔴🟢👉Resevered Channel🟢🔴👈***
-
-
-***🔴🟢👉Resevered Channel🟢🔴👈***
-
-
-***🔴🟢👉Resevered Channel🟢🔴👈***
-
-
-***🔴🟢👉Resevered Channel🟢🔴👈***
-
-
-***🔴🟢👉Resevered Channel🟢🔴👈***
-
-
-***🔴🟢👉Resevered Channel🟢🔴👈***
-
-
-***🔴🟢👉Resevered Channel🟢🔴👈***
-
-
-
-***🔴🟢👉Resevered Channel🟢🔴👈***
-
-
-
-***🔴🟢👉Resevered Channel🟢🔴👈***
-
-
-
-
-***🔴🟢👉Resevered Channel🟢🔴👈***
-
-
-
-
-
-***🔴🟢👉Resevered Channel🟢🔴👈***
-
-
-
-
-
-
-
-
-
-
-***🔴🟢👉Resevered Channel🟢🔴👈***
 
 
