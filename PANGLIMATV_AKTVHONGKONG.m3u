@@ -124,10 +124,10 @@ http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 #EXTINF:-1 tvg-name="Thrill" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", Thrill TV Asia
 http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="France 24" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", France 24 
+#EXTINF:-1 tvg-name="France 24" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", France 24 English
 http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="DW" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", Deutsche Welle Asia
+#EXTINF:-1 tvg-name="DW" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", DW English
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="亞洲新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", 亞洲新聞台
@@ -139,7 +139,7 @@ http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="KIX" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", KIX Asia
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", Nick JR
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", Nick Jr
 http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", Nickelodeon
@@ -157,7 +157,7 @@ http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 #EXTINF:-1 tvg-name="ZooMoo" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", Zoomoo
 http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="NHK東京総合" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", NHK東京総合 // NHK G
+#EXTINF:-1 tvg-name="NHK東京総合" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", NHK東京総合 // NHK General
 http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", Love Nature HD
