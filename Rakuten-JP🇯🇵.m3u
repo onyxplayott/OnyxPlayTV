@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="News1" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="Rakuten-JP", (104) 日テレ NEWS TV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
 
@@ -197,6 +198,8 @@ RAKUTENTV-JP
 RAKUTENTV-JP
 
 RAKUTENTV-JP
+
+Instructions to watch it :-
 
 🇬🇧 - Accessible via Japan IP only using VPN Apps.
    
