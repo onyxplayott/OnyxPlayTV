@@ -137,11 +137,20 @@ https://bit.ly/3EqSXx3
 
 
 
+⚔️🚀 ᴜɴᴅᴇʀ ᴘᴀɴɢʟɪᴍᴀ ᴛᴠ ʙʀᴀɴᴅꜱ 🚀⚔️:
+          🔻  🔻  🔻
+
+
+🔴🟢🄿🄻🅄🅃🄾🅃🅅 🅄🅂🄰 ✓🟢🔴:
+https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/PANGLIMATV_PLUTOTVUSA.m3u
+
+🔴🟢AKTV HONG KONG (🅐🅚🅣🅥 🅗🅞🅝🅖 🅚🅞🅝🅖) ✓🟢🔴:
+https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/PANGLIMATV_AKTVHONGKONG.m3u
 
 
 
-
-
+🟢🔴 🄼🄾🅅🄴🄾🄽🄹🄾🅈🅃🅅 🅄🅂🄰 ✓🔴🟢:
+https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/PANGLIMATV_%20MOVEONJOYUSA.m3u
 
 
 
