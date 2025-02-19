@@ -34,6 +34,17 @@ https://ott.zapitv.com/live/eds_c2/divinity/dash_live_enc/divinity.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UJjq+v8rJG7hXo+a61QD+w", "kid":"FeQSpO3YUxMjOWmRMHLg/w" } ], "type":"temporary" }
 https://ott.zapitv.com/live/eds_c2/blaze/dash_live_enc/blaze.mpd
 
+#EXTINF:-1, tvg-id="DARK TV España" tvg-logo="https://satcesc.com/wp-content/uploads/2020/10/DARK.jpg" group-title="TeleZap España", DARK TV España
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee3899fcba09e6de20355394106ca745:d84b6489ff8e5aeecde84a659c0617b8
+https://ott.zapitv.com/live/eds_c2/DARK_HD/dash_live_enc/DARK_HD.mpd
+
+#EXTINF:-1 tvg-id="BarçaTV" tvg-logo="" group-title="TeleZap España", BarçaTV HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0531117d58ead20abd4587be1aae5723", "kid":"20d717ac-439f-3330-de3a-8f27c0f9fbbb" } ], "type":"temporary" }
+https://ott.zapitv.com/live/eds_c2/barca_tv/dash_live_enc/barca_tv.mpd
+
 #EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC FHD" tvg-logo="http://astrill.today:80/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsT2ioIW55P-X8sXhaNTyRNh91IaMhdXrTO2Tg5pW1GXw.png" group-title="TeleZap España",AMC España 
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321102.ts
 
@@ -549,15 +560,5 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321446.ts
 
 #EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D_428_1_C00000_0_0_0.png" group-title="TeleZap España | Toros PPV", Toros PPV SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321449.ts
-
-#EXTINF:-1, COSMO ES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=440d251fb0a742c6ba118e1dd0d86ffe:7c9c577423ae0ee2bc672f10b0089969
-https://cosmo-dash-movistarplus.emisiondof6.com/dash/cosmo.isml/manifest.mpd
-
-#EXTINF:-1, DARK TV España
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee3899fcba09e6de20355394106ca745:d84b6489ff8e5aeecde84a659c0617b8
-https://ott.zapitv.com/live/eds_c2/DARK_HD/dash_live_enc/DARK_HD.mpd
 
 #EXTM3U billed-msg="TeleZap España | Canal Televisión y Radio Las Gratis"
