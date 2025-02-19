@@ -1,5 +1,7 @@
 ✌️ 𝑭𝒓𝒆𝒆𝒎𝒊𝒖𝒎 & 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 𝒃𝒚 𝑶𝒏𝒚𝒙𝑷𝒍𝒂𝒚𝑶𝑻𝑻 𝑻V ✌️
 
+✌️ 𝑭𝒓𝒆𝒆𝒎𝒊𝒖𝒎 & 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 𝒃𝒚 𝑶𝒏𝒚𝒙𝑷𝒍𝒂𝒚𝑶𝑻𝑻 𝑻V ✌️
+
 (●) ::::::::: RE~STR3AM :::::::::::: (●)
 
 (●) ::::::::: RE~STR3AM :::::::::::: (●)
@@ -916,106 +918,8 @@ https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BoomAnimeThai" tvg-name="Boom Anime by Boomerang" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boom-anime.png" group-title="THAILAND TV (Truevisions TH)", Boom Anime TV
 https://edge2a.v2h-cdn.com/boom_anime/boom_anime.stream/playlist.m3u8
 ========================================================
-#EXTINF:-1 tvg-id="Atreseries" tvg-logo="https://iili.io/Jmoqudg.png" group-title="ZapiTV España", Atreseries HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f9f8aec731ad9b6da84e72df2b318fa:8581c19cf83e9b0a872484377ea8c162
-https://ott.zapitv.com/live/eds_c2/atreseries_hd/dash_live_enc/atreseries_hd.mpd
-#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-logo="https://iili.io/JmoqIrF.png" group-title="ZapiTV España", Factoría de Ficción (FDF)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5032cdcff452f508b44fe895808b9cee:51c7c5b35ad30d4d8552143f19fd5e11
-https://ott.zapitv.com/live/eds_c2/fdf/dash_live_enc/fdf.mpd
-#EXTINF:-1 tvg-id="Energy" tvg-logo="https://iili.io/JmoqRkJ.png" group-title="ZapiTV España", Energy TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a9dbf7992b2f2de807c30928a14eba6:48b9e3073b6c646ef9bfcfa307492e10
-https://ott.zapitv.com/live/eds_c2/energy/dash_live_enc/energy.mpd
-#EXTINF:-1 tvg-id="Divinity" tvg-logo="https://iili.io/JmoqA7a.png" group-title="ZapiTV España", Divinity TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f1ee8e0222e67dcefdcb7ed95a6911f1:a4b37cde4618859146b0278f628997ee
-https://ott.zapitv.com/live/eds_c2/divinity/dash_live_enc/divinity.mpd
-#EXTINF:-1 tvg-id="" tvg-name="AMCES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="ZapiTV España", AMC España
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xvu+HlBqQyPTBGswcxydUg", "kid":"/+w97EDLYaRelpyEl3YV7w" } ], "type":"temporary" }
-https://ott.zapitv.com/live/eds_c2/amc_hd/dash_live_enc/amc_hd.mpd
-#EXTINF:-1 tvg-id="" tvg-name="AMCBreak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/1280px-AMC_Break.svg.png" group-title="ZapiTV España", AMC Break España
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UJjq+v8rJG7hXo+a61QD+w", "kid":"FeQSpO3YUxMjOWmRMHLg/w" } ], "type":"temporary" }
-https://ott.zapitv.com/live/eds_c2/blaze/dash_live_enc/blaze.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="ZapiTV España", AXN España
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"da7xXCDnoXxktx0vhApvXQ", "kid":"F7S1zbsnHn9tl+OKBKLSfw" } ], "type":"temporary" }
-https://ott.zapitv.com/live/eds_c2/axn/dash_live_enc/axn.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="ZapiTV España", AXN Movies España
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1jDgTgxeP5jcOIQL4cHdTA", "kid":"+eS+CZJsJi7/orU4GuNVPQ" } ], "type":"temporary" }
-https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1280px-Comedy_Central_2018.svg.png" group-title="ZapiTV España", Comedy Central España
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2DCc2fqMKG8ne0y5hB170g", "kid":"+HV95aSVzl20iTwu78EeWA" } ], "type":"temporary" }
-https://ott.zapitv.com/live/eds_c2/comedy_central/dash_live_enc/comedy_central.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1280px-Calle13_logo.svg.png" group-title="ZapiTV España", Calle 13 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8iQpEH6ngG9UkCuykmyIcg", "kid":"auULtWID8vOHXj7njvqxpQ" } ], "type":"temporary" }
-https://ott.zapitv.com/live/eds_c2/calle_13/dash_live_enc/calle_13.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1280px-History_%282021%29.svg.png" group-title="ZapiTV España", Canal Historia España
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2D7tBwhSOQMEQI3VUumUg", "kid":"iRPd3H8wEIXJXhm7lMAFqA" } ], "type":"temporary" }
-https://ott.zapitv.com/live/eds_c2/historia_hd/dash_live_enc/historia_hd.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="ZapiTV España", EUROSPORT 1 España 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Facjdzw7PLzilcCu0Lxxww", "kid":"I3voypODdV6fV4TdI/VF6w" } ], "type":"temporary" }
-https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/1280px-Eurosport_2_Logo_2015.svg.png" group-title="ZapiTV España", EUROSPORT 2 España
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZkJBEzNoqwOdwfsVIGulSw", "kid":"FTgoeam8+m8aBKhtW0Mk6Q" } ], "type":"temporary" }
-https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1280px-Logo_TVE-1.svg.png" group-title="ZapiTV España", LA 1 España 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d0D4rkIjzluikwKPf3jxwQ", "kid":"o6vERSXu87Cnr5E4qdvjSg" } ], "type":"temporary" }
-https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1280px-Logo_TVE-2.svg.png" group-title="ZapiTV España", LA 2 España
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6xltKy3ChBj0ZVMsXRGCwA", "kid":"7NfudeDojyZ6zmvX2dcNgw" } ], "type":"temporary" }
-https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1280px-Teledeporte.svg.png" group-title="ZapiTV España", Teledeporte HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jLt5pkEMwNDYDRSPKCr9lQ", "kid":"GTe48NyDPgqPRXJAly5EDQ" } ], "type":"temporary" }
-https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png" group-title="ZapiTV España", Sundance TV España
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FUHCCn3IKzAuyblydJEBYg", "kid":"cQffDs8WhDjfPV41oG9eiw" } ], "type":"temporary" }
-https://ott.zapitv.com/live/eds_c2/sundance_hd/dash_live_enc/sundance_hd.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1280px-SYFY.svg.png" group-title="ZapiTV España", Syfy España 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DQ31GJJWwL8ywM0JdrrFvQ", "kid":"leweJugMOCWKMBAdBsjL9w" } ], "type":"temporary" }
-https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WarnerTV_France_2021.svg/1280px-WarnerTV_France_2021.svg.png" group-title="ZapiTV España", Warner TV España
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"As7zPgfLSbJrDgmbp0Z+lw", "kid":"M5R/5b1q85Lv0J90MeH6VA" } ], "type":"temporary" }
-https://ott.zapitv.com/live/eds_c2/tnt/dash_live_enc/tnt.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/XTRM_Espa%C3%B1a.png/1280px-XTRM_Espa%C3%B1a.png" group-title="ZapiTV España", Canal XTRM 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eoTs6RtpDFtxfu/9WKVbBA", "kid":"Vj5uE2fgyMD2ZDzwrpLE5w" } ], "type":"temporary" }
-https://ott.zapitv.com/live/eds_c2/xtrm_hd/dash_live_enc/xtrm_hd.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Historia_2022_logo.webp" group-title="ZapiTV España", HISTORIA 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "/EgDNo0v7U5PDroU9+X+BQ", "kid": "SQWp13V7XB6eVKxBFKyxkg"}, {"kty": "oct", "k": "6UfGXg7D9bzAIPQaVSuZkw", "kid": "SQtSiinYWAe4HlpAraw4wQ"}, {"kty": "oct", "k": "8kKm+/qnPfveyXyjfMr+CQ", "kid": "5wB7YGJeVL+XlLK83KrCTg"}], "type": "temporary"}
-https://tvup01.edge.milloh-cs.com/historia/historia.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1280px-History2_logo_%282022%29.svg.png" group-title="ZapiTV España", HISTORIA 2
-http://190.102.246.93:9005/play/a00y
+ # RESERVED SPACE #
+MOVED INTO NEW PLAYLIST "TELEZAP ES"
 ========================================================
 #EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="myTV SUPER TVB (LIVE EVENT)", myTV SUPER CH18 (Horse Racing 🐎)
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
