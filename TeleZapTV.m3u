@@ -550,9 +550,9 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321446.ts
 #EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D_428_1_C00000_0_0_0.png" group-title="TeleZap España | Toros PPV", Toros PPV SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321449.ts
 
-#EXTINF:-1, Ubeat
+#EXTINF:-1, Dark España
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a13ec19f39a47da96d677511edc0116:17711d7880e6a9d896579125d33427bf
-https://ubeat-dash-movistarplus.emisiondof6.com/dash/ubeat.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=0baadc5a8a9f4d39808ff2dd3d369c7b:f70762238bb228c85b825459e7bed5a7
+https://dark-dash-movistarplus.emisiondof6.com/dash/darkor.isml/manifest.mpd
 
 #EXTM3U billed-msg="TeleZap España | Canal Televisión y Radio Las Gratis"
