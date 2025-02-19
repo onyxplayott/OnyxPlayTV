@@ -378,12 +378,6 @@ https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/bitrate_7.m3u8
 #EXTINF:-1 cuid="439" tvg-chno="439" tvg-name="3/24 🇪🇸" tvg-id="3.24.es" tvg-logo="https://logo.iptveditor.com/324.png" group-title="TeleZap España", Canal 3/24 HD
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="unknown" tvg-name="Antena 3 Spain" tvg-logo="https://raw.githubusercontent.com/emaschi123/eventi/refs/heads/main/ddlive.png" group-title="TeleZap España", Antena3 (Daddylive)
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/531/mono.m3u8
-
 #EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="M+.Vamos" tvg-id="M+.Vamos.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="TeleZap España | M+ Deportes", Vamos por M+ SD
 http://line.4smart.in:80//live/TYHZRW6/MF7V7X2/309439&f=.ts
 
@@ -508,7 +502,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/7346/index.m3u8
 #EXTINF:0 group-title="TeleZap España" tvg-id="5693" tvg-logo="http://epg.one/img2/5693.png" tvg-rec="0", Gol Play
 http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/15241/index.m3u8
 
-#EXTINF:-1 tvg-id="437" tvg-name="#0 Spain" tvg-logo="https://raw.githubusercontent.com/michael1900/eventi/refs/heads/main/bg/daddylive-logo.png" group-title="TeleZap España", M+ Info
+#EXTINF:-1 tvg-id="437" tvg-name="#0 Spain" tvg-logo="https://raw.githubusercontent.com/michael1900/eventi/refs/heads/main/bg/daddylive-logo.png" group-title="TeleZap España", M+ Canal
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.107 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
