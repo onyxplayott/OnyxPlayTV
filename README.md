@@ -21,9 +21,9 @@
 
 ***📡📺📻: LIVE TV & RADIO CHANNELS***
 
-***🎥🍿: VOD MOVIES (CLOSED TEMPORARILY FOR UPDATE & MAKE SOME CHANGES FOR USER)***
+***🎥🍿: VOD MOVIES (CLOSED TEMPORARILY FOR UPDATE & MAKE SOME CHANGES TO MAKE BETTER EXPERIENCE.)***
 
-***📺🍿: VOD SERIES (COMING SOON TBA)***
+***📺🍿: VOD SERIES (COMING SOON, TO BE ANNOUNCED LATER.)***
 
 ***WATCH IT FOR FREE AND JUST PASTE THIS LINKS INTO IPTV PLAYER THAT AVAILABLE ON YOUR ANDROID PHONE OR DOWNLOAD ANDROID EMULATOR IN YOUR COMPUTER TO WATCH IPTV WITH STABLE INTERNET THAT CONNECTED & WATCH IT WITHOUT INTERRUPTION.***
 
@@ -32,13 +32,13 @@
 
 
 
-
-
 ⚠️⚠️
 
 *doɴ'т ѕεll or вυy мy plαylιѕт wιтнoυт мy pεrмιѕѕιoɴ.*     
 
 ⚠️⚠️
+
+
 
 
 
@@ -51,15 +51,6 @@
 
 
 *❝𝗬𝗢𝗨 𝗨𝗡𝗗𝗘𝗥𝗦𝗧𝗔𝗡𝗗?!❞*
-
-
-
-
-
-
-
-
-
 
 
 
@@ -151,12 +142,4 @@ https://bit.ly/3EqSXx3
 
 
 
-
-
-
-
-
 ***𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙾𝚗𝚢𝚡𝙿𝚕𝚊𝚢𝙾𝚃𝚃.***
-
-
-
