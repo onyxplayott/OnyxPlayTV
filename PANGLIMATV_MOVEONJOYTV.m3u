@@ -314,7 +314,7 @@ http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="Showtime Women East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="103" channel-number="103",Showtime Women East
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Stadium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="104" channel-number="104",Stadium
+#EXTINF:-1 tvg-id="" tvg-name="Stadium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="104" channel-number="104",Stadium Channel
 http://fl2.moveonjoy.com/STADIUM/index.m3u8
 
 #EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="105" channel-number="105",Starz East
@@ -335,7 +335,7 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="110" channel-number="110",Starz Encore Westerns
 http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 
-#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="SundanceTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="111" channel-number="111",SundanceTV
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="SundanceTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="111" channel-number="111",SundanceTV USA
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 
 #EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="112" channel-number="112",SyFy East
