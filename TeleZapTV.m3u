@@ -574,10 +574,9 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321446.ts
 #EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS SD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/70/c0/35/70c03548-8fed-714d-0dc8-2208e0115077/2e6bd842-f503-4cd4-" group-title="TeleZap España | Onetoro PPV", Onetoro Server 3
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321449.ts
 
-#EXTINF:-1, tvg-id="UbeatTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ubeat.png/370px-Ubeat.png" group-title="TeleZap España", Ubeat TV (OrangeTV Test)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1, tvg-id="ToroleTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN_eeE3p6NdOu7efLfAVimq1W94xUSLg7cVg&s" group-title="TeleZap España | Onetoro PPV", ToroleTV Live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"da855e2e9b88e371b2ac68f85b956069", "kid":"26325828369c0f651b1d028031671678" } ], "type":"temporary" }
-https://live13-dash.cdns.cdn.orangetv.orange.es/DajabX9W9XmpNZp_NvDMCQ/1685097494/85849807/112457707/2030/cmaf/r13_ubeat/dash
+#KODIPROP:inputstream.adaptive.license_key=c665d716114f89d3162d0337be3a66d4:fb5d7ee6db86bb87b0312861b8252582
+https://ott.zapitv.com/live/eds_c2/torole/dash_live_enc/torole.mpd
 
 #EXTM3U billed-msg="TeleZap España | Canal Televisión y Radio Las Gratis"
