@@ -37,11 +37,25 @@ https://ott.zapitv.com/live/eds_c2/blaze/dash_live_enc/blaze.mpd
 #KODIPROP:inputstream.adaptive.license_key=ee3899fcba09e6de20355394106ca745:d84b6489ff8e5aeecde84a659c0617b8
 https://ott.zapitv.com/live/eds_c2/DARK_HD/dash_live_enc/DARK_HD.mpd
 
-#EXTINF:-1 tvg-id="BarçaTV" tvg-logo="" group-title="TeleZap España", BarçaTV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="BeMadTV" tvg-logo="" group-title="", BeMad
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0531117d58ead20abd4587be1aae5723", "kid":"20d717ac-439f-3330-de3a-8f27c0f9fbbb" } ], "type":"temporary" }
-https://ott.zapitv.com/live/eds_c2/barca_tv/dash_live_enc/barca_tv.mpd
+#KODIPROP:inputstream.adaptive.license_key=3743a0f5f8633002477dbd91510d7794:53d6e6c17b95cab5109a6fea5fd077d
+https://ott.zapitv.com/live/eds_c2/bemad_hd/dash_live_enc/bemad_hd.mpd
+
+#EXTINF:-1 tvg-id="BoingES" tvg-logo="" group-title="", Boing TV Espana
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97c3e5f52bf51efe706c221930bc2b5b:b9473af4e52eaa9c9def9f8a5c54333c
+https://ott.zapitv.com/live/eds_c2/boing/dash_live_enc/boing.mpd
+
+#EXTINF:-1 tvg-id="BOMCanal" tvg-logo="" group-title="", BOM TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ac9b27e3ad295bdd734c7e39ac11c88:be3c7d023415988972512ccba3f14fe4
+https://ott.zapitv.com/live/eds_c2/bom/dash_live_enc/bom.mpd
+
+#EXTINF:-1 tvg-id="MTVES" tvg-logo="" group-title="", MTV Espana
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10f86eedfa603133e035c4c64226dd6b:1678761258b8a16d5d5b9241bd647536
+https://ott.zapitv.com/live/eds_c2/mtv_espana/dash_live_enc/mtv_espana.mpd
 
 #EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC FHD" tvg-logo="http://astrill.today:80/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsT2ioIW55P-X8sXhaNTyRNh91IaMhdXrTO2Tg5pW1GXw.png" group-title="TeleZap España",AMC España 
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321102.ts
