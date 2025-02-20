@@ -1,0 +1,58 @@
+[
+    {
+        "channel_name": "NBA TV",
+        "mpd_url": "https://cdn3.wowza.com/1/SHhPQU92NVV6SFFX/bVR1ZWk0/dash/live/manifest.mpd",
+        "key": "94dd7b1a45ba956694603c3d0523677e:d513731fe88f4e3871494feaa92bdc82",
+        "kid": null,
+        "country": "PT"
+    },
+    {
+        "channel_name": "Sport TV +",
+        "mpd_url": "https://cdn3.wowza.com/1/SHdwNU4rUVZ6Y1d3/WUJieTNz/dash/live/manifest.mpd",
+        "key": "94dd7b1a45ba956694603c3d0523677e:d513731fe88f4e3871494feaa92bdc82",
+        "kid": null,
+        "country": "PT"
+    },
+    {
+        "channel_name": "Sport TV 1",
+        "mpd_url": "https://cdn3.wowza.com/1/UmRJTkFqcDlQVlNn/ZW5ZWDdN/dash/live/manifest.mpd",
+        "key": "94dd7b1a45ba956694603c3d0523677e:d513731fe88f4e3871494feaa92bdc82",
+        "kid": null,
+        "country": "PT"
+    },
+    {
+        "channel_name": "Sport TV 2",
+        "mpd_url": "https://cdn3.wowza.com/1/OHhXbHJYRkp2Yjk2/Sk5KYmFh/dash/live/manifest.mpd",
+        "key": "94dd7b1a45ba956694603c3d0523677e:d513731fe88f4e3871494feaa92bdc82",
+        "kid": null,
+        "country": "PT"
+    },
+    {
+        "channel_name": "Sport TV 3",
+        "mpd_url": "https://cdn3.wowza.com/1/ek1yY0NlQ3BLQ3Js/anoyd0wy/dash/live/manifest.mpd",
+        "key": "94dd7b1a45ba956694603c3d0523677e:d513731fe88f4e3871494feaa92bdc82",
+        "kid": null,
+        "country": "PT"
+    },
+    {
+        "channel_name": "Sport TV 4",
+        "mpd_url": "https://cdn3.wowza.com/1/NXUwUkNXWC84UFAv/OXhJZE5k/dash/live/manifest.mpd",
+        "key": "94dd7b1a45ba956694603c3d0523677e:d513731fe88f4e3871494feaa92bdc82",
+        "kid": null,
+        "country": "PT"
+    },
+    {
+        "channel_name": "Sport TV 5",
+        "mpd_url": "https://cdn3.wowza.com/1/Mm0yNUJTN3ZsK0RF/ZG5xL2tC/dash/live/manifest.mpd",
+        "key": "94dd7b1a45ba956694603c3d0523677e:d513731fe88f4e3871494feaa92bdc82",
+        "kid": null,
+        "country": "PT"
+    },
+    {
+        "channel_name": "Sport TV 6",
+        "mpd_url": "https://cdn3.wowza.com/1/YnZXLy9pU25PYjIx/d3NsbUVz/dash/live/manifest.mpd",
+        "key": "94dd7b1a45ba956694603c3d0523677e:d513731fe88f4e3871494feaa92bdc82",
+        "kid": null,
+        "country": "PT"
+    }
+]	
