@@ -23,7 +23,7 @@ http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.us" tvg-name="BBC_WORLD_NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="6" channel-number="6",BBC World News
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN_SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="7" channel-number="7",beIN Sports
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN_SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="7" channel-number="7",beIN Sports USA
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="8" channel-number="8",BET
@@ -53,7 +53,7 @@ http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="16" channel-number="16",Bounce
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="Bravo.us" tvg-name="BRAVO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="17" channel-number="17",Bravo
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="BRAVO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="17" channel-number="17",Bravo USA
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="18" channel-number="18",Cartoon Network
@@ -119,13 +119,13 @@ http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="38" channel-number="38",ESPN
 http://fl1.moveonjoy.com/ESPN/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2(src01).us" tvg-name="ESPN_2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="39" channel-number="39",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2(src01).us" tvg-name="ESPN_2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="39" channel-number="39",ESPN2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPN_NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="40" channel-number="40",ESPNews
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN_U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="41" channel-number="41",ESPN U
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN_U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="41" channel-number="41",ESPNU
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="FOOD_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="42" channel-number="42",Food Network
@@ -368,7 +368,7 @@ http://fl2.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1 East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="121" channel-number="121",VH1 East
 http://fl2.moveonjoy.com/VH1/index.m3u8
 
-#EXTINF:-1 tvg-id="Vice.us" tvg-name="Vice" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="122" channel-number="122",Vice
+#EXTINF:-1 tvg-id="Vice.us" tvg-name="Vice" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="122" channel-number="122",Vice TV
 http://fl2.moveonjoy.com/VICELAND/index.m3u8
 
 #EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="123" channel-number="123",Weather Channel
