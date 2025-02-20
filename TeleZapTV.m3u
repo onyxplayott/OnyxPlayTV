@@ -37,22 +37,17 @@ https://ott.zapitv.com/live/eds_c2/blaze/dash_live_enc/blaze.mpd
 #KODIPROP:inputstream.adaptive.license_key=ee3899fcba09e6de20355394106ca745:d84b6489ff8e5aeecde84a659c0617b8
 https://ott.zapitv.com/live/eds_c2/DARK_HD/dash_live_enc/DARK_HD.mpd
 
-#EXTINF:-1 tvg-id="BeMadTV" tvg-logo="" group-title="", BeMad
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3743a0f5f8633002477dbd91510d7794:53d6e6c17b95cab5109a6fea5fd077d
-https://ott.zapitv.com/live/eds_c2/bemad_hd/dash_live_enc/bemad_hd.mpd
-
-#EXTINF:-1 tvg-id="BoingES" tvg-logo="" group-title="", Boing TV Espana
+#EXTINF:-1 tvg-id="BoingES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/666px-Boing_2020.svg.png" group-title="TeleZap España", Boing TV España
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=97c3e5f52bf51efe706c221930bc2b5b:b9473af4e52eaa9c9def9f8a5c54333c
 https://ott.zapitv.com/live/eds_c2/boing/dash_live_enc/boing.mpd
 
-#EXTINF:-1 tvg-id="BOMCanal" tvg-logo="" group-title="", BOM TV
+#EXTINF:-1 tvg-id="BOMCine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1280px-Logo-bom.svg.png" group-title="TeleZap España", BOM Cine
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ac9b27e3ad295bdd734c7e39ac11c88:be3c7d023415988972512ccba3f14fe4
 https://ott.zapitv.com/live/eds_c2/bom/dash_live_enc/bom.mpd
 
-#EXTINF:-1 tvg-id="MTVES" tvg-logo="" group-title="", MTV Espana
+#EXTINF:-1 tvg-id="MTVES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png" group-title="TeleZap España", MTV España
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10f86eedfa603133e035c4c64226dd6b:1678761258b8a16d5d5b9241bd647536
 https://ott.zapitv.com/live/eds_c2/mtv_espana/dash_live_enc/mtv_espana.mpd
@@ -531,7 +526,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/15241/index.m3u8
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium437/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY CHANNEL ESP HD" tvg-logo="" group-title="TeleZap España", Discovery Channel España
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY CHANNEL ESP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1280px-2019_Discovery_logo.svg.png" group-title="TeleZap España", Discovery Channel España
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1026555.ts
 
 #EXTINF:-1 tvg-id="SELEKT" tvg-name="ES: SELECK FHD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments/AMC_SELEKT_ORANGE_WHITE_176x122.png" group-title="TeleZap España", AMC Selekt HD
@@ -555,22 +550,13 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/558672.ts
 #EXTINF:-1 tvg-id="Onetoro TV" tvg-name="ES: ONETORO TV SD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/70/c0/35/70c03548-8fed-714d-0dc8-2208e0115077/2e6bd842-f503-4cd4-93ef-ff25a598d86f_3840x2160bb.png/643x0w.jpg" group-title="TeleZap España | Onetoro PPV", Onetoro PPV SD
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/558673.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: TOROLE TV FHD" tvg-logo="https://www.netvoz.eu/wp-content/uploads/2021/11/torole.png" group-title="Telezap España | Onetoro PPV", TorolePPV TV FHD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/539876.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: TOROLE TV HD" tvg-logo="https://www.netvoz.eu/wp-content/uploads/2021/11/torole.png" group-title="TeleZap España | Onetoro PPV", TorolePPV TV HD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/539877.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: TOROLE TV SD" tvg-logo="https://www.netvoz.eu/wp-content/uploads/2021/11/torole.png" group-title="TeleZap España | Onetoro PPV", TorolePPV TV SD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/539878.ts
-
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D_428_1_C00000_0_0_0.png" group-title="TeleZap España | Toros PPV", Toros PPV FHD
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/70/c0/35/70c03548-8fed-714d-0dc8-2208e0115077/2e6bd842-f503-4cd4-" group-title="TeleZap España | Onetoro PPV", Onetoro Server 1
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321445.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: TOROS HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D_428_1_C00000_0_0_0.png" group-title="TeleZap España | Toros PPV", Toros PPV HD
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOROS HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/70/c0/35/70c03548-8fed-714d-0dc8-2208e0115077/2e6bd842-f503-4cd4-" group-title="TeleZap España | Onetoro PPV", Onetoro Server 2
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321446.ts
 
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_782D_428_1_C00000_0_0_0.png" group-title="TeleZap España | Toros PPV", Toros PPV SD
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS SD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/70/c0/35/70c03548-8fed-714d-0dc8-2208e0115077/2e6bd842-f503-4cd4-" group-title="TeleZap España | Onetoro PPV", Onetoro Server 3
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321449.ts
 
 #EXTM3U billed-msg="TeleZap España | Canal Televisión y Radio Las Gratis"
