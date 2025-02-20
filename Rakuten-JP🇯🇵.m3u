@@ -9,7 +9,7 @@ https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1da
 #EXTINF:-1 tvg-id="TokyoMX" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" group-title="Rakuten-JP", (108) TOKYO MX チャンネル
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="News2" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/109_kyodo.png" group-title="Rakuten-JP", (109) 共同通信 News
+#EXTINF:-1 tvg-id="News2" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/109_kyodo.png" group-title="Rakuten-JP", (109) 共同通信News
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="News3" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/111_oriconnews.png" group-title="Rakuten-JP", (111) オリコンニュース
@@ -111,7 +111,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakut
 #EXTINF:-1 tvg-id="Fishing" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/198_fishing.png" group-title="Rakuten-JP", (198) 釣り
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fishinghlscmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Shogi" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/205_shogi.png" group-title="Rakuten-JP", (205) 将棋 TV
+#EXTINF:-1 tvg-id="Shogi" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/205_shogi.png" group-title="Rakuten-JP", (205) 将棋TV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shogicmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A_Mahjong" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/206_mahjong.png" group-title="Rakuten-JP", (206) 麻雀 TV
@@ -150,7 +150,7 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakute
 #EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="Rakuten TV その他", 楽天TV (鉄道) // TRAIN & RAILWAY TV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
 
-#EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="Rakuten TV その他", 楽天TV (Ｒ-18映画) // R-15+ MOVIES
+#EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="Rakuten TV その他", 楽天TV (Ｒ-15+映画) // R-15+ MOVIES
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
 
 #EXTINF:-1 tvg-logo="https://www.xsozai.com/wp-content/uploads/2023/02/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4.png" group-title="Rakuten TV その他", 楽天TV (ストロング) // SHIGEKI STRONG TV
