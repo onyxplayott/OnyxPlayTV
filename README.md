@@ -141,30 +141,6 @@ https://bit.ly/3EqSXx3
 
 
 
-⚔️🚀 ᴜɴᴅᴇʀ ᴘᴀɴɢʟɪᴍᴀ ᴛᴠ ʙʀᴀɴᴅꜱ 🚀⚔️:
-          🔻  🔻  🔻
-
-
-🔴🟢🄿🄻🅄🅃🄾🅃🅅 🅄🅂🄰 ✓🟢🔴:
-https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/PANGLIMATV_PLUTOTVUSA.m3u
-
-🔴🟢AKTV HONG KONG (🅐🅚🅣🅥 🅗🅞🅝🅖 🅚🅞🅝🅖) ✓🟢🔴:
-https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/PANGLIMATV_AKTVHONGKONG.m3u
-
-
-
-🟢🔴 🄼🄾🅅🄴🄾🄽🄹🄾🅈🅃🅅 🅄🅂🄰 ✓🔴🟢:
-https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/PANGLIMATV_%20MOVEONJOYUSA.m3u
-
-
-
-
-
-🟢🔴 ＥＣＣＨＩ ＺＯＮＥ 🔞 (𝓕𝓻𝓮𝓪𝓴𝔂 𝓗𝓸𝓽 𝓒𝓱𝓪𝓷𝓷𝓮𝓵𝓼 🍑🔞):
-https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/TestChannel999.txt (links will be changed anytime)
-
-
-
 
 
 ***Will be updated more channels soon on our platform***.  
