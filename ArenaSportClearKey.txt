@@ -233,6 +233,26 @@ Link : https://aka-live1-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd
 
 Clearkey : dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1
 
+# GO3 SPORT NETWORK #
+
+GO3 Sport 1 🇱🇹
+key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
+
+URL
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
+
+GO3 Sport 2 🇱🇹
+key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
+
+URL
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
+
+GO3 Sport 3 🇱🇹
+
+key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
+
+URL: https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
+
 # SAMPLE CLEARKEY #
 
 # ARENA SPORT 1X2 #
