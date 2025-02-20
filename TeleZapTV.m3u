@@ -52,6 +52,21 @@ https://ott.zapitv.com/live/eds_c2/bom/dash_live_enc/bom.mpd
 #KODIPROP:inputstream.adaptive.license_key=10f86eedfa603133e035c4c64226dd6b:1678761258b8a16d5d5b9241bd647536
 https://ott.zapitv.com/live/eds_c2/mtv_espana/dash_live_enc/mtv_espana.mpd
 
+#EXTINF:-1 tvg-id="Antena3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1280px-Antena_3_2025_%28sin_wordmark%29.svg.png" group-title="TeleZap España", Antena3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffec3dec40cb61a45e969c84977615ef:c6fbbe1e506a4323d3046b30731c9d52
+https://ott.zapitv.com/live/eds_c2/antena_3/dash_live_enc/antena_3.mpd
+
+#EXTINF:-1 tvg-id="CanalCocinaTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2TByI147Rz4E5igVIpf3oEMBDLRhu92q3zw&s" group-title="TeleZap España", Canal Cocina
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1622e41b898458f889c697b0de3d1f0:7ad1ffd9308b35d961a6dae3c596fa57
+https://ott.zapitv.com/live/eds_c2/cocina_hd/dash_live_enc/cocina_hd.mpd
+
+#EXTINF:-1 tvg-id="DecasaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Decasa.png/280px-Decasa.png" group-title="TeleZap España", Decasa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0909d9aaca5c6e6a0f1a4ad8e4459f65:eef835f4d956c3e0a794879e7dbe5bdd
+https://ott.zapitv.com/live/eds_c2/decasa_hd/dash_live_enc/decasa_hd.mpd
+
 #EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC FHD" tvg-logo="http://astrill.today:80/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsT2ioIW55P-X8sXhaNTyRNh91IaMhdXrTO2Tg5pW1GXw.png" group-title="TeleZap España",AMC España 
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321102.ts
 
@@ -558,5 +573,11 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321446.ts
 
 #EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS SD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/70/c0/35/70c03548-8fed-714d-0dc8-2208e0115077/2e6bd842-f503-4cd4-" group-title="TeleZap España | Onetoro PPV", Onetoro Server 3
 http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321449.ts
+
+#EXTINF:-1, tvg-id="UbeatTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ubeat.png/370px-Ubeat.png" group-title="TeleZap España", Ubeat TV (OrangeTV Test)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"da855e2e9b88e371b2ac68f85b956069", "kid":"26325828369c0f651b1d028031671678" } ], "type":"temporary" }
+https://live13-dash.cdns.cdn.orangetv.orange.es/DajabX9W9XmpNZp_NvDMCQ/1685097494/85849807/112457707/2030/cmaf/r13_ubeat/dash
 
 #EXTM3U billed-msg="TeleZap España | Canal Televisión y Radio Las Gratis"
