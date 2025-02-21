@@ -581,4 +581,12 @@ http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321449.ts
 #KODIPROP:inputstream.adaptive.license_key=c665d716114f89d3162d0337be3a66d4:fb5d7ee6db86bb87b0312861b8252582
 https://ott.zapitv.com/live/eds_c2/torole/dash_live_enc/torole.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56ddc01aebb4bd0bedb0762be969ff87:3eaa3e0e5c394792742f05d57baf6ccd
+#EXTINF:-1 tvg-id="1" tvg-name="PTVGRANADA" group-title="", PTV GRANADA
+https://ott.zapitv.com/live/eds_c2/PTV_GRANADA/dash_live_enc/PTV_GRANADA.mpd
+
+
 #EXTM3U billed-msg="TeleZap España | Canal Televisión y Radio Las Gratis"
