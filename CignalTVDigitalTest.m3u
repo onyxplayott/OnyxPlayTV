@@ -1,3 +1,5 @@
+~ CIGNAL TV PHILIPPINES FREE CHANNELS ~
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="A2ZTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/A2Z_Channel_11_Logo.png/250px-A2Z_Channel_11_Logo.png" group-title="Cignal TV Digital", A2Z
@@ -23,3 +25,51 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/asianfoodnetwork_sd.mpd
+
+#EXTINF:-1 tvg-id="AXNAsia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/440px-AXN_logo_%282015%29.svg.png" group-title="Cignal TV Pay Channels", AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca405251d455a6bed5bec5255b419956:df1c2bae3f7b16a8e7f27889c97e1af1
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227829/3221227829.mpd?rrsip=centerrrs.hypp.tv\u0026zoneoffset=0\u0026servicetype=1\u0026icpid=\u0026accounttype=1\u0026limitflux=-1\u0026limitdur=-1\u0026accountinfo=qD%2FGhg01YduJJVCux%2B5ixOdqyhNG6XnnSSB2s%2F7IFsw0fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84xG01Xrjw7HwPLVHRrvE6eOvL9YVFD9qpq6TlsVF3Gl%2Bl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230706074502%3AUTC%2C1004320541%2C14.1.254.193%2C20230706074502%2Curn:Huawei:liveTV:XTV51882833%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND\u0026GuardEncType=2\u0026tenantId=6003\u0026from=5\u0026ocs=2_1.9.62.167_80\u0026mount=1000002\u0026targetdev=1798\u0026hms_devid=1798,1785\u0026mag_hms=1785,1792,1788,1789\u0026it=H4sIAAAAAAAAAzXMQQvCIBiA4X_jUdS5tu_gqRh0kWDVNT71SwTbSNegfx-Lur_PuxT0dDwYKcDrIHqkoHXreoDOO4AGQydb0JJVetrZaOYx5zRFO4eNXcf9TQouuFKSyx07b7shYzTqW9rXw1ExzZ-NVNbkyYR65ytWjjEWirikeeKnjO9Lyb_kAwth6vyZAAAA
+
+#EXTINF:-1 tvg-id="BBCEarth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/440px-BBC_Earth_2023.svg.png" group-title="Cignal TV Pay Channels", BBC Earth
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
+
+#EXTINF:-1 tvg-id="BBCLifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/440px-BBC_Lifestyle2.svg.png" group-title="Cignal TV Pay Channels", BBC Lifestyle
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_bbclifestyle.mpd
+
+#EXTINF:-1 tvg-id="BukoHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/BuKo_Buhay_Komedya_Logo.jpg" group-title="Cignal TV In-House Channels", BuKo (Buhay Komedya TV)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
+
+#EXTINF:-1 tvg-id="CartoonNetworkPH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/420px-Cartoon_Network_2010_logo.svg.png" group-title="Cignal TV Pay Channels", Cartoon Network Philippines
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
+
+#EXTINF:-1 tvg-id="CelestialMoviesPinoy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPiA77bM30iZQXBklES60riVPG92eMtKv2Fw&s" group-title="Cignal TV Pay Channels", Celestial Movies Pinoy
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f8537d8412b11edb8780242ac120002:2ffd7230416150fd5196fd7ea71c36f3
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/celmovie_pinoy_sd.mpd
+
+#EXTINF:-1 tvg-id="CinemaxPH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Cignal TV Pay Channels", Cinemax 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryAsia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png" group-title="Cignal TV Pay Channels", Discovery Asia
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f853094412b11edb8780242ac120002:ad4ab1f92374716338bc955663d3d902
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_discoveryasia.mpd
