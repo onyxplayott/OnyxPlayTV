@@ -23,18 +23,6 @@ http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 http://125.227.210.55:8156/VideoInput/play.ts
 #EXTINF:-1 tvg-id="香蕉臺" tvg-name="bananachannel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZACIR8G7KOn2hc4GCCTNdbm9jkA2Gbtdt4g&usqp=CAU", BananaChannel 🍌
 http://125.227.210.55:8159/VideoInput/play.ts
-#EXTINF:-1 tvg-id="Rainbow" tvg-name="彩虹频道" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Rainbow.png" group-title="🔞禁🔞",彩虹频道
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
-#EXTINF:-1 tvg-id="Rainbow_E" tvg-name="彩虹e台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Rainbow_E.png" group-title="🔞禁🔞",彩虹e台
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
-#EXTINF:-1 tvg-id="Rainbow_Movie" tvg-name="彩虹电影台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Rainbow_Movie.png" group-title="🔞禁🔞",彩虹电影台
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
-#EXTINF:-1 tvg-id="K_Channel" tvg-name="K频道" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/K.png" group-title="🔞禁🔞",K频道
-https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/video/K_channel.mp4
-#EXTINF:-1 tvg-id="Pandora_Perfect" tvg-name="潘朵啦玩美台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Pandora_Perfect.png" group-title="🔞禁🔞",潘朵啦玩美台
-http://18.svi-studio.com/live/908957700097/132663288386/3.m3u8
-#EXTINF:-1 tvg-id="Pandora_Pink" tvg-name="潘朵啦粉红台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Pandora_Pink.png" group-title="🔞禁🔞",潘朵啦粉红台
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
 #EXTINF:-1 tvg-id="Amazing" tvg-name="惊艳成人电影台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Amazing_TV.png" group-title="🔞禁🔞",惊艳成人电影台
 http://18.svi-studio.com/live/908957700097/132663288386/1.m3u8
 #EXTINF:-1 tvg-id="Banana" tvg-name="香蕉台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Banana_TV.png" group-title="🔞禁🔞",香蕉台
@@ -46,8 +34,6 @@ http://18.svi-studio.com/live/908957700097/132663288386/6.m3u8
 #EXTINF:-1 tvg-id="SSTV3" tvg-name="松视3台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/SSTV3.png" group-title="🔞禁🔞",松视3台
 http://18.svi-studio.com/live/908957700097/132663288386/20205.m3u8
 #EXTINF:-1 tvg-id="SSTV4" tvg-name="松视4台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/SSTV4.png" group-title="🔞禁🔞",松视4台
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
-#EXTINF:-1 tvg-id="JStar" tvg-name="JStar极限台电影频道" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/JStar.png" group-title="🔞禁🔞",JStar极限台电影频道
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
 ================>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<=================================================================================================================================================================
 
