@@ -33,3 +33,20 @@
            "drm": "clearkey", 
            "drmkey": ""
  }, 
+{        
+  "name": "TBA", 
+  "category": "To Be Announced",
+  "info": { 
+           "poster": "", 
+           "bg": "", 
+           "plot": "", 
+           "backdrop": "", 
+           "director": [""], 
+           "cast": [""],
+           "trailer": "",
+           "year": ""
+            }, 
+           "video": "", 
+           "drm": "clearkey", 
+           "drmkey": ""
+ }, 
