@@ -2,5 +2,5 @@
 #EXTINF:-1 tvg-id="A2ZTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/A2Z_Channel_11_Logo.png/250px-A2Z_Channel_11_Logo.png" group-title="Cignal Digital", A2Z
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530", "kid":"f703e4c8ec9041eeb5028ab4248fa094" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f703e4c8ec9041eeb5028ab4248fa094", "kid":"f703e4c8ec9041eeb5028ab4248fa094" } ], "type":"temporary" }
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
