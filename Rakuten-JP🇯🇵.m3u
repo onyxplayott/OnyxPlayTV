@@ -126,12 +126,6 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-wptenglishsubfee
 #EXTINF:-1 tvg-id="NagoyaTVNext" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/218_entermeitele.png" group-title="Rakuten-JP", (218) エンタメ～テレDEEP
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A_JapaneseMusic" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/227_musicjapan.png" group-title="Rakuten-JP", (226) Music Japan
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-goraku-cmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="A_GlobalMusic" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/229_musicglobal.png" group-title="Rakuten-JP", (230) Music Global
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-musicglobal-cmaf-rakutenjp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="A_Enka" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/232_enka.png" group-title="Rakuten-JP", (233) 演歌・歌謡
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-enka-cmaf-rakutenjp/playlist.m3u8
 
