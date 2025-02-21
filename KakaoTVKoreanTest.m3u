@@ -5,9 +5,10 @@
 #EXTVLCOPT:http-header=Origin: https://kakotv.com
 #EXTVLCOPT:http-referrer=https://kakotv.com
 https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=PblIb3m2T4yezxGJjXZyHT4OBveX2x14ZfsWNzT6&secret=7123ee7ebfa5269848adbd93d9d648c2&time=1736774841
+
+Alternative Links 🔗:
 https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kbs_n_sports_540&sid=kdESHN1uRKkadwboLN1ncVQcs7oiEhamRTJn1Myg&secret=e8923b03f11dd056ab90598c05da2785&time=1737445457
 https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kbs_n_sports_540&sid=ddh6Oh2rHCB4e3PqeAA710xIv1dOBFCQJRd1tDlO&secret=b535bad8cc7a9ae63870432b992ef8a1&time=1737593032
-https://iili.io/2iyfOdB.png
 
 #EXTINF:-1 tvg-id="SkySports.kr" tvg-name="SkySports.kr" tvg-logo="https://i.imgur.com/tdmsXvp.png" group-title="🇰🇷 KAKOTV" group-logo="", Sky Sports ᵏᵃᵏᵒ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
