@@ -297,3 +297,14 @@ https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=jei_jenung_540&sid=hA
 #EXTVLCOPT:http-referrer=https://kakotv.com
 https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=child_care_540&sid=5BKPNNTbcVjlMLleqwTcHJmeQq9N1xbw2usAoWoA&secret=4e4959b5bc90599731ab33a94395b79f&time=1737599172
 
+#EXTINF:-1 tvg-id="64864" tvg-name="íƒ€ìš”TV" tvg-logo="https://i.imgur.com/lq5vk3N.png" group-title=" 🇰🇷 KAKOTV" group-logo="https://iili.io/2iyfOdB.png", TAYO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Origin: https://kakotv.com
+#EXTVLCOPT:http-referrer=https://kakotv.com
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=disney_channel_540&sid=hCTSLb05Qte4mHK0dtdEo3DQ1oxK6ZnvEx7c1dYa&secret=d137d8535d30929a3a01350b1c6a349c&time=1737599227
+
+#EXTINF:-1 tvg-id="KBS Kids.kr" tvg-name="KBS Kids.kr" tvg-logo="https://i.imgur.com/Dl7Tv48.png" group-title="🇰🇷 KAKOTV" group-logo="https://iili.io/2iyfOdB.png", KBS Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Origin: https://kakotv.com
+#EXTVLCOPT:http-referrer=https://kakotv.com
+https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kbs_kids_540&sid=kQLFiyaYP2kZtm2l3X0wXk8WetxQ5RBhRHwHOijO&secret=23dd7978bbc22ec734b3bbc4f7e3eca3&time=1737599268
