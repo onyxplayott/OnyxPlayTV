@@ -279,10 +279,6 @@ http://myserver.myphuket.net:25461/test2/test2/26
 http://myserver.myphuket.net:25461/test2/test2/27
 #EXTINF:-1  tvg-logo="https://truevisions.co.th/static/1c11f698-75a0-449d-8a79-6a52be569911.png" group-title="True Sport Pack", True SPORT PREMIER LEAGUE 3
 http://myserver.myphuket.net:25461/test2/test2/28
-#EXTINF:-1  tvg-logo="https://truevisions.co.th/static/1be50729-1560-4f16-88a8-6ac653afe8e1.png" group-title="True Sport Pack", True SPORT PREMIER LEAGUE 4
-https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://truevisions.co.th/static/133a8160-6e09-4c7f-80e4-39a45f296d00.png" group-title="True Sport Pack", True SPORT PREMIER LEAGUE 5
-https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-name="Cosmote Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="CosmoteTV Sport Pack", Cosmote Sport 1 HD
 https://webhdrunns.mizhls.ru/lb/premium622/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="Cosmote Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="CosmoteTV Sport Pack", Cosmote Sport 2 HD
