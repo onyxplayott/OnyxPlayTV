@@ -1,7 +1,6 @@
 ~ CIGNAL TV PHILIPPINES FREE CHANNELS ~
 
 #EXTM3U
-
 #EXTINF:-1 tvg-id="A2ZHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/A2Z_Channel_11_Logo.png/250px-A2Z_Channel_11_Logo.png" group-title="Cignal TV Digital Channels", A2Z
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -173,3 +172,14 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd
 #KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cignal TV In-House Channels", MPTV HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", (Name Channel)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+(Link)
