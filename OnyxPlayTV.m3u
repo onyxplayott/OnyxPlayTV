@@ -844,11 +844,11 @@ http://103.165.207.118:9088/play/a006/index.m3u8
 ========================================================
 #EXTINF:-1 tvg-id="EroxTV" tvg-name="EroxTV" group-title="Hot Channels 🔞" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/5d/Erox_HD_2.png/revision/latest?cb=20150605110106&path-prefix=ru", Erox
 http://178.219.128.68:64888/EROXHD
-#EXTINF:-1 tvg-id="songshi1" tvg-name="songtv1adult" tvg-logo="https://newsdragon-prod.s3.ap-northeast-1.amazonaws.com/channelMedia/519d83f36eecc0c2d22e7e9bd2aa6257.JPG__1___SSTV1.JPG" group-title="Hot Channels 🔞", SSTV 1 JAPAN MOVIES (松視1台)
+#EXTINF:-1 tvg-id="songshi1" tvg-name="songtv1adult" tvg-logo="https://newsdragon-prod.s3.ap-northeast-1.amazonaws.com/channelMedia/519d83f36eecc0c2d22e7e9bd2aa6257.JPG__1___SSTV1.JPG" group-title="Hot Channels 🔞", SSTV 1 (松視1台)
 http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
-#EXTINF:-1 tvg-id="songshi2" tvg-name="songtv2adult" tvg-logo="https://newsdragon-prod.s3.ap-northeast-1.amazonaws.com/channelMedia/c9101b1ec1046f558239f9e852bd62561.JPG__1___SSTV2.JPG" group-title="Hot Channels 🔞", SSTV 2 FOREIGN MOVIES (松視2台)
+#EXTINF:-1 tvg-id="songshi2" tvg-name="songtv2adult" tvg-logo="https://newsdragon-prod.s3.ap-northeast-1.amazonaws.com/channelMedia/c9101b1ec1046f558239f9e852bd62561.JPG__1___SSTV2.JPG" group-title="Hot Channels 🔞", SSTV 2 (松視2台)
 http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
-#EXTINF:-1 tvg-id="songshi3" tvg-name="songtv3adult" tvg-logo="https://newsdragon-prod.s3.ap-northeast-1.amazonaws.com/channelMedia/6ce7534e2678aa89b7797b31ffa13593.JPG__1___SSTV3.JPG" group-title="Hot Channels 🔞", SSTV 3 JAPAN & LOCAL MOVIES (松視3台)
+#EXTINF:-1 tvg-id="songshi3" tvg-name="songtv3adult" tvg-logo="https://newsdragon-prod.s3.ap-northeast-1.amazonaws.com/channelMedia/6ce7534e2678aa89b7797b31ffa13593.JPG__1___SSTV3.JPG" group-title="Hot Channels 🔞", SSTV 3 (松視3台)
 http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 #EXTINF:-1 tvg-id="潘多拉完美" tvg-name="pandoraperfectavhd" tvg-logo="https://newsdragon-prod.s3.ap-northeast-1.amazonaws.com/channelMedia/c3f10309c32358763097c10d081a1d4767.JPG__1___Perfect.JPG" group-title="Hot Channels 🔞", Pandora Perfect TV
 http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
@@ -860,18 +860,6 @@ http://125.227.210.55:8156/VideoInput/play.ts
 http://45.5.117.182:8000/play/a0gf/index.m3u8
 #EXTINF:-1 cuid="1349" tvg-chno="1349" tvg-name="Bunga Bunga" tvg-logo="https://images-platform.99static.com/D4R81P5IldYWdGTvK4CaAv5iki8=/500x500/top/smart/99designs-contests-attachments/49/49642/attachment_49642111" group-title="Hot Channels 🔞", Bunga Bunga
 http://62.210.123.134:98/live/an75d/75d/98.ts
-#EXTINF:-1 tvg-id="Rainbow" tvg-name="彩虹频道" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Rainbow.png" group-title="Hot Channels 🔞", 彩虹频道 // Rainbow TV
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
-#EXTINF:-1 tvg-id="Rainbow_E" tvg-name="彩虹e台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Rainbow_E.png" group-title="Hot Channels 🔞", 彩虹e台 // Rainbow eChannel
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
-#EXTINF:-1 tvg-id="Rainbow_Movie" tvg-name="彩虹电影台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Rainbow_Movie.png" group-title="Hot Channels 🔞", 彩虹电影台 // RainbowMovies
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
-#EXTINF:-1 tvg-id="K_Channel" tvg-name="K频道" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/K.png" group-title="Hot Channels 🔞", K频道 // KChannel
-https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/video/K_channel.mp4
-#EXTINF:-1 tvg-id="Pandora_Perfect" tvg-name="潘朵啦玩美台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Pandora_Perfect.png" group-title="Hot Channels 🔞", 潘朵啦玩美台 // Pandora Perfect
-http://18.svi-studio.com/live/908957700097/132663288386/3.m3u8
-#EXTINF:-1 tvg-id="Pandora_Pink" tvg-name="潘朵啦粉红台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Pandora_Pink.png" group-title="Hot Channels 🔞", 潘朵啦粉红台 // Pandora Pink
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
 #EXTINF:-1 tvg-id="Amazing" tvg-name="惊艳成人电影台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Amazing_TV.png" group-title="Hot Channels 🔞", 惊艳成人电影台 // AmazingTV
 http://18.svi-studio.com/live/908957700097/132663288386/1.m3u8
 #EXTINF:-1 tvg-id="Banana" tvg-name="香蕉台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Banana_TV.png" group-title="Hot Channels 🔞", 香蕉台 // Banana Channel
@@ -886,8 +874,6 @@ http://18.svi-studio.com/live/908957700097/132663288386/20205.m3u8
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
 #EXTINF:-1 group-title="Hot Channels 🔞" tvg-id="Pigoo.jp" tvg-logo="https://www.eiseihoso.org/images/channellogo/p663.gif", アイドル専門チャンネル Pigoo // PigooTV Idol (Test Broadcast)
 http://luong.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 tvg-id="JStar" tvg-name="JStar极限台电影频道" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/JStar.png" group-title="Hot Channels 🔞", JStar 极限台电影频道 // J-STAR TV
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
 ========================================================
 #EXTINF:-1 tvg-id="TRUE X-Zyte" tvg-name="True X-Zyte" tvg-logo="http://tvsmagazine.com/images/channels/sm_034.jpg" group-title="THAILAND TV (Truevisions TH)", True X-Zyte 
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truexzyte.m3u8
@@ -918,10 +904,41 @@ https://edge2a.v2h-cdn.com/boom_anime/boom_anime.stream/playlist.m3u8
 ========================================================
                         # RESERVED SPACE #
 ========================================================
-#EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="myTV SUPER TVB (LIVE EVENT)", myTV SUPER CH18 (Horse Racing 🐎)
+#EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="TVB Hong Kong", myTV SUPER CH18 (Horse Racing 🐎)
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1 tvg-id="myTV-28-AI" tvg-name="myTV SUPER 28 AI 智慧賽馬" tvg-logo="https://assets.livednow.com/logo/myTV-28-AI.png" group-title="myTV SUPER TVB (LIVE EVENT)", myTV SUPER 28AI (Horse Racing 🐎)
+
+#EXTINF:-1 tvg-id="myTV-28-AI" tvg-name="myTV SUPER 28 AI 智慧賽馬" tvg-logo="https://assets.livednow.com/logo/myTV-28-AI.png" group-title="TVB Hong Kong", myTV SUPER 28AI (Horse Racing 🐎)
 http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="TVB Hong Kong", TVB 翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
+https://pixmanxo.mytvsuper.com.mp/mytvsuper/J
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台 4K" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="TVB Hong Kong", TVB 翡翠台 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
+https://pixmanxo.mytvsuper.com.mp/mytvsuper/JUHD
+
+#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="TVB Hong Kong", TVB Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
+https://pixmanxo.mytvsuper.com.mp/mytvsuper/B
+
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="TVB Hong Kong", TVB 無線新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
+https://pixmanxo.mytvsuper.com.mp/mytvsuper/C
+
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="TVB Hong Kong", TVB 明珠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
+https://pixmanxo.mytvsuper.com.mp/mytvsuper/P
 ======================================================
 #EXTINF:-1 tvg-id="643.unifi" tvg-logo="https://iili.io/Jhks7wu.png" group-title="BERITA ANTARABANGSA", NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
