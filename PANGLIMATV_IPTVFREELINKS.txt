@@ -16,3 +16,14 @@ https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-
 ⚔️📺🇯🇵 FREE STREAMING TV JAPAN INCLUDING GR, BS & CS CHANNELS 🇯🇵📺⚔️ (TVBOX-JP):
 http://tvbox.anondns.net/mobile/ (free to watch & without pay it for any subscription)
 
+⚔️📺📡 🇵🇭 CIGNAL TV FREE CHANNELS 🇵🇭📡 ⚔️:
+https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/CignalTVDigitalTest.m3u (Links will be changed)
+
+⚔️📡🇰🇷 KAKAOTV KOREAN FREE & PREMIUM CHANNELS 📡🇰🇷⚔️:
+https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/KakaoTVKoreanTest.m3u (Links will be changed)
+
+⚔️📡📺 DADDYLIVE HD WORLD TV PREMIUM 📡📺⚔️:
+https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/DaddyLiveHDBackup.m3u (Links will be changed)
+
+⚔️📡🔞 DADDYLIVE HD WORLD HOT STATION (NSFW 🔞) 📡⚔️:
+https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/DaddyLive_HotStation18%2B.m3u (Links will be changed)
