@@ -192,6 +192,12 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227593/3221227593.mpd?rrsip=web.hy
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5179/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroWarnaSG" tvg-name="AstroWarnaSG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_Warna_%28Dec_2024%29.png/revision/latest/scale-to-width-down/250?cb=20241125072155" group-title="Saluran Percubaan (Test Channel)", Astro Warna SG (Test)
 https://haoyunlai.serv00.net/Smartv-1.php?id=Warna-O
+#EXTINF:-1 tvg-id="NuArt" tvg-name="NuArtTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNYfYM_BJH2RZ-86hhKwCLLhvz2CJmVM3LAA&s" group-title="Saluran Percubaan (Test Channel), NuArt TV (Test)
+http://kunkun77.wanicelife.com:8880/6mk140000/87667788/33123
+#EXTINF:-1 tvg-id="CitraENT" tvg-name="CitraENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2GySzndM_klFrJ3sF1YJLcYffGZVkgJ_Bw&s" group-title="Saluran Percubaan (Test Channel)", Citra Entertainment (Test)
+https://ucdn.starhubgo.com/bpk-tv/CitraEntertainment/output/mainfest.mpd
+#EXTINF:-1 tvg-id="Kino1UKR" tvg-name="Kino1UA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kino_1_logo.png/400px-Kino_1_logo.png" group-title="Saluran Percubaan (Test Channel)", Kino 1 Ukraine
+https://tr.live.cdn.cgates.lt/live/dash/561601/index.mpd
 #EXTINF:-1, tvg-id="緯來日本" tvg-name="VideolandTVJapan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcz3lkrP9cFSTR86qc2PwNa8XvT9Suvc93Qg&s" group-title="Taiwan Premium Channel", Videoland Japan
 https://haoyunlai.serv00.net/Smartv-1.php?id=videolandjapan
 #EXTINF:-1 tvg-id="BeautifulLifeTV.tw" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live008_mobile.png" group-title="Taiwan Premium Channel", Beautiful Life TV (BLTV)
