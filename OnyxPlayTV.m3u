@@ -1,4 +1,5 @@
 ✌️ 𝑭𝒓𝒆𝒆𝒎𝒊𝒖𝒎 & 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 𝒃𝒚 𝑶𝒏𝒚𝒙𝑷𝒍𝒂𝒚𝑶𝑻𝑻 𝑻V ✌️
+
 ✌️ 𝑭𝒓𝒆𝒆𝒎𝒊𝒖𝒎 & 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 𝒃𝒚 𝑶𝒏𝒚𝒙𝑷𝒍𝒂𝒚𝑶𝑻𝑻 𝑻V ✌️
 
 (●) ::::::::: RE~STR3AM :::::::::::: (●)
@@ -27,9 +28,6 @@
                    👇
                    👇
                    👇
-
-
-
 ========================================================
 ℹ️ INFORMATION 𝑶𝒏𝒚𝒙𝑷𝒍𝒂𝒚𝑶𝑻𝑻 𝑻V ℹ️
 # (●) Service: Freemium & Premium Only
@@ -49,11 +47,11 @@ https://fl2.moveonjoy.com/HBO/index.m3u8
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde17bf6591d0009839e02" tvg-id="5dcde17bf6591d0009839e02" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" tvg-chno="1251" group-title="Japan TV (Anime Zone)" , Pluto TV Anime Español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Pbo.ph" tvg-logo="https://iili.io/2G9xVP2.png" group-title="CINEMA PINOY 🎬", PBO
+#EXTINF:-1 tvg-id="Pbo.ph" tvg-logo="https://iili.io/2G9xVP2.png" group-title="CINEMA PINOY 🎬", PBO (CignalTV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
-#EXTINF:-1 tvg-id="Viva.ph" tvg-logo="https://iili.io/2G9Tn99.png" group-title="CINEMA PINOY 🎬", VIVACINEMA TV
+#EXTINF:-1 tvg-id="Viva.ph" tvg-logo="https://iili.io/2G9Tn99.png" group-title="CINEMA PINOY 🎬", VIVACINEMA (CignalTV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
@@ -61,9 +59,9 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 tvg-id="KBS2" tvg-logo="https://iili.io/JmoiKSn.png" group-title="KOREAN PREMIUM", KBS 2
 http://mytv.dothome.co.kr/ch/public/3.php
-#EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="KOREAN PREMIUM", SBS Korea
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="KOREAN PREMIUM", SBSTV
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC" tvg-logo="https://iili.io/Jmoi3Ft.png" group-title="KOREAN PREMIUM", MBC Korea
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://iili.io/Jmoi3Ft.png" group-title="KOREAN PREMIUM", MBCTV
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="JTBC" tvg-logo="https://iili.io/2UfPhb9.png" group-title="KOREAN PREMIUM", JTBC 1
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=5MY50EII66
@@ -75,7 +73,7 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00551&
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 tvg-name="KR: OCN KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/OCN_logo.jpg" group-title="KOREAN PREMIUM", OCN
 http://iptv12k.com:35461/654321/123456/3223
-#EXTINF:-1 tvg-name="KR: OCN movies KR" tvg-logo="https://pbs.twimg.com/media/EOdyIaPU8AA_GZG.jpg" group-title="KOREAN PREMIUM", OCN movies
+#EXTINF:-1 tvg-name="KR: OCN movies KR" tvg-logo="https://pbs.twimg.com/media/EOdyIaPU8AA_GZG.jpg" group-title="KOREAN PREMIUM", OCNMovies
 http://iptv12k.com:35461/654321/123456/3222
 #EXTINF:-1 tvg-name="KR: CHANNEL A KR" tvg-logo="http://www.mediatoday.co.kr/news/photo/201905/148294_229174_2317.jpg" group-title="KOREAN PREMIUM", CHANNEL A
 http://iptv12k.com:35461/654321/123456/3226
@@ -105,7 +103,7 @@ http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9bc202de2b177ff5bb64dacb0ab3fd8d:d71b81338f16bf009608665b08a49197
 https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
-#EXTINF:0 tvg-id="TJBTV.kr" ch-number=" " tvg-name="SBSTJB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="KOREAN PREMIUM", TJB~SBS
+#EXTINF:0 tvg-id="TJBTV.kr" ch-number=" " tvg-name="SBSTJB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="KOREAN PREMIUM", SBS-TJB
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 tvg-name="INET KR" tvg-logo="https://internetbanking.com.vn/wp-content/uploads/2019/12/inet.png" group-title="KOREAN PREMIUM", iNet TV
 http://iptv12k.com:35461/654321/123456/3225
@@ -113,7 +111,7 @@ http://iptv12k.com:35461/654321/123456/3225
 http://iptv12k.com:35461/654321/123456/3205
 #EXTINF:-1 tvg-name="MBCDRAMAHD" tvg-logo="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2FxC8tauk2Y5mR88Mfy3TAwpRbBozyFNQFkdJrEojjwDVBs1498542930503compressflag.jpg&thumbnail=650x2147483647&quality=80&type=jpg" group-title="KOREAN PREMIUM", MBC DRAMA
 http://iptv12k.com:35461/654321/123456/3220
-#EXTINF:-1 tvg-name="KR: 연합뉴스TV" tvg-logo="http://image.sbs.co.kr/sbs/4n/favicon.png" group-title="KOREAN PREMIUM", Yonhap News TV
+#EXTINF:-1 tvg-name="KR: 연합뉴스TV" tvg-logo="http://image.sbs.co.kr/sbs/4n/favicon.png" group-title="KOREAN PREMIUM", Yonhap NewsTV
 http://iptv12k.com:35461/654321/123456/3209
 #EXTINF:-1 tvg-name="KR: SBS골프 KR" tvg-logo="https://blog.kakaocdn.net/dn/bYZCX2/btqDVU80MkK/inuPxMtGkulA0zC9p1gbs0/img.jpg" group-title="KOREAN PREMIUM", SBS GOLF
 http://iptv12k.com:35461/654321/123456/3206
