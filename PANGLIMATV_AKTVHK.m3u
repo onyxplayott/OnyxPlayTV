@@ -28,7 +28,7 @@ http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", TVBS (Maintenance)
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="无线新闻台(北美)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", 无线新闻台 (北美)
+#EXTINF:-1 tvg-name="无线新闻台(北美)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", 无线新闻台 (北美) [Maintenance]
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", 鳳凰資訊
