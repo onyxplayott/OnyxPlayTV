@@ -2,7 +2,7 @@
 
 
 
-![IPTV LOGO](https://logomakerr.ai/uploads/output/2024/01/01/8885530ec61808b14946e3e3e6755660.jpg?t=1704077405.png)
+![IPTV LOGO](https://pbs.twimg.com/profile_images/1731086760984166400/26vp6QJ2_400x400.jpg)
 
 
 
