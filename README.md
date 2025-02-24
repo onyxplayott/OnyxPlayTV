@@ -164,4 +164,4 @@ https://bit.ly/3EqSXx3
 
 
 
-***YOUR DIGITAL TV PARTNERS 📺📡📺📡***
+***YOUR DIGITAL IPTV PARTNERS 📺📡📺📡***
