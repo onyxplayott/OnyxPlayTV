@@ -105,43 +105,43 @@ https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=olivetv_540&sid=MXGjC
 
 #EXTINF:-1 tvg-id="BilliardsTV.kr" tvg-name="billiards tv" tvg-logo="https://i.imgur.com/54HojAU.png" group-title="🇰🇷 KAKOTV" group-logo="https://iili.io/2iyfOdB.png", Billiards TV 빌리어즈TV ᵏᵃᵏᵒ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin: https://kakotv.com
+#EXTVLCOPT:http-header=Origin:https://kakotv.com
 #EXTVLCOPT:http-referrer=https://kakotv.com/
 https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=billiardstv_540&sid=QFwxFJl7Pl3KuI4f48mzIx3d3Y4IyMYgkcxXHIto&secret=582766fba7e618f2e334a075514dfdee&time=1737592931
 
 #EXTINF:-1 tvg-id="KBS1.kr" tvg-name="KBS1.kr" tvg-logo="https://i.imgur.com/UD7cnwn.png" group-title="🇰🇷 KAKOTV" group-logo="https://iili.io/2iyfOdB.png", KBS 1 ᵏᵃᵏᵒ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin: https://kakotv.com
+#EXTVLCOPT:http-header=Origin:https://kakotv.com
 #EXTVLCOPT:http-referrer=https://kakotv.com/
 https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kbs1_540&sid=Pd4RevVmuiwalncXT1QLRmLdZ32GkRwhGv6Xl9kb&secret=312175118bd804fdf4d6515eecc49344&time=1737597707
 
 #EXTINF:-1 tvg-id="KBS2.kr" tvg-name="KBS2.kr" tvg-logo="https://i.imgur.com/FHSutVq.png" group-title="🇰🇷 KAKOTV" group-logo="https://iili.io/2iyfOdB.png", KBS 2 ᵏᵃᵏᵒ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin: https://kakotv.com
+#EXTVLCOPT:http-header=Origin:https://kakotv.com
 #EXTVLCOPT:http-referrer=https://kakotv.com/
 https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=kbs2_540&sid=9RNJo09pOMvLWl7QPxqagiNg6yOSUAmRD6I0pTGK&secret=eedb09fe6a47f85841a66c6f9e9af59a&time=1737597761
 
 #EXTINF:-1 tvg-id="MBC.kr" tvg-name="MBC.kr"" tvg-logo="https://i.imgur.com/Zvp0o8t.png" group-title="🇰🇷 KAKOTV" group-logo="https://iili.io/2iyfOdB.png", MBC ᵏᵃᵏᵒ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin: https://kakotv.com
+#EXTVLCOPT:http-header=Origin:https://kakotv.com
 #EXTVLCOPT:http-referrer=https://kakotv.com/
 https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=mbc_540&sid=df62l3le5uRbbL3J6gKnvQV66RbFfgS16THsnapp&secret=1968d39fa6d8d94b31583cc52599e760&time=1737597847
 
 #EXTINF:-1 tvg-id="SBS.kr" tvg-name="SBS.kr" tvg-logo="https://i.imgur.com/rmgxVzZ.png" group-title="🇰🇷 KAKOTV" group-logo="https://iili.io/2iyfOdB.png", SBS ᵏᵃᵏᵒ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin: https://kakotv.com
+#EXTVLCOPT:http-header=Origin:https://kakotv.com
 #EXTVLCOPT:http-referrer=https://kakotv.com/
 https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=sbs_540&sid=AUhHxjs0tCkOpVafaJpxfyL8ssti6hET8MerdhbV&secret=0b266496cc9e541a973d308b34a17fbd&time=1737597894
 
 #EXTINF:-1 tvg-id="JTBC.kr" tvg-name="JTBC.kr" tvg-logo="https://i.imgur.com/fCruRmS.png" group-title="🇰🇷 KAKOTV" group-logo="https://iili.io/2iyfOdB.png", JTBC ᵏᵃᵏᵒ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin: https://kakotv.com
+#EXTVLCOPT:http-header=Origin:https://kakotv.com
 #EXTVLCOPT:http-referrer=https://kakotv.com/
 https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=jtbc_540&sid=pnkF8AVkeOPbBjEKhP33WpnUrBOK31B24EBd1ofH&secret=f28a763fefeeb5edd8903b3131f516ef&time=1737597923
 
 #EXTINF:-1 tvg-id="TV조선.kr" tvg-name="TV조선.kr" tvg-logo="https://i.imgur.com/ndx7NxI.png" group-title="🇰🇷 KAKOTV" group-logo="https://iili.io/2iyfOdB.png", TV 조선 ᵏᵃᵏᵒ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin: https://kakotv.com
+#EXTVLCOPT:http-header=Origin:https://kakotv.com
 #EXTVLCOPT:http-referrer=https://kakotv.com/
 https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=tvchosun_540&sid=0fEY5hn4bjMXxaCCs5Uwtm7BBDvyh0HEDrts45ib&secret=9bdd81849bda3955a2754df0fe1a1994&time=1737597980
 
