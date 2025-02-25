@@ -45,7 +45,7 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-skyacmaf-rakutenj
 #EXTINF:-1 tvg-id="shigeki sports" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/128_shigekistrongsports.png" group-title="Rakuten-JP", (128) 刺激ストロング SPORTS
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekisports-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GAORA" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/130_gaorazero.png" group-title="Rakuten-JP", (130) GAORA ZERO
+#EXTINF:-1 tvg-id="GAORA" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/130_gaorazero.png" group-title="Rakuten-JP", (130) GAORAZERO
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gaorahlscmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FuelTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/133_fueltv.png" group-title="Rakuten-JP", (133) FuelTV
@@ -69,7 +69,7 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakut
 #EXTINF:-1 tvg-id="Benesse" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png" group-title="Rakuten-JP", (146) しまじろうチャンネル
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelbenessehlscmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A_BabySharkTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/148_babyshark.png" group-title="Rakuten-JP", (149) BABY SHARK TV
+#EXTINF:-1 tvg-id="A_BabySharkTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/148_babyshark.png" group-title="Rakuten-JP", (149) BABY SHARKTV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-babyshark-cmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KidsEnglish" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/150_kids.png" group-title="Rakuten-JP", (150) キッズ
@@ -90,7 +90,7 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmovie3hls
 #EXTINF:-1 tvg-id="Movie_and_Drama_3" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/170_moviedratv.png" group-title="Rakuten-JP", (170) ムビドラTV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FashionTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/177_fashiontv.png" group-title="Rakuten-JP", (177) Fashion TV
+#EXTINF:-1 tvg-id="FashionTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/177_fashiontv.png" group-title="Rakuten-JP", (177) FashionTV
 https://b0ba6aee6b5a4ecda186b32e3e734289.mediatailor.ap-northeast-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenJP-web_FashionTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="History_Amagi" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/180_history.png" group-title="Rakuten-JP", (180) HISTORY CHANNEL
