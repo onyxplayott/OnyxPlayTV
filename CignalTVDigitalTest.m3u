@@ -1,8 +1,9 @@
-#EPG LINKS ADDED SOON#
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/philippines1.xml,https://www.open-epg.com/files/philippines2.xml,https://www.open-epg.com/files/philippines3.xml"
 
 ~ CIGNAL TV PHILIPPINES FREE CHANNELS ~
 
 #EXTM3U
+
 #EXTINF:-1 tvg-id="A2ZHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/A2Z_Channel_11_Logo.png/250px-A2Z_Channel_11_Logo.png" group-title="Cignal TV Digital Channels", A2Z
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
