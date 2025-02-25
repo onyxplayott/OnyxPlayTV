@@ -383,19 +383,16 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:8_HD.smil/manif
 #EXTINF:-1 cuid="445" tvg-chno="445" tvg-name="La Sexta 🇪🇸" tvg-id="La.Sexta.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/La%20Sexta.webp" group-title="TeleZap España", La Sexta HD
 http://176.65.146.224:8401/play/a0a6/index.m3u8
 
-#EXTINF:-1 cuid="471" tvg-chno="471" tvg-name="Canal Extremadura Sat 🇪🇸" tvg-id="Canal.Extremadura.Sat..ch" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Canal-Extremadura.webp" group-title="TeleZap España", Canal Extremadura Sat HD
+#EXTINF:-1 cuid="471" tvg-chno="471" tvg-name="Canal Extremadura Sat 🇪🇸" tvg-id="Canal.Extremadura.Sat..ch" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Canal-Extremadura.webp" group-title="TeleZap España", Canal Extremadura Sat
 https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 cuid="448" tvg-chno="448" tvg-name="Divinity 🇪🇸" tvg-id="Divinity.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Divinity.webp" group-title="TeleZap España", Divinity HD
 http://185.233.16.53/live/UWCPVED8V2/H5gMVveKAHAD/861583&f=.m3u8
 
-#EXTINF:-1 cuid="448" tvg-chno="448" tvg-name="Divinity 🇪🇸" tvg-id="Divinity.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Divinity.webp" group-title="TeleZap España", Divinity (backup)
-http://176.65.146.224:8401/play/a0aa/index.m3u8
-
 #EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="fdf 🇪🇸" tvg-id="Factoría.de.Ficción.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="TeleZap España", FDF TV
 http://185.189.225.150:85/fdf/index.m3u8
 
-#EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="fdf 🇪🇸" tvg-id="Factoría.de.Ficción.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="TeleZap España", FDF HD
+#EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="fdf 🇪🇸" tvg-id="Factoría.de.Ficción.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="TeleZap España", FDF (Test)
 https://tvnoov.com/fadoo/fdf.m3u8
 
 #EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="fdf 🇪🇸" tvg-id="Factoría.de.Ficción.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="TeleZap España", FDF (Backup)
@@ -413,31 +410,17 @@ https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/bitrate_7.m3u8
 #EXTINF:-1 cuid="439" tvg-chno="439" tvg-name="3/24 🇪🇸" tvg-id="3.24.es" tvg-logo="https://logo.iptveditor.com/324.png" group-title="TeleZap España", Canal 3/24 HD
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
-#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="M+.Vamos" tvg-id="M+.Vamos.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="TeleZap España | M+ Deportes", Vamos por M+ SD
-http://line.4smart.in:80//live/TYHZRW6/MF7V7X2/309439&f=.ts
-
 #EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="" tvg-id="M+.Vamos.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="TeleZap España | M+ Deportes", Vamos por M+ HD
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 #EXTVLCOPT:network-caching=1000
 https://xyzdddd.mizhls.ru/lb/premium521/index.m3u8
 
-#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="M+.LALIGA.TV" tvg-id="LALIGA.TV.BAR.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1280px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="TeleZap España | M+ Deportes", LaLiga TV por M+
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-#EXTVLCOPT:network-caching=1000
-https://xyzdddd.mizhls.ru/lb/premium84/index.m3u8
-
 #EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="M+.Deportes" tvg-id="M+.Deportes.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="TeleZap España | M+ Deportes", Deportes por M+
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FMovistarDeportes%5BSpain%5D
-
-#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="Liga Campeones 🇪🇸" tvg-id="M+.Liga.de.Campeones.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="TeleZap España | M+ Deportes", Liga de Campeones por M+
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://xyzdddd.mizhls.ru/lb/premium435/index.m3u8
 
 #EXTINF:0 group-title="TeleZap España | M+ Deportes" tvg-id="3104" tvg-logo="http://epg.one/img2/3104.png" tvg-rec="3", Golf por M+
 http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/6075/index.m3u8
@@ -448,28 +431,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/6077/index.m3u8
 #EXTINF:0 group-title="TeleZap España | M+ Deportes" tvg-id="3101" tvg-logo="http://epg.one/img2/3101.png" tvg-rec="3", Deportes por M+ HD
 http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/6070/index.m3u8
 
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="TeleZap España | M+ Deportes", LaLiga por M+ FHD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/165385.ts
-
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="TeleZap España | M+ Deportes", LaLiga por M+ HD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/165392.ts
-
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="TeleZap España | M+ Deportes", LaLiga por M+ SD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/165393.ts
-
-#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LALIGA TV BAR FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="TeleZap España | M+ Deportes", LaLiga por M+ (BAR) SD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/268042.ts
-
-#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: LALIGA TV BAR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_liga_es.png" group-title="TeleZap España | M+ Deportes", LaLiga por M+ (BAR) HD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/165407.ts
-
 #EXTINF:-1 cuid="1048" tvg-chno="1050" tvg-name="Eurosport 1 🇪🇸" tvg-id="Eurosport.1.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="TeleZap España | Eurosport España", Eurosport 1 España
-http://oldraindays.net/live/228463308/r576049x/324257.ts
-
-#EXTINF:-1 cuid="1048" tvg-chno="1050" tvg-name="Eurosport 1 🇪🇸" tvg-id="Eurosport.1.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="TeleZap España | Eurosport España", Eurosport 1 España (Backup)
 http://185.189.225.150:85/Eurosport1/index.m3u8
 
-#EXTINF:-1 cuid="1062" tvg-chno="1062" tvg-name="Eurosport 2 🇪🇸" tvg-id="Eurosport.2.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="TeleZap España | Eurosport España", Eurosport 2 España (Backup)
+#EXTINF:-1 cuid="1062" tvg-chno="1062" tvg-name="Eurosport 2 🇪🇸" tvg-id="Eurosport.2.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/Eurosport2.png" group-title="TeleZap España | Eurosport España", Eurosport 2 España
 http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1 cuid="1222" tvg-chno="1220" tvg-name="Sol Musica 🇪🇸" tvg-id="ESBD2300004Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png" group-title="TeleZap España", Sol Musica HD
@@ -483,12 +448,6 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 
 #EXTINF:-1 tvg-id="HITTV.es" tvg-name="HitTVEspaña" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HIT_TV_logo.svg/1280px-HIT_TV_logo.svg.png" group-title="TeleZap España", Hit TV España
 http://185.189.225.149/HitTV/index.m3u8
-
-#EXTINF:-1 tvg-id="Boing.es" tvg-name="CanalBoingES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1280px-Boing_2020.svg.png" group-title="TeleZap España", Boing España (Backup)
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_premium.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="CanalExtremaduraDVR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1280px-CEXMA_new.png" group-title="TeleZap España", Canal Extremadura
-https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
 
 #EXTINF:-1 tvg-id="BeinSportXtraEspaña" tvg-name="BeinSportXtraÑ" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/thumbnail.jpg" group-title="TeleZap España", beIN Sports Xtra España
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
@@ -519,18 +478,6 @@ https://zekonew.iosplayer.ru/zeko/premium448/mono.m3u8
 #EXTINF:0 group-title="TeleZap España | DAZN España" tvg-id="5088" tvg-logo="http://epg.one/img2/5088.png" tvg-rec="3", DAZN F1 España
 http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/6071/index.m3u8
 
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: DAZN LALIGA HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="TeleZap España | DAZN España", DAZN LaLiga 1 HD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320781.ts
-
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: DAZN LALIGA FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="TeleZap España | DAZN España", DAZN LaLiga 1 FHD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320782.ts
-
-#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="ES: DAZN LALIGA 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="TeleZap España | DAZN España", DAZN LaLiga 2 HD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320779.ts
-
-#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="ES: DAZN LALIGA 2 FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="TeleZap España | DAZN España", DAZN LaLiga 2 FHD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/320780.ts
-
 #EXTINF:0 group-title="TeleZap España" tvg-id="4512" tvg-logo="http://epg.one/img2/4512.png" tvg-rec="0", Caza y Pesca
 http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/7346/index.m3u8
 
@@ -542,38 +489,5 @@ http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/15241/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.107 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium437/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY CHANNEL ESP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1280px-2019_Discovery_logo.svg.png" group-title="TeleZap España", Discovery Channel España
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/1026555.ts
-
-#EXTINF:-1 tvg-id="SELEKT" tvg-name="ES: SELECK FHD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments/AMC_SELEKT_ORANGE_WHITE_176x122.png" group-title="TeleZap España", AMC Selekt HD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/990328.ts
-
-#EXTINF:-1 tvg-id="SELEKT" tvg-name="ES: SELECK SD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments/AMC_SELEKT_ORANGE_WHITE_176x122.png" group-title="TeleZap España", AMC Selekt SD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/990329.ts
-
-#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="ES: M+ DOCUMENTALES FHD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjjpYOYXnG7Sb3CFutAFeFEeg.png" group-title="TeleZap España", Documentales por M+ SD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/552954.ts
-
-#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="ES: M+ DOCUMENTALES HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjjpYOYXnG7Sb3CFutAFeFEeg.png" group-title="TeleZap España", Documentales por M+ HD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/552955.ts
-
-#EXTINF:-1 tvg-id="Onetoro TV" tvg-name="ES: ONETORO TV FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/70/c0/35/70c03548-8fed-714d-0dc8-2208e0115077/2e6bd842-f503-4cd4-93ef-ff25a598d86f_3840x2160bb.png/643x0w.jpg" group-title="TeleZap España | Onetoro PPV", Onetoro PPV FHD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/558671.ts
-
-#EXTINF:-1 tvg-id="Onetoro TV" tvg-name="ES: ONETORO TV HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/70/c0/35/70c03548-8fed-714d-0dc8-2208e0115077/2e6bd842-f503-4cd4-93ef-ff25a598d86f_3840x2160bb.png/643x0w.jpg" group-title="TeleZap España | Onetoro PPV", Onetoro PPV HD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/558672.ts
-
-#EXTINF:-1 tvg-id="Onetoro TV" tvg-name="ES: ONETORO TV SD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/70/c0/35/70c03548-8fed-714d-0dc8-2208e0115077/2e6bd842-f503-4cd4-93ef-ff25a598d86f_3840x2160bb.png/643x0w.jpg" group-title="TeleZap España | Onetoro PPV", Onetoro PPV SD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/558673.ts
-
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/70/c0/35/70c03548-8fed-714d-0dc8-2208e0115077/2e6bd842-f503-4cd4-" group-title="TeleZap España | Onetoro PPV", Onetoro Server 1
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321445.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: TOROS HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/70/c0/35/70c03548-8fed-714d-0dc8-2208e0115077/2e6bd842-f503-4cd4-" group-title="TeleZap España | Onetoro PPV", Onetoro Server 2
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321446.ts
-
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS SD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/70/c0/35/70c03548-8fed-714d-0dc8-2208e0115077/2e6bd842-f503-4cd4-" group-title="TeleZap España | Onetoro PPV", Onetoro Server 3
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321449.ts
 
 #EXTM3U billed-msg="TeleZap España | 🇪🇸"
