@@ -166,19 +166,10 @@ https://ott.zapitv.com/live/eds_c2/tnt/dash_live_enc/tnt.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eoTs6RtpDFtxfu/9WKVbBA", "kid":"Vj5uE2fgyMD2ZDzwrpLE5w" } ], "type":"temporary" }
 https://ott.zapitv.com/live/eds_c2/xtrm_hd/dash_live_enc/xtrm_hd.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Historia_2022_logo.webp" group-title="TeleZap España", Historia ES (Backup)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Historia_2022_logo.webp" group-title="TeleZap España", Historia ES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "/EgDNo0v7U5PDroU9+X+BQ", "kid": "SQWp13V7XB6eVKxBFKyxkg"}, {"kty": "oct", "k": "6UfGXg7D9bzAIPQaVSuZkw", "kid": "SQtSiinYWAe4HlpAraw4wQ"}, {"kty": "oct", "k": "8kKm+/qnPfveyXyjfMr+CQ", "kid": "5wB7YGJeVL+XlLK83KrCTg"}], "type": "temporary"}
 https://tvup01.edge.milloh-cs.com/historia/historia.mpd
-
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA FHD" tvg-logo="http://cesbos.portal.ovh/logos/historia.jpg" group-title="TeleZap España", Historia España SD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/336326.ts
-
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUtnxIYYhzV-AtxNXFwD3gURtDr28OAhkojPEo8ZY-mUSA.png" group-title="TeleZap España", Historia España HD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/339761.ts
-
-#EXTINF:-1 cuid="427" tvg-chno="427" tvg-name="A3Series Internacional🇪🇸" tvg-id="A.3.Series.ch" tvg-logo="https://logo.iptveditor.com/a3satreseries1.png" group-title="TeleZap España", A3Series
-http://vp-txpro.com:80/live/lupita73/1973/53913&f=.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1280px-History2_logo_%282022%29.svg.png" group-title="TeleZap España", Canal Historia 2
 http://190.102.246.93:9005/play/a00y
@@ -282,15 +273,6 @@ http://185.189.225.150:85/neox/index.m3u8
 #EXTINF:-1 cuid="450" tvg-chno="450" tvg-name="Neox 🇪🇸" tvg-id="Neox.es" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200" group-title="TeleZap España", Neox HD
 http://176.65.146.224:8401/play/a0a7/index.m3u8
 
-#EXTINF:-1 cuid="453" tvg-chno="453" tvg-name="" tvg-id="Ten.es" tvg-logo="https://tentv.es/images/logo.png" group-title="TeleZap España", TEN España HD
-http://line.4smart.in:80/live/TYHZRW6/MF7V7X2/975893&f=.ts
-
-#EXTINF:-1 cuid="453" tvg-chno="453" tvg-name="" tvg-id="Ten.es" tvg-logo="https://tentv.es/images/logo.png" group-title="TeleZap España", TEN España (Main)
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
-
-#EXTINF:-1 cuid="453" tvg-chno="453" tvg-name="" tvg-id="Ten.es" tvg-logo="https://tentv.es/images/logo.png" group-title="TeleZap España", TEN España (TDT)
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
-
 #EXTINF:-1 cuid="441" tvg-chno="441" tvg-name="Antena 3 🇪🇸" tvg-id="Antena.3.es" tvg-logo="https://logo.iptveditor.com/antena3.png" group-title="TeleZap España", Antena 3 (Main)
 http://176.65.146.224:8401/play/a0a5/index.m3u8
 
@@ -331,9 +313,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?&network_id=12685&live=1
 #EXTINF:-1 tvg-id="OndaCadiz.TV" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="TeleZap España" tvg-name="Onda Cádiz", Onda Cádiz TV
 https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1612490465005142019/AU1R7Q6q_200x200.jpg" group-title="TeleZap España" tvg-name="PTV Almería", PTV Almería
-https://streamer.zapitv.com/ptv_almeria/index.m3u8
-
 #EXTINF:-1 cuid="459" tvg-chno="459" tvg-name="El Toro TV 🇪🇸" tvg-id="El.Toro.TV.es" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="TeleZap España | Noticias", El Toro TV (backup)
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 
@@ -342,9 +321,6 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 
 #EXTINF:-1 cuid="462" tvg-chno="462" tvg-name="ETB 2 🇪🇸" tvg-id="ETB2.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ETB2.webp" group-title="TeleZap España", ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-
-#EXTINF:-1 cuid="463" tvg-chno="463" tvg-name="ETB 3 🇪🇸" tvg-id="ETB3.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/ETB3.webp" group-title="TeleZap España", ETB 3
-https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:273_HD.smil/manifest.m3u8
 
 #EXTINF:-1 cuid="456" tvg-chno="456" tvg-name="Galicia Europa 🇪🇸" tvg-id="TVG.Europa.es" tvg-logo="https://crtvg.gal/o/portal-crtvg-base-theme/images/favicon.ico" group-title="TeleZap España", TVGalicia Europa
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
