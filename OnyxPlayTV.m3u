@@ -264,14 +264,6 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="DaliTV.tw" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyXGJ75LwffU7_T-JxBRM5kEZT3-U9nDXfxA&s" group-title="Taiwan Premium Channel", 大立電視台 // DaliTV 
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 ========================================================
-#EXTINF:-1 tvg-name="Digi Sport 1 Romania" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/footer/digi-sport-alt.png" group-title="Digi TV Sport Pack", Digi Sport 1
-https://webhdrunns.mizhls.ru/lb/premium400/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Digi Sport 2 Romania" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/footer/digi-sport-alt.png" group-title="Digi TV Sport Pack", Digi Sport 2
-https://webhdrunns.mizhls.ru/lb/premium401/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Digi Sport 3 Romania" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/footer/digi-sport-alt.png" group-title="Digi TV Sport Pack", Digi Sport 3
-https://webhdrunns.mizhls.ru/lb/premium402/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Digi Sport 4 Romania" tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/footer/digi-sport-alt.png" group-title="Digi TV Sport Pack", Digi Sport 4
-https://webhdrunns.mizhls.ru/lb/premium403/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="TSN Premium Pack", TSN 1
 http://212.102.60.231/TSN_1/index.m3u8
 #EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="TSN Premium Pack", TSN 2
