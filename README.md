@@ -1,6 +1,6 @@
 # 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊「𝙊𝙉𝙔𝙓𝙋𝙇𝘼𝙔𝙊𝙏𝙏 | 🅥➋」
 
-***YOUR DIGITAL IPTV PARTNERS 📺📡***
+***SLOGAN : YOUR DIGITAL IPTV PARTNERS 📺📡***
 
 ![IPTV LOGO](https://pbs.twimg.com/profile_images/1731086760984166400/26vp6QJ2_400x400.jpg)
 
