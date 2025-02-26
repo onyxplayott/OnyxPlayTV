@@ -8,10 +8,9 @@ Source 2 : https://aktv.top/live.txt
 
 1. Some AKTV Hong Kong Channels are still maintenance.
 
-
 2. Not all AKTV HK Channels are not stable right now.
 
-
+#EXTM3U
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV", 中天新聞台 (Maintenance)
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 
