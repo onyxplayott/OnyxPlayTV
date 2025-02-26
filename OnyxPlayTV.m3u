@@ -276,18 +276,6 @@ http://212.102.60.231/TSN_4/index.m3u8
 http://212.102.60.231/TSN_5/index.m3u8
 #EXTINF:-1 tvg-id="ESPN Premium Chile" tvg-name="ESPNPremium Chile" group-title="ESPN Premium" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png", ESPN Chile
 http://45.184.87.142:8000/play/a045
-#EXTINF:-1 tvg-id="ESPN Brasil" group-title="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN 1 Brasil
-https://super-cdn.link/espn/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2Brasil" group-title="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN 2 Brasil
-https://super-cdn.link/espn2/index.m3u8
-#EXTINF:-1 tvg-id="ESPN3Brasil" group-title="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN 3 Brasil 
-https://super-cdn.link/espn3/index.m3u8
-#EXTINF:-1 tvg-id="ESPN4Brasil" group-title="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN 4 Brasil 
-https://super-cdn.link/espn4/index.m3u8
-#EXTINF:-1 tvg-id="ESPN5Brasil" group-title="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN 5 Brasil
-https://super-cdn.link/espn5/index.m3u8
-#EXTINF:-1 tvg-id="ESPN6Brasil" group-title="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN 6 Brasil 
-https://super-cdn.link/espn6/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2USA" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="ESPN Premium", ESPN 2 US
 https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 tvg-id="ESPNewsUSA" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png" group-title="ESPN Premium", ESPNews
@@ -322,24 +310,6 @@ http://myserver.myphuket.net:25461/test2/test2/26
 http://myserver.myphuket.net:25461/test2/test2/27
 #EXTINF:-1  tvg-logo="https://truevisions.co.th/static/1c11f698-75a0-449d-8a79-6a52be569911.png" group-title="True Sport Pack", True SPORT PREMIER LEAGUE 3
 http://myserver.myphuket.net:25461/test2/test2/28
-#EXTINF:-1 tvg-name="Cosmote Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="CosmoteTV Sport Pack", Cosmote Sport 1 HD
-https://webhdrunns.mizhls.ru/lb/premium622/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Cosmote Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="CosmoteTV Sport Pack", Cosmote Sport 2 HD
-https://webhdrunns.mizhls.ru/lb/premium623/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Cosmote Sport 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="CosmoteTV Sport Pack", Cosmote Sport 3 HD
-https://webhdrunns.mizhls.ru/lb/premium624/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Cosmote Sport 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="CosmoteTV Sport Pack", Cosmote Sport 4 HD
-https://webhdrunns.mizhls.ru/lb/premium625/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Cosmote Sport 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="CosmoteTV Sport Pack", Cosmote Sport 5 HD
-https://webhdrunns.mizhls.ru/lb/premium626/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Cosmote Sport 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="CosmoteTV Sport Pack", Cosmote Sport 6 HD
-https://webhdrunns.mizhls.ru/lb/premium627/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Cosmote Sport 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="CosmoteTV Sport Pack", Cosmote Sport 7 HD
-https://webhdrunns.mizhls.ru/lb/premium628/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Cosmote Sport 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="CosmoteTV Sport Pack", Cosmote Sport 8 HD
-https://webhdrunns.mizhls.ru/lb/premium629/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Cosmote Sport 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="CosmoteTV Sport Pack", Cosmote Sport 9 HD
-https://webhdrunns.mizhls.ru/lb/premium630/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 group-title="GO3 Sport Pack" tvg-id=" tvg-logo="https://static3.go3.tv/file/go3/resources/logos/OM.png", Go3 Sport 1 (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -456,30 +426,24 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png" group-title="Japan TV (Sports)", J SPORTS 1 (IPTV12K)
-http://iptv12k.com:35461/654321/123456/3134
 #EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png" group-title="Japan TV (Sports)", J SPORTS 2 (IPTV12K)
 http://iptv12k.com:35461/654321/123456/3135
 #EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png" group-title="Japan TV (Sports)", J SPORTS 3 (IPTV12K)
 http://iptv12k.com:35461/654321/123456/3136
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1720.png" group-title="Japan TV (Sports)", J SPORTS 4 (IPTV12K)
 http://iptv12k.com:35461/654321/123456/3137
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/2560px-GAORA_SPORTS_logo.svg.png" group-title="Japan TV (Sports)", GAORA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/2560px-GAORA_SPORTS_logo.svg.png" group-title="Japan TV (Sports)", GAORATV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d
-#EXTINF:-1 tvg-id="囲碁・将棋チャンネル.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/igoshogi.png" group-title="Japan TV (Sports)", Igo and Shogi Channel (WILLFONK FEED)
+#EXTINF:-1 tvg-id="囲碁・将棋チャンネル.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/igoshogi.png" group-title="Japan TV (Sports)", Igo and Shogi Channel (WILLFONK)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="js1" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png" group-title="Japan TV (Sports)", JSPORTS 1 (WILLFONK FEED)
+#EXTINF:-1 tvg-id="js1" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png" group-title="Japan TV (Sports)", JSPORTS 1 (WILLFONK)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="js2" tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png" group-title="Japan TV (Sports)", JSPORTS 2 (WILLFONK FEED)
+#EXTINF:-1 tvg-id="js2" tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png" group-title="Japan TV (Sports)", JSPORTS 2 (WILLFONK)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="js3" tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png" group-title="Japan TV (Sports)", JSPORTS 3 (WILLFONK FEED)
+#EXTINF:-1 tvg-id="js3" tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png" group-title="Japan TV (Sports)", JSPORTS 3 (WILLFONK)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="js4" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png" group-title="Japan TV (Sports)", JSPORTS 4 (WILLFONK FEED)
+#EXTINF:-1 tvg-id="js4" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png" group-title="Japan TV (Sports)", JSPORTS 4 (WILLFONK)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5AwMUXcqLL_fT3RAtvltD7b-O06-rJJQctg&s" group-title="SPOTV Southeast Asia", SPOTV 1 Indonesia
-https://mantul.biz.id:443/inetwork/gayanet12/4946.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015" group-title="SPOTV Southeast Asia", SPOTV 2 Indonesia
-https://mantul.biz.id:443/inetwork/gayanet12/15858.ts
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="SPOTV Southeast Asia", SPOTV 1 (indiHOME TV)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -498,26 +462,6 @@ https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-HD/default.mpd
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FOXSPORTS2US" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1280px-FS2_logo_2015.svg.png" group-title="FOX SPORTS USA & Mexico", Fox Sports 2 USA
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_425_305" group-title="Now Sports「Hong Kong」", Now Sports PRIME
-http://iptv12k.com:35461/654321/123456/1017
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="Now Sports「Hong Kong」", Now Sports 1
-http://iptv12k.com:35461/654321/123456/21684
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-2-1990.png" group-title="Now Sports「Hong Kong」", Now Sports 2
-http://iptv12k.com:35461/654321/123456/21686
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/633_e.png" group-title="Now Sports「Hong Kong」", Now Sports 3 
-http://iptv12k.com:35461/654321/123456/21688
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/634_e.png" group-title="Now Sports「Hong Kong」", Now Sports 4
-http://iptv12k.com:35461/654321/123456/21724
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/635_e.png" group-title="Now Sports「Hong Kong」", Now Sports 5
-http://iptv12k.com:35461/654321/123456/21722
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/636-dbg-e.png" group-title="Now Sports「Hong Kong」", Now Sports 6 
-http://iptv12k.com:35461/654321/123456/21720
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/637-wbg-e.png" group-title="Now Sports「Hong Kong」", Now Sports 7
-http://iptv12k.com:35461/654321/123456/21718
-#EXTINF:-1 tvg-logo="https://www.golfchannel.com/sites/default/files/new_golf_channel_logo_304.jpg" group-title="Now Sports「Hong Kong」", Golf Channel Asia
-http://iptv12k.com:35461/654321/123456/1228
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Now Sports「Hong Kong」", NBA TV
-http://iptv12k.com:35461/654321/123456/1227
 #EXTINF:-1, tvg-id="SkySportsMX" tvg-name="SkySportsMX" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/4Tdv5fRuFYHPU5f2LZwYnv/8dcdb0cbd2a8b1c51732f44f8769fcf9/slidecanales-skysports.png" group-title="Sky Sports IzziTV", Sky Sports Mexico
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
