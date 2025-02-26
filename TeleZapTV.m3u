@@ -282,9 +282,6 @@ https://tvnoov.com/fadoo/antena3.m3u8
 #EXTINF:-1 cuid="441" tvg-chno="441" tvg-name="Antena 3 🇪🇸" tvg-id="Antena.3.es" tvg-logo="https://logo.iptveditor.com/antena3.png" group-title="TeleZap España", Antena 3 (Backup)
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/1782&f=.ts
 
-#EXTINF:-1 cuid="441" tvg-chno="441" tvg-name="Antena 3 🇪🇸" tvg-id="Antena.3.es" tvg-logo="https://logo.iptveditor.com/antena3.png" group-title="TeleZap España", Antena 3 (TDT)
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
-
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://logo.iptveditor.com/trece.png" group-title="TeleZap España", Trece HD
 https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
 
@@ -352,9 +349,6 @@ https://tvnoov.com/fadoo/telecincohd.m3u8
 
 #EXTINF:-1 cuid="444" tvg-chno="444" tvg-name="Telecinco 🇪🇸" tvg-id="Telecinco.es" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TeleZap España", Telecinco (Server 2)
 http://176.65.146.224:8401/play/a0ab/index.m3u8
-
-#EXTINF:-1 cuid="444" tvg-chno="444" tvg-name="Telecinco 🇪🇸" tvg-id="Telecinco.es" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="TeleZap España", Telecinco (TDT)
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:8_HD.smil/manifest.m3u8
 
 #EXTINF:-1 cuid="445" tvg-chno="445" tvg-name="La Sexta 🇪🇸" tvg-id="La.Sexta.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/La%20Sexta.webp" group-title="TeleZap España", La Sexta HD
 http://176.65.146.224:8401/play/a0a6/index.m3u8
@@ -450,15 +444,6 @@ https://zekonew.iosplayer.ru/zeko/premium447/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.107 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium448/mono.m3u8
-
-#EXTINF:0 group-title="TeleZap España | DAZN España" tvg-id="5088" tvg-logo="http://epg.one/img2/5088.png" tvg-rec="3", DAZN F1 España
-http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/6071/index.m3u8
-
-#EXTINF:0 group-title="TeleZap España" tvg-id="4512" tvg-logo="http://epg.one/img2/4512.png" tvg-rec="0", Caza y Pesca
-http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/7346/index.m3u8
-
-#EXTINF:0 group-title="TeleZap España" tvg-id="5693" tvg-logo="http://epg.one/img2/5693.png" tvg-rec="0", Gol Play
-http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/15241/index.m3u8
 
 #EXTINF:-1 tvg-id="437" tvg-name="#0 Spain" tvg-logo="https://raw.githubusercontent.com/michael1900/eventi/refs/heads/main/bg/daddylive-logo.png" group-title="TeleZap España", M+ Canal
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
