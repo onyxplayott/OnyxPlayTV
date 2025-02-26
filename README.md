@@ -17,7 +17,7 @@
 
 
 
-***📡📺📻: LIVE TV & RADIO CHANNELS FROM AROUND THE WORLD***
+***📡📺📻: LIVE TV & RADIO CHANNELS***
 
 
 
@@ -27,7 +27,7 @@
 
 
 
-***📺🍿: VOD SERIES (COMING SOON, TO BE ANNOUNCED LATER.)***
+***📺🍿: VOD SERIES (COMING SOON)***
 
 
 
