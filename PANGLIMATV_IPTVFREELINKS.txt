@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-
 http://tvbox.anondns.net/mobile/ (free to watch & without pay it for any subscription)
 
 ⚔️📺📡 🇵🇭 CIGNAL TV FREE CHANNELS 🇵🇭📡 ⚔️:
-https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/CignalTVDigitalTest.m3u (Links will be changed)
+https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/CignalTVPHDigitalTest.m3u (Links will be changed)
 
 ⚔️📡🇰🇷 KAKAOTV KOREAN FREE & PREMIUM CHANNELS 📡🇰🇷⚔️:
-https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/KakaoTVKoreanTest.m3u (Links will be changed)
+https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/KakoTVKoreanTest.m3u (Links will be changed)
