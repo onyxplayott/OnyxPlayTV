@@ -80,34 +80,72 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 tvg-id="KBS2" tvg-logo="https://iili.io/JmoiKSn.png" group-title="KOREAN PREMIUM", KBS 2
 http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="KBSJOYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/300px-KBS_JOY.svg.png" group-title="KOREAN PREMIUM", KBS JOY (test)
+http://dqy12.org/hls/15/index.m3u8
+#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://iili.io/JmoPytR.png" group-title="KOREAN PREMIUM", KBS 1 (backup)
+http://dqy12.org/hls/1/index.m3u8
+#EXTINF:-1 tvg-id="KBS2" tvg-logo="https://iili.io/JmoiKSn.png" group-title="KOREAN PREMIUM", KBS 2 (backup)
+http://dqy12.org/hls/2/index.m3u8
+#EXTINF:-1 tvg-id="KBSDRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/300px-KBS_DRAMA.svg.png" group-title="KOREAN PREMIUM", KBS DRAMA (test)
+http://dqy12.org/hls/17/index.m3u8
 #EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="KOREAN PREMIUM", SBSTV
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="KOREAN PREMIUM", SBSKR (backup)
+http://dqy12.org/hls/3/index.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-logo="https://iili.io/Jmoi3Ft.png" group-title="KOREAN PREMIUM", MBCTV
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://iili.io/Jmoi3Ft.png" group-title="KOREAN PREMIUM", MBCKR (Backup)
+http://dqy12.org/hls/4/index.m3u8
+#EXTINF:-1 tvg-id="OBCKR" tvg-name="OBCKR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/OBS_Kyung-In_TV_2023.png/440px-OBS_Kyung-In_TV_2023.png" group-title="KOREAN PREMIUM", OBS GyeonginTV (Test)
+http://dqy12.org/hls/6/index.m3u8
 #EXTINF:-1 tvg-id="JTBC" tvg-logo="https://iili.io/2UfPhb9.png" group-title="KOREAN PREMIUM", JTBC 1
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=5MY50EII66
+#EXTINF:-1 tvg-id="JTBC" tvg-logo="https://iili.io/2UfPhb9.png" group-title="KOREAN PREMIUM", JTBC (Backup)
+http://dqy12.org/hls/8/index.m3u8
 #EXTINF:-1 tvg-id="Mnet" tvg-logo="https://iili.io/JmoiFcX.png" group-title="KOREAN PREMIUM", mNet Korea
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 tvg-id="MnetKR" tvg-logo="https://iili.io/JmoiFcX.png" group-title="KOREAN PREMIUM", mNet Korea (backup)
+http://dqy12.org/hls/18/index.m3u8
 #EXTINF:-1 tvg-id="tvN" tvg-logo="https://iili.io/2UfQSCF.png" group-title="KOREAN PREMIUM", tvN Korea
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00551&q=SD&apikey=5MY50EII66
 #EXTINF:-1 tvg-id="tvN SHOW" tvg-logo="https://iili.io/2UfQUEg.png" group-title="KOREAN PREMIUM", tvN Show
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 tvg-id="tvN" tvg-logo="https://iili.io/2UfQSCF.png" group-title="KOREAN PREMIUM", tvN Korea (Backup)
+http://dqy12.org/hls/11/index.m3u8
+#EXTINF:-1 tvg-id="tvN Story" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TvN_STORY_logo.png" group-title="KOREAN PREMIUM", tvN Story
+http://dqy12.org/hls/12/index.m3u8
 #EXTINF:-1 tvg-name="KR: OCN KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/OCN_logo.jpg" group-title="KOREAN PREMIUM", OCN
 http://iptv12k.com:35461/654321/123456/3223
 #EXTINF:-1 tvg-name="KR: OCN movies KR" tvg-logo="https://pbs.twimg.com/media/EOdyIaPU8AA_GZG.jpg" group-title="KOREAN PREMIUM", OCNMovies
 http://iptv12k.com:35461/654321/123456/3222
+#EXTINF:-1 tvg-name="KR: OCN KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/OCN_logo.jpg" group-title="KOREAN PREMIUM", OCN (Backup)
+http://dqy12.org/hls/22/index.m3u8
+#EXTINF:-1 tvg-name="KR: OCN movies KR" tvg-logo="https://pbs.twimg.com/media/EOdyIaPU8AA_GZG.jpg" group-title="KOREAN PREMIUM", OCNMovies (Backup)
+http://dqy12.org/hls/23/index.m3u8
 #EXTINF:-1 tvg-name="KR: CHANNEL A KR" tvg-logo="http://www.mediatoday.co.kr/news/photo/201905/148294_229174_2317.jpg" group-title="KOREAN PREMIUM", CHANNEL A
 http://iptv12k.com:35461/654321/123456/3226
 #EXTINF:-1 tvg-name="KR: mbn KR" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcoYoQO%2FbtqwMcJoV7x%2FVD2ZTToHdnCcm06wHKnbkk%2Fimg.jpg" group-title="KOREAN PREMIUM", MBN TV Korea
 http://iptv12k.com:35461/654321/123456/3230
+#EXTINF:-1 tvg-name="KR: CHANNEL A KR" tvg-logo="http://www.mediatoday.co.kr/news/photo/201905/148294_229174_2317.jpg" group-title="KOREAN PREMIUM", CHANNEL A (Backup)
+http://dqy12.org/hls/7/index.m3u8
+#EXTINF:-1 tvg-name="KR: mbn KR" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcoYoQO%2FbtqwMcJoV7x%2FVD2ZTToHdnCcm06wHKnbkk%2Fimg.jpg" group-title="KOREAN PREMIUM", MBN Korea (backup)
+http://dqy12.org/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="KR: YTN KR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ytn-tv-7088.jpg" group-title="KOREAN PREMIUM", YTN
 http://iptv12k.com:35461/654321/123456/3224
+#EXTINF:-1 tvg-name="KR: YTN KR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ytn-tv-7088.jpg" group-title="KOREAN PREMIUM", YTN (Backup)
+http://dqy12.org/hls/14/index.m3u8
 #EXTINF:-1 tvg-name="KR: SPOTV KR" tvg-logo="https://blog.kakaocdn.net/dn/8bikz/btqYve08hSr/uiKeiPGPWrreloHnEW7vIk/img.png" group-title="KOREAN PREMIUM", SPOTV Korea
 http://iptv12k.com:35461/654321/123456/3215
 #EXTINF:-1 tvg-name="KR: spotv2 KR" tvg-logo="https://blog.kakaocdn.net/dn/8bikz/btqYve08hSr/uiKeiPGPWrreloHnEW7vIk/img.png" group-title="KOREAN PREMIUM", SPOTV2 Korea
 http://iptv12k.com:35461/654321/123456/3228
 #EXTINF:-1 tvg-name="KR: MBC스포츠 KR" tvg-logo="https://blog.kakaocdn.net/dn/bmqjWS/btqDOIVjuIM/gNBvNgoLbnUASicgqyHyy0/img.jpg" group-title="KOREAN PREMIUM", MBC Sports+
 http://iptv12k.com:35461/654321/123456/3219
+#EXTINF:-1 tvg-id="MBCDRAMA" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/is/2021/04/19/b7d6c55a-7ffb-4a15-9037-bdeffb303d0e.jpg" group-title="KOREAN PREMIUM", MBC DRAMA (test)
+http://dqy12.org/hls/19/index.m3u8
+#EXTINF:-1 tvg-id="CNTVKR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/CNTV2024.jpg/revision/latest?cb=20241116044159" group-title="KOREAN PREMIUM", CNTV KOREA (test)
+http://dqy12.org/hls/20/index.m3u8
+#EXTINF:-1 tvg-id="OLIFEKR" tvg-logo="https://i.namu.wiki/i/-ZXDMu4OlOjogF-G8NpYl-YaL3rJ5UPt4OZocdDVSr9132yKigvK0IEoJQssDyunKKlRp0RsVyIFUWauz5B7mw.svg" group-title="KOREAN PREMIUM", OLIFE KOREA (test)
+http://dqy12.org/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="EBS1TV.kr" group-title="KOREAN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/1200px-EBS_1TV_Logo.svg.png", EBS 1
 http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS2TV.kr" group-title="KOREAN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/EBS_2_logo.svg/2560px-EBS_2_logo.svg.png", EBS 2
@@ -134,14 +172,18 @@ http://iptv12k.com:35461/654321/123456/3205
 http://iptv12k.com:35461/654321/123456/3220
 #EXTINF:-1 tvg-name="KR: 연합뉴스TV" tvg-logo="http://image.sbs.co.kr/sbs/4n/favicon.png" group-title="KOREAN PREMIUM", Yonhap NewsTV
 http://iptv12k.com:35461/654321/123456/3209
+#EXTINF:-1 tvg-name="KR: 연합뉴스TVKR" tvg-logo="http://image.sbs.co.kr/sbs/4n/favicon.png" group-title="KOREAN PREMIUM", Yonhap NewsTV (backup)
+http://dqy12.org/hls/13/index.m3u8
 #EXTINF:-1 tvg-name="KR: SBS골프 KR" tvg-logo="https://blog.kakaocdn.net/dn/bYZCX2/btqDVU80MkK/inuPxMtGkulA0zC9p1gbs0/img.jpg" group-title="KOREAN PREMIUM", SBS GOLF
 http://iptv12k.com:35461/654321/123456/3206
 #EXTINF:-1 tvg-name="KR: SBS스포츠 KR" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FctkSdK%2FbtqDWr6nsCE%2F6OCIsMnprjRYR86Lcp9Msk%2Fimg.jpg" group-title="KOREAN PREMIUM", SBS SPORTS
 http://iptv12k.com:35461/654321/123456/3207
-#EXTINF:-1 tvg-name="KR: SBS plus KR" tvg-logo="http://image.sbs.co.kr/sbs/4n/favicon.png" group-title="KOREAN PREMIUM", SBS PLUS (SBS+)
-http://iptv12k.com:35461/654321/123456/3211
+#EXTINF:-1 tvg-name="KR: SBSplus KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SBS_Plus_logo_2018.svg/540px-SBS_Plus_logo_2018.svg.png" group-title="KOREAN PREMIUM", SBSplus (Test)
+http://dqy12.org/hls/16/index.m3u8
 #EXTINF:-1 tvg-name="CTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYPNqWqf0aGKlrggH2WeoSw2GCWlGU1cVllg&s" group-title="KOREAN PREMIUM", CTS TV
 http://iptv12k.com:35461/654321/123456/3218
+#EXTINF:-1 tvg-id="TVCHOSUN1" tvg-name="TVCHOSUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TV_Chosun_Logo_%28English%29.svg/400px-TV_Chosun_Logo_%28English%29.svg.png" group-title="KOREAN PREMIUM", TVCHOSUN (Test)
+http://dqy12.org/hls/10/index.m3u8
 #EXTINF:-1 tvg-id="SkySports.kr" tvg-name="SkySports.kr" tvg-logo="https://i.imgur.com/tdmsXvp.png" group-title="KOREAN PREMIUM", Sky Sports Korea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:http-header=Origin: https://kakotv.com
