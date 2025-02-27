@@ -1,6 +1,7 @@
 #EXTM3U
 
 ~ RAKUTENTV JP FREE CHANNELS ~
+
 ~ USING THE BEST VPN APPS TO ACCESS ~
 
 #EXTINF:-1 tvg-id="News1" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="Rakuten-JP", (104) 日テレ NEWS TV
@@ -160,6 +161,30 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecoh
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
 
 #EXTM3U billed-msg="楽天TV (Rチャンネル) ⚔️📡📺🇯🇵⚔️"
+
+
+# TVer Live Event Feed (without using any VPN Apps) [test channel]
+
+#EXTINF:-1 tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="TVer Feed", テレビ東京 (TVer) // TVTokyo Live Feed
+https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/6ee6105c-b3ca-47f5-b98a-2ff3d4edec71/0.m3u8?pdt=-11427&session=6ee6105c-b3ca-47f5-b98a-2ff3d4edec71&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTExNDI3In0.1tyMmRb_Mw7y6l3Keuf5P7Xr8U8iX_iNtwsOaBl8exE
+
+
+#EXTINF:-1 tvg-id="tv_asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE5-051-400x400.png" group-title="TVer Feed", テレビ朝日 (TVer) // TVAsahi Live Feed
+https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-8158/13015d57-74af-4137-b94e-8807366dc5a3/0.m3u8?pdt=-16879&session=13015d57-74af-4137-b94e-8807366dc5a3&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiZXgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTE2ODc5In0.E3GYBQIsozVKQn8rCvBsizqjjiU4r3TZHBBktaxo0Q0
+
+
+#EXTINF:-1 tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/TF3Sauu.jpeg" group-title="TVer Feed", フジテレビ (TVer) // FujiTV Live Feed
+https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-7884/f60f55d9-0cab-4658-8d7f-de3600a73b57/0.m3u8?pdt=-6627&session=f60f55d9-0cab-4658-8d7f-de3600a73b57&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiY3gtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTY2MjcifQ.rGchZoAv-VWLdrkowF0VYMb-geWaK_ZcFhYhXb5HolM
+
+
+#EXTINF:-1 tvg-id="tbs" tvg-logo="https://i.imgur.com/97Eiqg8.jpeg", group-title="TVer Feed", TBS (TVer) // TBS Live Feed
+https://ssai-variants.streaks.jp/v5/tver-simul-tbs/8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-176-7925/07fce827-55f0-4618-85b0-da26434f9145/0.m3u8?pdt=-9107&session=07fce827-55f0-4618-85b0-da26434f9145&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05MTA3In0.8pukFt64D_Ji0H3F8UybmF27iyBYU7FLvSof5z5aQp4
+
+
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg" group-title="TVer Feed", 日本テレビ (TVer) // NipponTV Live Feed
+https://ssai-variants.streaks.jp/v5/tver-simul-ntv/3865af1a962349ceaa5efe46008030db/ed089bc4b7f342b3bc8a7a2567039442/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-174-7969/11427f15-098c-4226-8434-ae8d3766e682/0.m3u8?pdt=-9728&session=11427f15-098c-4226-8434-ae8d3766e682&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibnR2LWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05NzI4In0.ZlMhyllzPYPuPXtaFLiDfJ2GFXUS5hMD9JRCcJK0Cl4
+
+
 
 ⚠️📺 Instructions to watch it :-
 
