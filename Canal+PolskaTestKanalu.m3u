@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="13-ulica-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/13_Ulica_Logo.jpg" group-title="CANAL+ POLSKA", 13 ULICA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1e923df89cc4ce9ba735364bc4a798a:0113f704203e79372aecddc4dd302fe3
-https://r.dcs.redcdn.pl/webcache/canalplus2/live/store01/13UlicaSD/hd2-dashdrm02/13UlicaSD.mpd
