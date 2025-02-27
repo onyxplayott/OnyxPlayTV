@@ -69,15 +69,6 @@ https://ott.zapitv.com/live/eds_c2/cocina_hd/dash_live_enc/cocina_hd.mpd
 #KODIPROP:inputstream.adaptive.license_key=0909d9aaca5c6e6a0f1a4ad8e4459f65:eef835f4d956c3e0a794879e7dbe5bdd
 https://ott.zapitv.com/live/eds_c2/decasa_hd/dash_live_enc/decasa_hd.mpd
 
-#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC FHD" tvg-logo="http://astrill.today:80/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsT2ioIW55P-X8sXhaNTyRNh91IaMhdXrTO2Tg5pW1GXw.png" group-title="TeleZap España",AMC España 
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321102.ts
-
-#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC HD" tvg-logo="http://astrill.today:80/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsT2ioIW55P-X8sXhaNTyRNh91IaMhdXrTO2Tg5pW1GXw.png" group-title="TeleZap España", AMC España HD
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321103.ts
-
-#EXTINF:-1 tvg-id="AMC Crime" tvg-name="ES: AMC CRIME SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="TeleZap España", AMC Crime España
-http://EXM3U.ofxn1112.xyz:80/live/G23JQ9MTWA/4wxqHSkuEeb/321101.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="TeleZap España", AXN España
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -426,29 +417,5 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/yasjqprt7n/out/v1/8086df78d3ce479e8e375147f72942c6/cenc.mpd
-
-#EXTINF:-1 tvg-id="446" tvg-name="DAZN 2 Spain" tvg-logo="https://raw.githubusercontent.com/michael1900/eventi/refs/heads/main/bg/daddylive-logo.png" group-title="TeleZap España | DAZN España", DAZN 2 España
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.107 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium446/mono.m3u8
-
-#EXTINF:-1 tvg-id="447" tvg-name="DAZN 3 Spain" tvg-logo="https://raw.githubusercontent.com/michael1900/eventi/refs/heads/main/bg/daddylive-logo.png" group-title="TeleZap España | DAZN España", DAZN 3 España
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.107 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium447/mono.m3u8
-
-#EXTINF:-1 tvg-id="448" tvg-name="DAZN 4 Spain" tvg-logo="https://raw.githubusercontent.com/michael1900/eventi/refs/heads/main/bg/daddylive-logo.png" group-title="TeleZap España | DAZN España", DAZN 4 España 
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.107 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium448/mono.m3u8
-
-#EXTINF:-1 tvg-id="437" tvg-name="#0 Spain" tvg-logo="https://raw.githubusercontent.com/michael1900/eventi/refs/heads/main/bg/daddylive-logo.png" group-title="TeleZap España", M+ Canal
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.107 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium437/mono.m3u8
 
 #EXTM3U billed-msg="TeleZap España | 🇪🇸"
