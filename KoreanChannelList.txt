@@ -45,8 +45,8 @@ tvNSPORTS,http://dqy12.org/hls/45/index.m3u8
 SPOTVPRIMEKR,http://dqy12.org/hls/46/index.m3u8
 SPOTVPRIME2KR,http://dqy12.org/hls/47/index.m3u8
 CBSTVKR,http://dqy12.org/hls/48/index.m3u8
-,http://dqy12.org/hls/49/index.m3u8
-KBSJOY2ND,http://dqy12.org/hls/50/index.m3u8
+GTVKR,http://dqy12.org/hls/49/index.m3u8
+KBSJOY2ND/BBS,http://dqy12.org/hls/50/index.m3u8
 
 
 
