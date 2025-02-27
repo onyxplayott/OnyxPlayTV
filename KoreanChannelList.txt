@@ -1,12 +1,12 @@
-频道2,http://dqy12.org/hls/1/index.m3u8
-频道3,http://dqy12.org/hls/2/index.m3u8
-频道4,http://dqy12.org/hls/3/index.m3u8
-频道5,http://dqy12.org/hls/4/index.m3u8
-频道7,http://dqy12.org/hls/6/index.m3u8
-频道8,http://dqy12.org/hls/7/index.m3u8
-频道9,http://dqy12.org/hls/8/index.m3u8
-频道10,http://dqy12.org/hls/9/index.m3u8
-频道11,http://dqy12.org/hls/10/index.m3u8
+KBS1 ,http://dqy12.org/hls/1/index.m3u8
+KBS2 ,http://dqy12.org/hls/2/index.m3u8
+SBS ,http://dqy12.org/hls/3/index.m3u8
+MBC ,http://dqy12.org/hls/4/index.m3u8
+OBS ,http://dqy12.org/hls/6/index.m3u8
+CHA,http://dqy12.org/hls/7/index.m3u8
+JTBC,http://dqy12.org/hls/8/index.m3u8
+MBN,http://dqy12.org/hls/9/index.m3u8
+TVCHOSUN,http://dqy12.org/hls/10/index.m3u8
 频道12,http://dqy12.org/hls/11/index.m3u8
 频道13,http://dqy12.org/hls/12/index.m3u8
 频道14,http://dqy12.org/hls/13/index.m3u8
