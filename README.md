@@ -22,7 +22,7 @@
 
 
 
-***🎥🍿: VOD MOVIES (MAINTENANCE)***
+***🎥🍿: VOD MOVIES (NOT UPDATED YET)***
 
 
 
@@ -42,9 +42,10 @@
 
 ⚠️⚠️
 
-*doɴ'т ѕεll or вυy мy plαylιѕт wιтнoυт мy pεrмιѕѕιoɴ.*     
 
-⚠️⚠️
+***doɴ'т ѕεll or вυy мy plαylιѕт wιтнoυт мy pεrмιѕѕιoɴ.***    
+
+
 
 
 
