@@ -373,27 +373,6 @@ https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/bitrate_7.m3u8
 #EXTINF:-1 cuid="439" tvg-chno="439" tvg-name="3/24 🇪🇸" tvg-id="3.24.es" tvg-logo="https://logo.iptveditor.com/324.png" group-title="TeleZap España", Canal 3/24 HD
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
-#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="" tvg-id="M+.Vamos.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="TeleZap España | M+ Deportes", Vamos por M+ HD
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-#EXTVLCOPT:network-caching=1000
-https://xyzdddd.mizhls.ru/lb/premium521/index.m3u8
-
-#EXTINF:-1 cuid="6780" tvg-chno="746" tvg-name="M+.Deportes" tvg-id="M+.Deportes.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="TeleZap España | M+ Deportes", Deportes por M+
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://topembed-stream.vercel.app/?url=https%3A%2F%2Ftopembed.pw%2Fchannel%2FMovistarDeportes%5BSpain%5D
-
-#EXTINF:0 group-title="TeleZap España | M+ Deportes" tvg-id="3104" tvg-logo="http://epg.one/img2/3104.png" tvg-rec="3", Golf por M+
-http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/6075/index.m3u8
-
-#EXTINF:0 group-title="TeleZap España | M+ Deportes" tvg-id="3101" tvg-logo="http://epg.one/img2/3101.png" tvg-rec="3", Deportes por M+ (Backup)
-http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/6077/index.m3u8
-
-#EXTINF:0 group-title="TeleZap España | M+ Deportes" tvg-id="3101" tvg-logo="http://epg.one/img2/3101.png" tvg-rec="3", Deportes por M+ HD
-http://rhsbjv7k.tvclub.xyz/iptv/5LZL8KXZLUL56V/6070/index.m3u8
-
 #EXTINF:-1 cuid="1048" tvg-chno="1050" tvg-name="Eurosport 1 🇪🇸" tvg-id="Eurosport.1.es" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/eurosport1.png" group-title="TeleZap España | Eurosport España", Eurosport 1 España
 http://185.189.225.150:85/Eurosport1/index.m3u8
 
@@ -403,7 +382,7 @@ http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 cuid="1222" tvg-chno="1220" tvg-name="Sol Musica 🇪🇸" tvg-id="ESBD2300004Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png" group-title="TeleZap España", Sol Musica HD
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
-#EXTINF:-1 tvg-id="RealMadridTV" tvg-name="RealMadridTV" tvg-logo="https://i.namu.wiki/i/ygQVrSuCRUYZpYkvGb_KBAfxv50URD-h-zbu67Vzes0t9BSREUvB-C7Wgi7-LVsXnB9Z6so3ZpTYZHnUnVWqag.webp" group-title="TeleZap España", Real Madrid TV (RMTV)
+#EXTINF:-1 tvg-id="RealMadridTV" tvg-name="RealMadridTV" tvg-logo="https://i.namu.wiki/i/ygQVrSuCRUYZpYkvGb_KBAfxv50URD-h-zbu67Vzes0t9BSREUvB-C7Wgi7-LVsXnB9Z6so3ZpTYZHnUnVWqag.webp" group-title="TeleZap España", RealMadrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="NickEspaña" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1280px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="TeleZap España", Nickelodeon España
