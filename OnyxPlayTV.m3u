@@ -24,13 +24,6 @@ YOUR DIGITAL IPTV PLATFORM 📺 | 📡
 
 
 
-(●) ::::::::: RE~STR3AM :::::::::::: (●)
-                   👇
-                   👇
-                   👇
-                   👇
-
-
 
 ========================================================
 ℹ️ INFORMATION 𝑶𝒏𝒚𝒙𝑷𝒍𝒂𝒚𝑶𝑻𝑻 𝑻V ℹ️
@@ -40,7 +33,6 @@ YOUR DIGITAL IPTV PLATFORM 📺 | 📡
 🔴🟢 Currently Active Channels Available 🔴🟢
 ========================================================
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2024/12/02/257841ac-7e01-3ebb-8091-3630d0a6ef8b.jpeg?w=500&f=webp" tvg-id="052" group-title="HBO USA Channels", HBO Zone US (Test)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
