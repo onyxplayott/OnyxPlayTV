@@ -1,6 +1,6 @@
 # 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊「𝙊𝙉𝙔𝙓𝙋𝙇𝘼𝙔𝙊𝙏𝙏 | 🅥➋」
 
-***SLOGAN : YOUR DIGITAL IPTV PLATFORM📺📡***
+***SLOGAN : YOUR DIGITAL IPTV PLATFORM📺 | 📡***
 
 
 
@@ -156,12 +156,9 @@ https://bit.ly/3EqSXx3
 
 
 
-***𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙾𝚗𝚢𝚡𝙿𝚕𝚊𝚢𝙾𝚃𝚃.***
-
-
-
 
 ***𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙾𝚗𝚢𝚡𝙿𝚕𝚊𝚢𝙾𝚃𝚃.***
+
 
 
 
