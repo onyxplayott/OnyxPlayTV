@@ -48,5 +48,4 @@ CBSTVKR,http://dqy12.org/hls/48/index.m3u8
 GTVKR,http://dqy12.org/hls/49/index.m3u8
 KBSJOY2ND/BBS,http://dqy12.org/hls/50/index.m3u8
 
-
-OTAL CHANNEL : 50 CHANNELS
+TOTAL CHANNEL : 50 CHANNELS
