@@ -1,0 +1,86 @@
+# TVer Live Event Feed (without using any VPN Apps) [test channel]
+
+#EXTM3U
+#EXTINF:-1 tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="TVer Feed", テレビ東京 (TVer) // TVTokyo Live Feed
+https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/6ee6105c-b3ca-47f5-b98a-2ff3d4edec71/0.m3u8?pdt=-11427&session=6ee6105c-b3ca-47f5-b98a-2ff3d4edec71&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTExNDI3In0.1tyMmRb_Mw7y6l3Keuf5P7Xr8U8iX_iNtwsOaBl8exE
+
+#EXTINF:-1 tvg-id="tv_asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE5-051-400x400.png" group-title="TVer Feed", テレビ朝日 (TVer) // TVAsahi Live Feed
+https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-8158/13015d57-74af-4137-b94e-8807366dc5a3/0.m3u8?pdt=-16879&session=13015d57-74af-4137-b94e-8807366dc5a3&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiZXgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTE2ODc5In0.E3GYBQIsozVKQn8rCvBsizqjjiU4r3TZHBBktaxo0Q0
+
+#EXTINF:-1 tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/TF3Sauu.jpeg" group-title="TVer Feed", フジテレビ (TVer) // FujiTV Live Feed
+https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-7884/f60f55d9-0cab-4658-8d7f-de3600a73b57/0.m3u8?pdt=-6627&session=f60f55d9-0cab-4658-8d7f-de3600a73b57&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiY3gtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTY2MjcifQ.rGchZoAv-VWLdrkowF0VYMb-geWaK_ZcFhYhXb5HolM
+
+#EXTINF:-1 tvg-id="tbs" tvg-logo="https://i.imgur.com/97Eiqg8.jpeg", group-title="TVer Feed", TBS (TVer) // TBS Live Feed
+https://ssai-variants.streaks.jp/v5/tver-simul-tbs/8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/manifest/13df2e5de86b5ff0c5c352Green2d82e73a5fbf55aac1/pro-mt-176-7925/07fce827-55f0-4618-85b0-da26434f9145/0.m3u8?pdt=-9107&session=07fce827-55f0-4618-85b0-da26434f9145&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05MTA3In0.8pukFt64D_Ji0H3F8UybmF27iyBYU7FLvSof5z5aQp4
+
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg" group-title="TVer Feed", 日本テレビ (TVer) // NipponTV Live Feed
+https://ssai-variants.streaks.jp/v5/tver-simul-ntv/3865af1a962349ceaa5efe46008030db/ed089bc4b7f342b3bc8a7a2567039442/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-174-7969/11427f15-098c-4226-8434-ae8d3766e682/0.m3u8?pdt=-9728&session=11427f15-098c-4226-8434-ae8d3766e682&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibnR2LWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05NzI4In0.ZlMhyllzPYPuPXtaFLiDfJ2GFXUS5hMD9JRCcJK0Cl4
+
+# This channel sourced officially from TVer Channels Lineup.
+
+
+
+# Primehome TV Japan Channels
+
+[Green Channel Horse Racing 🐎]
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="green_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png" group-title="PrimehomeTV-JP", グリーンチャンネル 1st // Green Channel Japan [Server 1]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380859&sign=9d4638a19e862512b8d14fd829cd50cde87e11f814d935ceed8d909a39a7935d
+
+#EXTINF:-1 tvg-id="green_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png" group-title="PrimehomeTV-JP", グリーン チャンネル 2nd // Green Channel Japan [Server 2]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380869&sign=861327b87e44836fd463223a9d5f6a4f0c4b4bc370941b640a4dab17fc7099f6
+
+#EXTINF:-1 tvg-id="green_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png" group-title="PrimehomeTV-JP", グリーン チャンネル 3rd // Green Channel Japan [Server 3]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380881&sign=254ff03254a0359422d1f840fa9df41af010411c9df281f9cd6c06e93a40ad2f
+
+#EXTINF:-1 tvg-id="green_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png" group-title="PrimehomeTV-JP", グリーン チャンネル 4th // Green Channel Japan [Server 4]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478a153459837b15f18ee9c139e9c3feaaa5e6454f76a813b10074c1b
+
+[Kansai Test Channels]           
+
+#EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="nhkg_tokyo" tvg-logo="https://i.imgur.com/mAR2Jlh.jpeg", NHK G [Server 1 Test]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380859&sign=9d4638a19e862512b8d14fd829cd50cde87e11f814d935ceed8d909a39a7935d
+
+#EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="nhke_tokyo" tvg-logo="https://i.imgur.com/peRnlJo.jpeg", NHK E [Server 1 Test]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380859&sign=9d4638a19e862512b8d14fd829cd50cde87e11f814d935ceed8d909a39a7935d
+
+#EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="nhkg_tokyo" tvg-logo="https://i.imgur.com/mAR2Jlh.jpeg", NHK G [Server 2 Test]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380940&sign=c2eb10631ba99427b7b64b3d5f6890b7224ac3577940e2c64fba2847fa543b7a
+
+#EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="nhke_tokyo" tvg-logo="https://i.imgur.com/peRnlJo.jpeg", NHK E [Server 2 Test]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380940&sign=c2eb10631ba99427b7b64b3d5f6890b7224ac3577940e2c64fba2847fa543b7a
+
+#EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="nhkg_tokyo" tvg-logo="https://i.imgur.com/mAR2Jlh.jpeg", NHK G [Server 3 Test]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772923&sign=e3cd57265f8a3c811d29db1d597ec3488bd4f5a048550aa8e0176bb58a08a2fd
+
+#EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="nhke_tokyo" tvg-logo="https://i.imgur.com/peRnlJo.jpeg", NHK E [Server 3 Test]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772923&sign=e3cd57265f8a3c811d29db1d597ec3488bd4f5a048550aa8e0176bb58a08a2fd
+
+#EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/TF3Sauu.jpeg", フジテレビ | Fuji TV [Server 1 Test]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380859&sign=9d4638a19e862512b8d14fd829cd50cde87e11f814d935ceed8d909a39a7935d
+
+#EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="ntv" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg",日本テレビ | Nippon TV [Server 1 Test]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380859&sign=9d4638a19e862512b8d14fd829cd50cde87e11f814d935ceed8d909a39a7935d
+
+#EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/TF3Sauu.jpeg", フジテレビ | Fuji TV [Server 2 Test]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380940&sign=c2eb10631ba99427b7b64b3d5f6890b7224ac3577940e2c64fba2847fa543b7a
+
+#EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="ntv" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg",日本テレビ | Nippon TV [Server 2 Test]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380940&sign=c2eb10631ba99427b7b64b3d5f6890b7224ac3577940e2c64fba2847fa543b7a
+
+#EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/TF3Sauu.jpeg", フジテレビ | Fuji TV [Server 3 Test]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772923&sign=e3cd57265f8a3c811d29db1d597ec3488bd4f5a048550aa8e0176bb58a08a2fd
+
+#EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="ntv" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg",日本テレビ | Nippon TV [Server 3 Test]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772923&sign=e3cd57265f8a3c811d29db1d597ec3488bd4f5a048550aa8e0176bb58a08a2fd
+
+#EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="tbs" tvg-logo="https://i.imgur.com/97Eiqg8.jpeg", TBS [Server 1 Test]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380859&sign=9d4638a19e862512b8d14fd829cd50cde87e11f814d935ceed8d909a39a7935d
+
+#EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="tbs" tvg-logo="https://i.imgur.com/97Eiqg8.jpeg", TBS [Server 2 Test]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380940&sign=c2eb10631ba99427b7b64b3d5f6890b7224ac3577940e2c64fba2847fa543b7a
+
+#EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="tbs" tvg-logo="https://i.imgur.com/97Eiqg8.jpeg", TBS [Server 3 Test]
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772923&sign=e3cd57265f8a3c811d29db1d597ec3488bd4f5a048550aa8e0176bb58a08a2fd
