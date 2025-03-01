@@ -888,6 +888,9 @@ https://pixmanxo.mytvsuper.com.mp/mytvsuper/C
 #KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/P
 
+#EXTINF:-1 tvg-id="TVBASIANACTION" tvg-name="TVBASIANACTION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXlBwm7kxH9QEwXonqOFxIKK13lMieW-H0iw&s" group-title="TVB Hong Kong", TVB Asian Action Channel
+http://122.100.138.243:4022/udp/224.1.1.2:1234
+
 #EXTINF:-1 tvg-id="NOW爆谷台" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷台.png" group-title="NOW TV Hong Kong [Test Channel]", Now 爆谷台 // Now Popcorn
 https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="NOW TV Hong Kong [Test Channel]", HBO HK
