@@ -1,6 +1,9 @@
-🉐AWS CDN🉐,#genre#
+🉐AWS CDN🉐,
+
+#genre#
+
 HBO, https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
-Now 爆谷台, https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
+Now爆谷台, https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
 Now爆谷星影台, https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8
 Now直播台, https://dko29we9nm1rd.cloudfront.net/hls/CH331/index.m3u8
 Now新聞台, https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
@@ -26,9 +29,14 @@ Now Sports 652, https://dko29we9nm1rd.cloudfront.net/hls/CH652/index.m3u8
 Premier Sports, https://dko29we9nm1rd.cloudfront.net/hls/CH679/index.m3u8
 Now Sports PLUS, https://dko29we9nm1rd.cloudfront.net/hls/CH680/index.m3u8
 
-🉐AKA CDN🉐,#genre#
+TOTAL : 26 CHANNELS AVAILABLE
+
+🉐AKA CDN🉐,
+
+#genre#
+
 HBO, https://eventcdn02-nowe.akamaized.net/hls/CH115/index.m3u8
-Now 爆谷台, https://eventcdn02-nowe.akamaized.net/hls/CH133/index.m3u8
+Now爆谷台, https://eventcdn02-nowe.akamaized.net/hls/CH133/index.m3u8
 Now爆谷星影台, https://eventcdn02-nowe.akamaized.net/hls/CH138/index.m3u8
 Now直播台, https://eventcdn02-nowe.akamaized.net/hls/CH331/index.m3u8
 Now新聞台, https://eventcdn02-nowe.akamaized.net/hls/CH332/index.m3u8
@@ -53,3 +61,5 @@ Now Sports 651, https://eventcdn02-nowe.akamaized.net/hls/CH651/index.m3u8
 Now Sports 652, https://eventcdn02-nowe.akamaized.net/hls/CH652/index.m3u8
 Premier Sports, https://eventcdn02-nowe.akamaized.net/hls/CH679/index.m3u8
 Now Sports PLUS, https://eventcdn02-nowe.akamaized.net/hls/CH680/index.m3u8
+
+TOTAL : 26 CHANNELS AVAILABLE
