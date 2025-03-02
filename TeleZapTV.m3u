@@ -345,13 +345,13 @@ https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssd
 #EXTINF:-1 cuid="448" tvg-chno="448" tvg-name="Divinity 🇪🇸" tvg-id="Divinity.es" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/Divinity.webp" group-title="TeleZap España", Divinity HD
 http://185.233.16.53/live/UWCPVED8V2/H5gMVveKAHAD/861583&f=.m3u8
 
-#EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="fdf 🇪🇸" tvg-id="Factoría.de.Ficción.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="TeleZap España", FDF TV
+#EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="fdf 🇪🇸" tvg-id="Factoría.de.Ficción.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="TeleZap España", FDF (Server 2)
 http://185.189.225.150:85/fdf/index.m3u8
 
-#EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="fdf 🇪🇸" tvg-id="Factoría.de.Ficción.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="TeleZap España", FDF (Test)
+#EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="fdf 🇪🇸" tvg-id="Factoría.de.Ficción.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="TeleZap España", FDF SD
 https://tvnoov.com/fadoo/fdf.m3u8
 
-#EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="fdf 🇪🇸" tvg-id="Factoría.de.Ficción.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="TeleZap España", FDF (Backup)
+#EXTINF:-1 cuid="446" tvg-chno="446" tvg-name="fdf 🇪🇸" tvg-id="Factoría.de.Ficción.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="TeleZap España", FDF (Server 3)
 http://176.65.146.224:8401/play/a0a9/index.m3u8
 
 #EXTINF:-1 cuid="464" tvg-chno="464" tvg-name="Aragon TV Internacional 🇪🇸 ⚽️" tvg-id="Aragón.TV.Int.es" tvg-logo="http://www.aragontelevision.es/logos/apple-touch-icon.png" group-title="TeleZap España", Aragon TV Internacional
