@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/japan1.xml,https://www.open-epg.com/files/japan2.xml,https://www.open-epg.com/files/japan3.xml"
 
+
 # TVer Live Event Feed (without using any VPN Apps) [test channel]
 
 #EXTM3U
@@ -18,15 +19,12 @@ https://ssai-variants.streaks.jp/v5/tver-simul-tbs/8e4c80725b9842cdb0f6f91260945
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://i.imgur.com/oIfp5K3.jpeg" group-title="TVer Feed", 日本テレビ (TVer) // NipponTV Live Feed
 https://ssai-variants.streaks.jp/v5/tver-simul-ntv/3865af1a962349ceaa5efe46008030db/ed089bc4b7f342b3bc8a7a2567039442/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-174-7969/11427f15-098c-4226-8434-ae8d3766e682/0.m3u8?pdt=-9728&session=11427f15-098c-4226-8434-ae8d3766e682&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibnR2LWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05NzI4In0.ZlMhyllzPYPuPXtaFLiDfJ2GFXUS5hMD9JRCcJK0Cl4
 
-
 # This channel sourced officially from TVer Channels Lineup.
-
-
 
 
 # Primehome TV Japan Channels
 
-[Green Channel Horse Racing 🐎]
+[Green Channel Horse Racing Network via 4 livestream available.]
 
 #EXTM3U
 
