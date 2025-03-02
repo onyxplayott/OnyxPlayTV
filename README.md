@@ -2,7 +2,7 @@
 
 
 
-***SLOGAN : YOUR DIGITAL IPTV PLATFORM  📺 | 📡***
+***SLOGAN : YOUR DIGITAL IPTV PLATFORM  [📺 | 📡]***
 
 
 
