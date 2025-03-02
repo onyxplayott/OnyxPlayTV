@@ -1,3 +1,4 @@
+KOREAN TEST 🇰🇷📡📺: 
 KBS1,http://dqy12.org/hls/1/index.m3u8
 KBS2,http://dqy12.org/hls/2/index.m3u8
 SBS,http://dqy12.org/hls/3/index.m3u8
@@ -11,7 +12,7 @@ TVCHOSUN,http://dqy12.org/hls/10/index.m3u8
 
 
 
-
+KOREAN TEST 🇰🇷📡📺: 
 tvN,http://dqy12.org/hls/11/index.m3u8
 tvN STORY,http://dqy12.org/hls/12/index.m3u8
 YonhapNewsTV,http://dqy12.org/hls/13/index.m3u8
@@ -36,7 +37,7 @@ THEMOVIECHKR,http://dqy12.org/hls/28/index.m3u8
 
 
 
-
+KOREAN TEST 🇰🇷📡📺: 
 iNET.TV,http://dqy12.org/hls/29/index.m3u8
 CHWKR,http://dqy12.org/hls/30/index.m3u8
 FISHINGTVKR,http://dqy12.org/hls/31/index.m3u8
@@ -56,7 +57,7 @@ SBSGOLF,http://dqy12.org/hls/41/index.m3u8
 
 
 
-
+KOREAN TEST 🇰🇷📡📺: 
 IBSPORTS,http://dqy12.org/hls/42/index.m3u8
 BILLIARDSTVKR,http://dqy12.org/hls/43/index.m3u8
 FIGHTSPORTS,http://dqy12.org/hls/44/index.m3u8
