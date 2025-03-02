@@ -6,6 +6,7 @@
 
 
 
+
 ** More channels from TeleZap España will be updated soon into your channel line-up **
 
 #EXTINF:-1 tvg-id="Atreseries" tvg-logo="https://iili.io/Jmoqudg.png" group-title="TeleZap España", A3S HD
@@ -198,7 +199,7 @@ http://185.189.225.150:85/natgeowild/index.m3u8
 #EXTINF:-1 tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" tvg-id="La1.es" group-title="TeleZap España | RTVE Digital Canal", La 1 HD
 https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
 
-#EXTINF:-1 tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" tvg-id="La1.es" group-title="TeleZap España | RTVE Digital Canal", La 1 (DVR)
+#EXTINF:-1 tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" tvg-id="La1.es" group-title="TeleZap España | RTVE Digital Canal", La 1 (Main DVR)
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
 #EXTINF:-1 tvg-name="24h" tvg-logo="https://i.imgur.com/ZKR2jKr.png" tvg-id="24h.es" group-title="TeleZap España | RTVE Digital Canal", 24h
