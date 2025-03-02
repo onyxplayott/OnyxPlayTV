@@ -39,4 +39,4 @@ https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-
 https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/KakoTVKoreanTest.m3u (Links will be changed)
 
 🇯🇵📡 TVer Live Events Channel + Additional Channels are Available 🇯🇵📡:
-https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/TVerPremiumChannel%F0%9F%87%AF%F0%9F%87%B5.m3u
+https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/TVerJAPAN.m3u
