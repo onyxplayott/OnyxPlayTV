@@ -1,10 +1,5 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml,https://www.open-epg.com/files/spain3.xml"
-
-
-
-
-
-
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/spain3.xml"
 
 
 ** More channels from TeleZap España will be updated soon into your channel line-up **
