@@ -181,61 +181,6 @@ http://dqy12.org/hls/16/index.m3u8
 http://iptv12k.com:35461/654321/123456/3218
 #EXTINF:-1 tvg-id="TVCHOSUN1" tvg-name="TVCHOSUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TV_Chosun_Logo_%28English%29.svg/400px-TV_Chosun_Logo_%28English%29.svg.png" group-title="KOREAN PREMIUM", TVCHOSUN (Test)
 http://dqy12.org/hls/10/index.m3u8
-#EXTINF:-1 tvg-id="SkySports.kr" tvg-name="SkySports.kr" tvg-logo="https://i.imgur.com/tdmsXvp.png" group-title="KOREAN PREMIUM", Sky Sports Korea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin: https://kakotv.com
-#EXTVLCOPT:http-referrer=https://kakotv.com
-https://live-114.myjktv.com/watch/live.m3u8?video=sky_sports_540&sid=zzCnNqiGMjgVWYeL4JSf9pwNVLfUL1oWHrLScuET&secret=f7e4d474e415c7e7234add14ce734cc6&time=1737445569
-#EXTINF:-1 tvg-id="SPOTV.kr" tvg-name="SPOTV.kr" tvg-logo="https://i.imgur.com/BRZ8rmA_d.png" group-title="KOREAN PREMIUM", SPOTV KR (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin: https://kakotv.com
-#EXTVLCOPT:http-referrer=https://kakotv.com
-https://live-114.myjktv.com/watch/live.m3u8?video=spotv_540&sid=DpIBUyYIWCsQVAWZP1gcuMzsBsMJBXjQZ4JfsLZn&secret=651e2ebe345f2f18ed051e9e1986d4c0&time=1737592090
-#EXTINF:-1 tvg-id="SPOTV2.kr" tvg-name="SPOTV2.kr" tvg-logo="https://i.imgur.com/TVZAt4l.png" group-title="KOREAN PREMIUM", SPOTV2 KR (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin: https://kakotv.com
-#EXTVLCOPT:http-referrer=https://kakotv.com/
-https://live-114.myjktv.com/watch/live.m3u8?video=spotv_2_540&sid=Py9aPLMfZWLPQP5NovAwjxHaA4AfGK0eWH1MyydZ&secret=e87de948437f943a64e37a6f5d69c3b3&time=1737445889
-#EXTINF:-1 tvg-id="SPOTV PRIME 유료.kr" tvg-name="SPOTV PRIME 유료.kr" tvg-logo="https://i.imgur.com/Cd9owhj.png" group-title="KOREAN PREMIUM", SPOTV Prime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin: https://kakotv.com
-#EXTVLCOPT:http-referrer=https://kakotv.com/
-https://live-114.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=kDzPWhbsOBLWAR3XjL08ocZ2kFGlcALMUTy0IpLe&secret=5377105d9aac6c72a8ac465307824190&time=1737446130
-#EXTINF:-1 tvg-id="SPOTV PRIME2 유료.kr" tvg-name="SPOTV PRIME2 유료.kr" tvg-logo="https://i.imgur.com/u2tbWxo.png" group-title="KOREAN PREMIUM", SPOTV Prime 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin: https://kakotv.com
-#EXTVLCOPT:http-referrer=https://kakotv.com/
-https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=spotv_on2_540&sid=42RmPnIZBCBZPthgYA4Ve2DlukLZB1yF7LGk3PQP&secret=59bde1d8af48fba605462eb56041e220&time=1737592763
-#EXTINF:-1 tvg-id="SPOTV PRIME+ 유료.kr" tvg-name="SPOTV PRIME+ 유료.kr" tvg-logo="https://i.imgur.com/YD3LGlK.png" group-title="KOREAN PREMIUM", SPOTV Prime+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin: https://kakotv.com
-#EXTVLCOPT:http-referrer=https://kakotv.com/
-https://live-114.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=7Z3uWdN4n8Y5icBbIE0RBX4UR3kVYqbMhHCca5Xb&secret=24322b62c305a9c38b4a9d5f66fd70e3&time=1737592472
-#EXTINF:-1 tvg-id="KBS N Sports.kr" tvg-name="KBS N Sports.kr" tvg-logo="https://i.imgur.com/THFiWik.png" group-title="KOREAN PREMIUM", KBSN Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin: https://kakotv.com
-#EXTVLCOPT:http-referrer=https://kakotv.com
-https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=PblIb3m2T4yezxGJjXZyHT4OBveX2x14ZfsWNzT6&secret=7123ee7ebfa5269848adbd93d9d648c2&time=1736774841
-#EXTINF:-1 tvg-id="JTBC Golf.kr" tvg-name="JTBC Golf.kr" tvg-logo="https://i.imgur.com/pYMFdHY.png" group-title="KOREAN PREMIUM", JTBC Golf (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin: https://kakotv.com
-#EXTVLCOPT:http-referrer=https://kakotv.com/
-https://live-114.myjktv.com/watch/live.m3u8?video=jtbc_golf_540&sid=BxotbSw4GMjkEbsj5mgC6OO2A9EGNNoipPiEc1q4&secret=d759cf24ba7b22c90cc6d1332bd447cc&time=1737592216
-#EXTINF:-1 tvg-id="JTBC GOLFandSPORTS.kr" tvg-name="JTBC GOLFandSPORTS.kr" tvg-logo="https://i.imgur.com/LCdJ8h7.png" group-title="KOREAN PREMIUM", JTBC Golf & Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin: https://kakotv.com
-#EXTVLCOPT:http-referrer=https://kakotv.com/
-https://live-114.myjktv.com/watch/live.m3u8?video=jtbc_3_540&sid=Nr8sOwsIzDozjkRK8PJQJXAnFeVFQLVwBs7xQvox&secret=e6f46ca2efbb2e42a50ec2670954305e&time=1737592550
-#EXTINF:-1 tvg-id="SBS Sports.kr" tvg-name="SBS Sports.kr" tvg-logo="https://i.imgur.com/o4T3y29.png" group-title="KOREAN PREMIUM", SBS Sports (Backup),
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin: https://kakotv.com
-#EXTVLCOPT:http-referrer=https://kakotv.com/
-https://live-114.myjktv.com/watch/live.m3u8?video=sbs_sports_540&sid=4JlAhJxaMLTwh8GRRdJ2GT9FJ809DY85hgrMx2sJ&secret=a89ffb1cd591ec29840829659e469808&time=1737592672
-#EXTINF:-1 tvg-id="SBSGOLF.kr" tvg-name="SBSGOLF.kr" tvg-logo="https://i.imgur.com/IcsyVBx.png" group-title="KOREAN PREMIUM", SBS Golf (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin: https://kakotv.com
-#EXTVLCOPT:http-referrer=https://kakotv.com/
-https://live-114.myjktv.com/watch/live.m3u8?video=sbs_golf_540&sid=3O8OYpGEy6k6danQLfORaXW2fAx6UxcyRJ2cnRS4&secret=0459a2221295ab695881bd097c2d0403&time=1737592716
 #EXTINF:-1 tvg-id="tvN SPORTS.kr" tvg-name="tvN SPORTS.kr" tvg-logo="https://i.imgur.com/0Nraumw.png" group-title="KOREAN PREMIUM", tvN SPORTS Korea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:http-header=Origin: https://kakotv.com
