@@ -232,13 +232,6 @@ https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-
 
 
 
-⚔️📡🇰🇷 KAKOTV KOREAN FREE & PREMIUM CHANNELS 📡🇰🇷⚔️: 
-
-https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/KakoTVKoreanTest.m3u (Links will be changed)
-
-
-
-
 🇯🇵📡 TVer Live Events Channel + Additional Channels are Available 🇯🇵📡: 
 
 https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/TVerJAPAN.m3u
