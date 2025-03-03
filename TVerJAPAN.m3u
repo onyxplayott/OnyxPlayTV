@@ -89,3 +89,15 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=6&bi
 
 #EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="tbs" tvg-logo="https://i.imgur.com/97Eiqg8.jpeg", TBS [Server 3 Test]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772923&sign=e3cd57265f8a3c811d29db1d597ec3488bd4f5a048550aa8e0176bb58a08a2fd
+
+
+
+
+#EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="yomiuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ // Yomiuri TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=06&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", サンテレビジョン // SunTV Hyogo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=06&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/640px-MTV_2021_%28brand_version%29.svg.png", MTV Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=06&bind=0&uin=159413&playseek=0
