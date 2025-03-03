@@ -207,7 +207,7 @@ https://bit.ly/3EqSXx3
 
 
 
-🟢🔴 🄼🄾🅅🄴🄾🄽🄹🄾🅈🅃🅅 🅄🅂🄰 ✓🔴🟢: https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/PANGLIMATV_%20MOVEONJOYTV.m3u
+🟢🔴 🄼🄾🅅🄴🄾🄽🄹🄾🅈🅃🅅 🅄🅂🄰 ✓🔴🟢: https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/PANGLIMATV_MOVEONJOYTV.m3u
 
 
 
