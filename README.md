@@ -37,12 +37,12 @@
 
 
 
-***🎥🍿: VOD MOVIES (NOT UPDATED YET)***
+***🎥🍿: VOD MOVIES (COMING SOON)***
 
 
 
 
-***📺🍿: VOD SERIES (COMING SOON TBA)***
+***📺🍿: VOD SERIES (COMING SOON)***
 
 
 
