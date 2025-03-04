@@ -1,6 +1,7 @@
 # TVer Live Event Feed (without using any VPN Apps) [test channel]
 
 #EXTM3U
+
 #EXTINF:-1 tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="TVer Feed", テレビ東京 (TVer) // TVTokyo Live Feed
 https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/6ee6105c-b3ca-47f5-b98a-2ff3d4edec71/0.m3u8?pdt=-11427&session=6ee6105c-b3ca-47f5-b98a-2ff3d4edec71&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTExNDI3In0.1tyMmRb_Mw7y6l3Keuf5P7Xr8U8iX_iNtwsOaBl8exE
 
@@ -19,9 +20,11 @@ https://ssai-variants.streaks.jp/v5/tver-simul-ntv/3865af1a962349ceaa5efe4600803
 # This channel sourced officially from TVer Channels Lineup.
 
 
+
+
 # Primehome TV Japan Channels
 
-[Green Channel Horse Racing Network via 4 livestream available.]
+[Green Channel Horse Racing Channels via 4 different livestream are available.]
 
 #EXTM3U
 
@@ -37,7 +40,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bi
 #EXTINF:-1 tvg-id="green_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png" group-title="PrimehomeTV-JP", グリーン チャンネル 4th // Green Channel Japan [Server 4]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380901&sign=ea0ac4f478a153459837b15f18ee9c139e9c3feaaa5e6454f76a813b10074c1b
 
-[Kansai Test Channels]           
+[Local Kansai Test Channels]           
 
 #EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="nhkg_tokyo" tvg-logo="https://i.imgur.com/mAR2Jlh.jpeg", NHK G [Server 1 Test]
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=6&bind=0&uin=159413&playseek=0&timestamp=1732380859&sign=9d4638a19e862512b8d14fd829cd50cde87e11f814d935ceed8d909a39a7935d
@@ -104,6 +107,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=06&b
 
 #EXTINF:-1 group-title="PrimehomeTV-JP" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/640px-MTV_2021_%28brand_version%29.svg.png", MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=06&bind=0&uin=159413&playseek=0
+
 
 # Japan Variety Sports CH
 
