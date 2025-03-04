@@ -807,11 +807,8 @@ https://edge2a.v2h-cdn.com/boom_anime/boom_anime.stream/playlist.m3u8
 ========================================================
                         # RESERVED SPACE #
 ========================================================
-#EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="TVB Hong Kong", myTV SUPER CH18 (Horse Racing 🐎)
-http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-
 #EXTINF:-1 tvg-id="myTV-28-AI" tvg-name="myTV SUPER 28 AI 智慧賽馬" tvg-logo="https://assets.livednow.com/logo/myTV-28-AI.png" group-title="TVB Hong Kong", myTV SUPER 28AI (Horse Racing 🐎)
-http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+http://aktv_stream1.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="TVB Hong Kong", TVB 翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
