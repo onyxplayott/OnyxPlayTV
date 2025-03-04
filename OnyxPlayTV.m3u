@@ -819,6 +819,9 @@ http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
 https://pixmanxo.mytvsuper.com.mp/mytvsuper/J
 
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="TVB Hong Kong", TVB 翡翠台 (Backup)
+http://v2hcdn.jdshipin.com/jade2/jade.stream/chunklist_w1008.m3u8
+
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台 4K" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="TVB Hong Kong", TVB 翡翠台 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -846,6 +849,8 @@ https://pixmanxo.mytvsuper.com.mp/mytvsuper/P
 #EXTINF:-1 tvg-id="TVBASIANACTION" tvg-name="TVBASIANACTION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXlBwm7kxH9QEwXonqOFxIKK13lMieW-H0iw&s" group-title="TVB Hong Kong", TVB Asian Action Channel
 http://122.100.138.243:4022/udp/224.1.1.2:1234
 
+#EXTINF:-1 tvg-id="TVBASIANACTION" tvg-name="TVBASIANACTION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXlBwm7kxH9QEwXonqOFxIKK13lMieW-H0iw&s" group-title="TVB Hong Kong", TVB Asian Action Channel (Backup)
+http://v2hcdn.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w1001.m3u8
 #EXTINF:-1 tvg-id="NOW爆谷台" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷台.png" group-title="NOW TV Hong Kong [Test Channel]", Now 爆谷台 // Now Popcorn
 https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="NOW TV Hong Kong [Test Channel]", HBO HK
